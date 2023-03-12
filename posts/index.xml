@@ -4,6 +4,17 @@
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Tous Posts | Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🎮 [10/03/2023] Night In The Woods</title>
+    <link>https://thomas-louvigne.github.io/posts/night-in-the-wood/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/night-in-the-wood/</guid>
+    <description><![CDATA[Suite au débat sur Hogward Legacy et sa créatrice problématique transphobe, je voulais vous parler du jeu Night In The Woods.
+Bon, Night in the Woods, est l&#39;un de mes jeux préférés :
+C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.
+Les décores sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
+</item>
+<item>
     <title>📚 [10/03/2023] J&#39;ai lu &#34;Le projet Unicorn&#34; de Gene Kim</title>
     <link>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -56,7 +67,7 @@ J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à 
 Habitica : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude. Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable. Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile. Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé.]]></description>
 </item>
 <item>
-    <title>[31/07/2022] GoXLR sur linux</title>
+    <title>🐧 [31/07/2022] GoXLR sur linux</title>
     <link>https://thomas-louvigne.github.io/posts/goxlr-linux/</link>
     <pubDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -67,29 +78,20 @@ Le lien du projet est là . J&#39;ai meme 2 PR sur le projet qui ont été accep
 Et y a un discord aussi très sympatique.]]></description>
 </item>
 <item>
-    <title>[31/07/2022] Mes derniers jeux</title>
+    <title>🎮 [30/07/2022] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</link>
-    <pubDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</pubDate>
+    <pubDate>Sat, 30 Jul 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</guid>
     <description><![CDATA[Dying Light 2 - Stay Humain : L&#39;histoire est nul mais faire du parkour et casser la tete des zombie est hyper jouissif. 7/10 Castle Crasher : Se joue a 2. (en l&#39;occurence avec ma copine), c&#39;est un grand OUI. 9/10 Chernobilyte : Pas mal , de bonnes idées, une ambiance et un sénar qui tiennent la route, Mais le theme vraiment dark me fait déprimer. 7/10 Prison Architect : Relancé pour la 10e fois.]]></description>
 </item>
 <item>
-    <title>[28/03/2022] Mes derniers jeux</title>
+    <title>🎮 [28/03/2022] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</link>
     <pubDate>Mon, 28 Mar 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</guid>
     <description><![CDATA[ Castle Crasher : A jouer à 2, excellent : 9/10 GTA IV : Balade de gay tony : lent, j&#39;ai joué 1h, je me suis ennuyé. Ca à mal viellit. 2/10 Graveyard Keeper : Excellent : 9/10 Train Valley : Envoutant 8 / 10 Out Of Space : Sympas. A jouer à 2 minimum : 6/10 Haven RPG a jouer à 2 . Chiant : 2/10 Head Lander : Aucun intéret : 3/10 Tetris Effect : Faible : 4/10 Kingdome NewLand : J&#39;ai pas compris : 3/10 ]]></description>
-</item>
-<item>
-    <title>[23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
-    <link>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[Voilllà, je voulais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je vous partage mes observations de gros rageux sur ce qui ne marche ou pas sur ce que je vois au quotidien.
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustration qutotidiennes issus de boite qui veulent faire de l&#39;agile / qui disent/ faire de l&#39;agile.]]></description>
 </item>
 </channel>
 </rss>

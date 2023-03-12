@@ -2,10 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://thomas-louvigne.github.io/posts/night-in-the-wood/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/agilit%C3%A9/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/culture-entreprise/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/livre/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/ops/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
@@ -26,10 +28,9 @@
             <loc>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</loc><lastmod>2022-09-30T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/organisation/</loc><lastmod>2022-09-30T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/goxlr-linux/</loc><lastmod>2022-07-31T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</loc><lastmod>2022-07-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/goxlr/</loc><lastmod>2022-07-31T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2022-07-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/linux/</loc><lastmod>2022-07-31T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</loc><lastmod>2022-07-30T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</loc><lastmod>2022-03-28T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</loc><lastmod>2022-01-28T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/derniers-jeux-01-22/</loc><lastmod>2022-01-28T00:00:00&#43;00:00</lastmod></url><url>
