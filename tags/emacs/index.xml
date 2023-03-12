@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>emacs - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/emacs/</link>
+        <description>emacs - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/emacs/" rel="self" type="application/rss+xml" /><item>
+    <title>[18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
+    <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
+    <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</guid>
+    <description><![CDATA[J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
+Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
+J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
+</item>
+<item>
+    <title>[24/01/2020] Pourquoi EMACS est la meilleur des religions:</title>
+    <link>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</link>
+    <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</guid>
+    <description><![CDATA[TOUT peut se faire dans le terminal ⤵ Il y a un terminal dans EMACS ⤴ EMACS est légé 🌬 En terme de RAM &amp; co, j&#39;ai pas vu mieux EMACs est un packet-manager (melpa) ultra riche (4415 packages) EMACS est un logiciel ET un language de programmation, ca peut parraitre mindblow, mais c&#39;est la puissance de LISP . EMACS est ultra moderne: Tout ce que font les IDE de mes collègues, je peux le faire EMACS est ultra vieux 👴.]]></description>
+</item>
+</channel>
+</rss>

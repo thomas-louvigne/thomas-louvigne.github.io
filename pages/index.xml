@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Le blog de Thomas Louvigné</title>
+    <link>https://thomas-louvigne.github.io/pages/</link>
+    <description>Recent content in Pages on Le blog de Thomas Louvigné</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orthographe !</title>
+      <link>https://thomas-louvigne.github.io/pages/ortographe/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas-louvigne.github.io/pages/ortographe/</guid>
+      <description>Je fais de nombreuses faute d&amp;#39;orthographe, c&amp;#39;est un fait. La faute à ma dyslexie ? Au fait que cela ne m&amp;#39;intéresse pas ? Que je n&amp;#39;ai pas le temps de m&amp;#39;en occuper ? Honnetement je n&amp;#39;en sais rien, mais je ne compte pas vraiment prendre du temps sur ce sujet.
+Si jamais cela vous chagrine trop et que vous voulez les corriger, pas de soucis, faites vous plaisir, corrigez les et renvoyez moi ces articles en commentaire avec les fautes corrigés !</description>
+    </item>
+    
+  </channel>
+</rss>

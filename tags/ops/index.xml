@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ops - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/ops/</link>
+        <description>ops - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/ops/" rel="self" type="application/rss+xml" /><item>
+    <title>📚 [10/03/2023] J&#39;ai lu &#34;Le projet Unicorn&#34; de Gene Kim</title>
+    <link>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
+    <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
+</item>
+</channel>
+</rss>

@@ -3,17 +3,24 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>[02/03/2023] J&#39;ai lu &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin</title>
+    <title>📚 [10/03/2023] J&#39;ai lu &#34;Le projet Unicorn&#34; de Gene Kim</title>
+    <link>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
+    <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
+</item>
+<item>
+    <title>📚 [02/03/2023] J&#39;ai lu &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin</title>
     <link>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</link>
     <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</guid>
-    <description><![CDATA[J&#39;ai terminé &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin (L&#39;ancien bosse de ma boite / OCTO Technology). Sortir une critique quand il était encore PDG aurait fait de moi un lèche botte. Maintenant qu&#39;il est parti, je peux me permettre d&#39;être plus &#34;vrais&#34; et d&#39;expliquer pourquoi c&#39;est un bon livre :
-La forme : Le livre se lit très vite, tout en étant très complet :
-La moitié du livre Parle de OCTO (Son fonctionnement et sa culture) 1/4 du livre parle des échecs d&#39;OCTO 1/4 du livre parle des doutes de Ludo vis a vis du management et de la culture Et il n&#39;y a as de conclusion !]]></description>
+    <description><![CDATA[J&#39;ai terminé &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin (L&#39;ancien bosse de ma boite / OCTO Technology). Sortir une critique quand il était encore PDG aurait fait de moi un lèche botte ! Maintenant qu&#39;il est parti, je peux me permettre d&#39;être plus &#34;vrais&#34; et d&#39;expliquer pourquoi c&#39;est un très bon livre
+TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises Par qui ?]]></description>
 </item>
 <item>
     <title>[01/03/2023] Hello, je relance mon blog perso &amp; pro !</title>
@@ -34,12 +41,12 @@ Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, s
 J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
 </item>
 <item>
-    <title>[07/12/2022] Mes derniers jeux</title>
+    <title>[07/12/2022] Convication agiliste</title>
     <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
-    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Mais partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend. Et les projets ralentissent. Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
+    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
 </item>
 <item>
     <title>[30/09/2022] S&#39;organiser dans sa vie perso :</title>

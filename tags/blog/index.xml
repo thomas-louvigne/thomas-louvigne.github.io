@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>blog - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/blog/</link>
+        <description>blog - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>[01/03/2023] Hello, je relance mon blog perso &amp; pro !</title>
+    <link>https://thomas-louvigne.github.io/posts/relance-le-blog/</link>
+    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/relance-le-blog/</guid>
+    <description><![CDATA[Juste pour dire que je relancais ce blog. En passant sur hugo pour que ce soit un peu plus jolie quand même. En espérant que ca vous plaise.]]></description>
+</item>
+<item>
+    <title>[24/01/2020] Bienvenue !</title>
+    <link>https://thomas-louvigne.github.io/posts/bienvenue/</link>
+    <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/bienvenue/</guid>
+    <description><![CDATA[Je lance ce blog !
+Il y a 9 chances sur 10 pour qu&#39;il ne soit jamais maintenue mais qu&#39;importe, dans le doute, ca peut marcher !]]></description>
+</item>
+</channel>
+</rss>
