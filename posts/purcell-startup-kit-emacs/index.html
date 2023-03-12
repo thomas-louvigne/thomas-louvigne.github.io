@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>[18/01/2023] Purcell est un des meillieurs startup kit de emacs - Le blog de Thomas Louvigné</title><meta name="Description" content="Jeux-Vidéo, Tech, Agilité et simplicité de vie."><meta property="og:title" content="[18/01/2023] Purcell est un des meillieurs startup kit de emacs" />
+<meta property="og:description" content="J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
+Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
+J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-01-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-01-18T00:00:00+00:00" /><meta property="og:site_name" content="Thomas Louvigné" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="[18/01/2023] Purcell est un des meillieurs startup kit de emacs"/>
+<meta name="twitter:description" content="J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
+Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
+J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut."/>
+<meta name="application-name" content="My cool site">
+<meta name="apple-mobile-web-app-title" content="My cool site"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/" /><link rel="prev" href="https://thomas-louvigne.github.io/posts/convictions-agiliste/" /><link rel="next" href="https://thomas-louvigne.github.io/posts/relance-le-blog/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "[18/01/2023] Purcell est un des meillieurs startup kit de emacs",
+        "inLanguage": "fr",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/thomas-louvigne.github.io\/posts\/purcell-startup-kit-emacs\/"
+        },"genre": "posts","wordcount":  166 ,
+        "url": "https:\/\/thomas-louvigne.github.io\/posts\/purcell-startup-kit-emacs\/","datePublished": "2023-01-18T00:00:00+00:00","dateModified": "2023-01-18T00:00:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Thomas Louvigné"
+            },"description": ""
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Le blog de Thomas Louvigné">Thomas Louvigné<span class="header-title-post">: Tech, Agile et Jeux vidéo</span></a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/" title="Articles"> Articles </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Changer de Thème">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Le blog de Thomas Louvigné">Thomas Louvigné<span class="header-title-post">: Tech, Agile et Jeux vidéo</span></a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="Articles">Articles</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Changer de Thème">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contenu</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">[18/01/2023] Purcell est un des meillieurs startup kit de emacs</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://thomas-louvigne.github.io/" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Thomas Louvigné</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-01-18">2023-01-18</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;166 mots&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;Une minute&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>Contenu</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+<ul>
+<li><a href="#headline-1">J&#39;aime :</a>
+</li>
+<li><a href="#headline-2">J&#39;aime pas :</a>
+</li>
+</ul>
+</nav></div>
+            </div><div class="content" id="content">
+<p>
+J&#39;ai tenté de passé sur <a href="https://github.com/doomemacs/doomemacs">Doom emacs</a> et sur <a href="https://github.com/syl20bnr/spacemacs/tree/develop">SpaceMacs</a> mais leur evile mode (bindings de Vi) par défaut est chiant.
+Le retour au God Mode (keybinding de emacs vanilla) est mal fichue.
+Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.</p>
+<p>
+Le starterkit <a href="https://github.com/purcell/emacs.d">Purcell</a>, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.</p>
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+J&#39;aime :
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<ul>
+<li>Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à <a href="https://st.suckless.org/">st</a> par aillieurs)</li>
+<li>Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs)</li>
+<li>Son coté &#34;juste ce qu&#39;il faut&#34;</li>
+<li>Les bindings emacs vanilla et intelligent</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+J&#39;aime pas :
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<ul>
+<li>L&#39;autoparens qui est activé par défaut. (Mais ca c&#39;est une plaie qu&#39;on trouve sur tout les IDE actuel)</li>
+<li>LGG C-[arrow] qui switch de buffer au lieu de passer de mot en mot (du coup, faut apprandre à utiliser M-f et M-b)</li>
+</ul>
+<p>Pour ceux que ca intéresse, y a une liste de starterkit d&#39;emacs dispo <a href="https://www.emacswiki.org/emacs/StarterKits">ici</a> :</p>
+</div>
+</div>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Mis à jour le 2023-01-18</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Partager sur Twitter" data-sharer="twitter" data-url="https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/" data-title="[18/01/2023] Purcell est un des meillieurs startup kit de emacs" data-via="thomas_louvigne"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Partager sur Linkedin" data-sharer="linkedin" data-url="https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/"><i class="fab fa-linkedin fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Retour</a></span>&nbsp;|&nbsp;<span><a href="/">Accueil</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/convictions-agiliste/" class="prev" rel="prev" title="[07/12/2022] Mes derniers jeux"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>[07/12/2022] Mes derniers jeux</a>
+            <a href="/posts/relance-le-blog/" class="next" rel="next" title="[01/03/2023] Hello, je relance mon blog perso &amp; pro !">[01/03/2023] Hello, je relance mon blog perso & pro !<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></div>
+            </main></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Retour en Haut">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="Afficher les Commentaires">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copier dans le presse-papiers","maxShownLines":50},"comment":{}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
