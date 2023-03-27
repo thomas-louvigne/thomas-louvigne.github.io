@@ -3,7 +3,23 @@
         <title>Tags - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/</link>
         <description>Tags - Balise - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>jeux-vidéo</title>
+    <link>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</link>
+    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>nil</title>
+    <link>https://thomas-louvigne.github.io/tags/nil/</link>
+    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/nil/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>agile</title>
     <link>https://thomas-louvigne.github.io/tags/agile/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -25,14 +41,6 @@
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/tags/culture-entreprise/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>jeux-vidéo</title>
-    <link>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -73,14 +81,6 @@
     <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/tags/culture/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>blog</title>
-    <link>https://thomas-louvigne.github.io/tags/blog/</link>
-    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/blog/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

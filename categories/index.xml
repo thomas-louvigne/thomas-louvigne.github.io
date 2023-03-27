@@ -3,5 +3,13 @@
         <title>Categories - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/</link>
         <description>Categories - Catégorie - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://thomas-louvigne.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>nil</title>
+    <link>https://thomas-louvigne.github.io/categories/nil/</link>
+    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/nil/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
