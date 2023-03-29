@@ -42,7 +42,7 @@ Les décores sont magnifiques, la musique est parfaite, les personnages sont tr�
 TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises Par qui ?]]></description>
 </item>
 <item>
-    <title>[01/03/2023] Hello, je relance mon blog perso &amp; pro !</title>
+    <title>🔧 [01/03/2023] Hello, je relance mon blog perso &amp; pro !</title>
     <link>https://thomas-louvigne.github.io/posts/relance-le-blog/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -50,7 +50,7 @@ TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? 
     <description><![CDATA[Juste pour dire que je relancais ce blog. En passant sur hugo pour que ce soit un peu plus jolie quand même. En espérant que ca vous plaise.]]></description>
 </item>
 <item>
-    <title>[18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
+    <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
     <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
     <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -60,7 +60,7 @@ Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, s
 J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
 </item>
 <item>
-    <title>[07/12/2022] Convication agiliste</title>
+    <title>🤹 [07/12/2022] Convication agiliste</title>
     <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -68,7 +68,7 @@ J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à 
     <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
 </item>
 <item>
-    <title>[30/09/2022] S&#39;organiser dans sa vie perso :</title>
+    <title>🗒 [30/09/2022] S&#39;organiser dans sa vie perso :</title>
     <link>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</link>
     <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -104,21 +104,21 @@ Et y a un discord aussi très sympatique.]]></description>
     <description><![CDATA[Castle Crasher / Beat Them All : A jouer à 2, excellent : 9/10 GTA IV / GTA-like : Balade de gay tony : lent, j&#39;ai joué 1h, je me suis ennuyé. Ca à mal viellit. 2/10 Graveyard Keeper / Gestion de cimetiere : Excellent : 9/10 Train Valley Gestion de gare : Envoutant 8 / 10 Out Of Space Gestion de rangement : Sympas. A jouer à 2 minimum : 6/10 Haven RPG RPG / a jouer à 2 .]]></description>
 </item>
 <item>
-    <title>[23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
-    <link>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[Voilllà, je voulais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je vous partage mes observations de gros rageux sur ce qui ne marche ou pas sur ce que je vois au quotidien.
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustration qutotidiennes issus de boite qui veulent faire de l&#39;agile / qui disent/ faire de l&#39;agile.]]></description>
-</item>
-<item>
     <title>🎮 [28/01/2022] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-01-22/</link>
     <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/derniers-jeux-01-22/</guid>
     <description><![CDATA[Célest / Plateformer : un jeu de plateforme Hardcore. J&#39;ai beau pas aimé les plateformers. Là c&#39;est superbe. 8/10 Factorio / Gestion d&#39;usine : Bien que moche, le jeu est sympas. Ultra adictif. 8/10 Vampyr / RPG : Sympas. Mais un peu chiant: L&#39;ambiance est très bonne. mais les aller / retour dans la villes sont vite chiant. Le personnage principale manque de charisme 6.5/10 It take two / Plateformer : Un Plateformers en coop.]]></description>
+</item>
+<item>
+    <title>🤹 [23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
+    <link>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</link>
+    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
+    <description><![CDATA[Voilllà, je voulais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je vous partage mes observations de gros rageux sur ce qui ne marche ou pas sur ce que je vois au quotidien.
+⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustration qutotidiennes issus de boite qui veulent faire de l&#39;agile / qui disent/ faire de l&#39;agile.]]></description>
 </item>
 <item>
     <title>🎮 [28/11/2021] Mes derniers jeux</title>
@@ -156,21 +156,21 @@ Mais, pour l&#39;instant, mon jeu du confinement, ça reste &#34;Yakuza like a d
 La baston est rigolote bien qu&#39;un peu répétitif. Le tout saupoudré de mini-jeux très très sympa !]]></description>
 </item>
 <item>
-    <title>[24/01/2020] Bienvenue !</title>
-    <link>https://thomas-louvigne.github.io/posts/bienvenue/</link>
-    <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/bienvenue/</guid>
-    <description><![CDATA[Je lance ce blog !
-Il y a 9 chances sur 10 pour qu&#39;il ne soit jamais maintenue mais qu&#39;importe, dans le doute, ca peut marcher !]]></description>
-</item>
-<item>
-    <title>[24/01/2020] Pourquoi EMACS est la meilleur des religions:</title>
+    <title>🐎 [24/01/2020] Pourquoi EMACS est la meilleur des religions :</title>
     <link>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</link>
     <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</guid>
     <description><![CDATA[TOUT peut se faire dans le terminal ⤵ Il y a un terminal dans EMACS ⤴ EMACS est légé 🌬 En terme de RAM &amp; co, j&#39;ai pas vu mieux EMACs est un packet-manager (melpa) ultra riche (4415 packages) EMACS est un logiciel ET un language de programmation, ca peut parraitre mindblow, mais c&#39;est la puissance de LISP . EMACS est ultra moderne: Tout ce que font les IDE de mes collègues, je peux le faire EMACS est ultra vieux 👴.]]></description>
+</item>
+<item>
+    <title>🔧 [23/01/2020] Bienvenue !</title>
+    <link>https://thomas-louvigne.github.io/posts/bienvenue/</link>
+    <pubDate>Thu, 23 Jan 2020 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/bienvenue/</guid>
+    <description><![CDATA[Je lance ce blog !
+Il y a 9 chances sur 10 pour qu&#39;il ne soit jamais maintenue mais qu&#39;importe, dans le doute, ca peut marcher !]]></description>
 </item>
 </channel>
 </rss>

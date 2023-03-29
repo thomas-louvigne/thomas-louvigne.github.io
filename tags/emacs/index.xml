@@ -4,7 +4,7 @@
         <link>https://thomas-louvigne.github.io/tags/emacs/</link>
         <description>emacs - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/emacs/" rel="self" type="application/rss+xml" /><item>
-    <title>[18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
+    <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
     <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
     <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
@@ -14,7 +14,7 @@ Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, s
 J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
 </item>
 <item>
-    <title>[24/01/2020] Pourquoi EMACS est la meilleur des religions:</title>
+    <title>🐎 [24/01/2020] Pourquoi EMACS est la meilleur des religions :</title>
     <link>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</link>
     <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>

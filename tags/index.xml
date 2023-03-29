@@ -20,22 +20,6 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>agilité</title>
-    <link>https://thomas-louvigne.github.io/tags/agilit%C3%A9/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/agilit%C3%A9/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>culture-entreprise</title>
-    <link>https://thomas-louvigne.github.io/tags/culture-entreprise/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/culture-entreprise/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>livre</title>
     <link>https://thomas-louvigne.github.io/tags/livre/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -68,19 +52,35 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>culture</title>
-    <link>https://thomas-louvigne.github.io/tags/culture/</link>
-    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/culture/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>blog</title>
     <link>https://thomas-louvigne.github.io/tags/blog/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/tags/blog/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emacs</title>
+    <link>https://thomas-louvigne.github.io/tags/emacs/</link>
+    <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/emacs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>agilté</title>
+    <link>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</link>
+    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>organisation</title>
+    <link>https://thomas-louvigne.github.io/tags/organisation/</link>
+    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/organisation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
