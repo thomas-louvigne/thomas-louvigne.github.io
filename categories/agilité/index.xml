@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>agilité - Catégorie - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</link>
+        <description>agilité - Catégorie - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agilit%C3%A9/" rel="self" type="application/rss+xml" /><item>
+    <title>📚 [02/03/2023] J&#39;ai lu &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin</title>
+    <link>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</link>
+    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</guid>
+    <description><![CDATA[J&#39;ai terminé &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin (L&#39;ancien bosse de ma boite / OCTO Technology). Sortir une critique quand il était encore PDG aurait fait de moi un lèche botte ! Maintenant qu&#39;il est parti, je peux me permettre d&#39;être plus &#34;vrais&#34; et d&#39;expliquer pourquoi c&#39;est un très bon livre
+TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises Par qui ?]]></description>
+</item>
+<item>
+    <title>[07/12/2022] Convication agiliste</title>
+    <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
+    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
+    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
+</item>
+</channel>
+</rss>

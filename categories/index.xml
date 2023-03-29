@@ -4,11 +4,59 @@
         <link>https://thomas-louvigne.github.io/categories/</link>
         <description>Categories - Catégorie - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>nil</title>
-    <link>https://thomas-louvigne.github.io/categories/nil/</link>
+    <title>jeux-video</title>
+    <link>https://thomas-louvigne.github.io/categories/jeux-video/</link>
     <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate>
     <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/categories/nil/</guid>
+    <guid>https://thomas-louvigne.github.io/categories/jeux-video/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>lecture</title>
+    <link>https://thomas-louvigne.github.io/categories/lecture/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/lecture/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>agilité</title>
+    <link>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</link>
+    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>blog</title>
+    <link>https://thomas-louvigne.github.io/categories/blog/</link>
+    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/blog/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>technique</title>
+    <link>https://thomas-louvigne.github.io/categories/technique/</link>
+    <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/technique/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>organisation</title>
+    <link>https://thomas-louvigne.github.io/categories/organisation/</link>
+    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/organisation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>jeu-video</title>
+    <link>https://thomas-louvigne.github.io/categories/jeu-video/</link>
+    <pubDate>Sun, 29 Nov 2020 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/categories/jeu-video/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
