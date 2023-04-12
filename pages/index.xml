@@ -8,13 +8,14 @@
     <language>fr</language>
     <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Orthographe !</title>
-      <link>https://thomas-louvigne.github.io/pages/ortographe/</link>
+      <title>Software List</title>
+      <link>https://thomas-louvigne.github.io/pages/software-list/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thomas-louvigne.github.io/pages/ortographe/</guid>
-      <description>Je fais de nombreuses faute d&amp;#39;orthographe, c&amp;#39;est un fait. La faute à ma dyslexie ? Au fait que cela ne m&amp;#39;intéresse pas ? Que je n&amp;#39;ai pas le temps de m&amp;#39;en occuper ? Honnetement je n&amp;#39;en sais rien, mais je ne compte pas vraiment prendre du temps sur ce sujet.
-Si jamais cela vous chagrine trop et que vous voulez les corriger, pas de soucis, faites vous plaisir, corrigez les et renvoyez moi ces articles en commentaire avec les fautes corrigés !</description>
+      <guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
+      <description>Voici la liste des logiciels que j&amp;#39;utilise.
+Derniere mise à jour : 12/04/2023
+PC Distribution Manjaro KDE : Window manager Pipewire : Gestion du son (Bien plus stable que Pulse Audio) Terminal zsh : Terminal oh my zsh : pour la configuration de zsh plugins=:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty : Emulateur de terminal sans racourcis clavier, qui fait le taff the_silver_searcher : Grep en mieux tree : Jolie affichage de l&amp;#39;arborecence dans linux exa : remplacement de `ls` en rust zoxide : Permet de faire du jump dans les dossiers.</description>
     </item>
     
   </channel>

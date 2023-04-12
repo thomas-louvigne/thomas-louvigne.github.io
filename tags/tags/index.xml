@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>tags - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/tags/</link>
+        <description>tags - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Software List</title>
+    <link>https://thomas-louvigne.github.io/pages/software-list/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
+    <description><![CDATA[Voici la liste des logiciels que j&#39;utilise.
+Derniere mise à jour : 12/04/2023
+PC Distribution Manjaro KDE : Window manager Pipewire : Gestion du son (Bien plus stable que Pulse Audio) Terminal zsh : Terminal oh my zsh : pour la configuration de zsh plugins=:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty : Emulateur de terminal sans racourcis clavier, qui fait le taff the_silver_searcher : Grep en mieux tree : Jolie affichage de l&#39;arborecence dans linux exa : remplacement de `ls` en rust zoxide : Permet de faire du jump dans les dossiers.]]></description>
+</item>
+</channel>
+</rss>

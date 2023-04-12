@@ -20,6 +20,22 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
+    <title>linux</title>
+    <link>https://thomas-louvigne.github.io/tags/linux/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>list</title>
+    <link>https://thomas-louvigne.github.io/tags/list/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/list/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>livre</title>
     <link>https://thomas-louvigne.github.io/tags/livre/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -36,11 +52,19 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>orthographe</title>
-    <link>https://thomas-louvigne.github.io/tags/orthographe/</link>
+    <title>software</title>
+    <link>https://thomas-louvigne.github.io/tags/software/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/orthographe/</guid>
+    <guid>https://thomas-louvigne.github.io/tags/software/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>tags</title>
+    <link>https://thomas-louvigne.github.io/tags/tags/</link>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/tags/tags/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -57,30 +81,6 @@
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/tags/blog/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>emacs</title>
-    <link>https://thomas-louvigne.github.io/tags/emacs/</link>
-    <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/emacs/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>agilté</title>
-    <link>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>organisation</title>
-    <link>https://thomas-louvigne.github.io/tags/organisation/</link>
-    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/tags/organisation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
