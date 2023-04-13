@@ -2,26 +2,29 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/linux/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/list/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/software/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/software-list/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/tags/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2023-04-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/culture-hacking/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/culture/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/lectures/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/livre/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/transformation/</loc><lastmod>2023-03-27T16:19:12&#43;02:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2023-03-24T14:36:58&#43;01:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/night-in-the-wood/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/categories/lecture/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/linux/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/list/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/livre/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/ops/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/software/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/software-list/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/tags/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/transformation/</loc><lastmod>2023-03-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</loc><lastmod>2023-03-02T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/relance-le-blog/</loc><lastmod>2023-03-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/blog/</loc><lastmod>2023-03-01T00:00:00&#43;00:00</lastmod></url><url>
