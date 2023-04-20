@@ -11,15 +11,7 @@
     <pubDate>Mon, 17 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
-    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
-</item>
-<item>
-    <title>🤹 [17-04-2023] La nature bifide de la marchandise et les équipes Agile</title>
-    <link>https://thomas-louvigne.github.io/posts/nature-bifide-de-la-marchandise/</link>
-    <pubDate>Mon, 17 Apr 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/nature-bifide-de-la-marchandise/</guid>
-    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
+    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes. La valeur d&#39;échange La valeur d&#39;échange est quantifiable, c&#39;est le prix d&#39;un produit.]]></description>
 </item>
 <item>
     <title>📚 [27/03/2023] J&#39;ai lu &#34;Culture Hacking&#34; issus de OCTO</title>
@@ -178,6 +170,14 @@ Oui c&#39;est le jeu de l&#39;année. Oui il remplit bien les promesses qu&#39;i
     <description><![CDATA[Bon, je sais que tout le monde se hype pour cyberpunk 2077. (Moi aussi je l&#39;ai pré-commandé.)
 Mais, pour l&#39;instant, mon jeu du confinement, ça reste &#34;Yakuza like a dragon&#34;. C&#39;est du grand JRPG : Une belle écriture, un vrai univers cohérent (autour de la clochardise japonaise). Le héros est vraiment touchant, les perso secondaires sont pas trop mal non plus.
 La baston est rigolote bien qu&#39;un peu répétitif. Le tout saupoudré de mini-jeux très très sympa !]]></description>
+</item>
+<item>
+    <title>🐎 [24/01/2020] Pourquoi EMACS est la meilleur des religions :</title>
+    <link>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</link>
+    <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</guid>
+    <description><![CDATA[TOUT peut se faire dans le terminal ⤵ Il y a un terminal dans EMACS ⤴ EMACS est légé 🌬 En terme de RAM &amp; co, j&#39;ai pas vu mieux EMACs est un packet-manager (melpa) ultra riche (4415 packages) EMACS est un logiciel ET un language de programmation, ca peut parraitre mindblow, mais c&#39;est la puissance de LISP . EMACS est ultra moderne: Tout ce que font les IDE de mes collègues, je peux le faire EMACS est ultra vieux 👴.]]></description>
 </item>
 </channel>
 </rss>

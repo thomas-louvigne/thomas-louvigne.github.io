@@ -9,15 +9,7 @@
     <pubDate>Mon, 17 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
-    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
-</item>
-<item>
-    <title>🤹 [17-04-2023] La nature bifide de la marchandise et les équipes Agile</title>
-    <link>https://thomas-louvigne.github.io/posts/nature-bifide-de-la-marchandise/</link>
-    <pubDate>Mon, 17 Apr 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/nature-bifide-de-la-marchandise/</guid>
-    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
+    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes. La valeur d&#39;échange La valeur d&#39;échange est quantifiable, c&#39;est le prix d&#39;un produit.]]></description>
 </item>
 <item>
     <title>📚 [27/03/2023] J&#39;ai lu &#34;Culture Hacking&#34; issus de OCTO</title>
@@ -88,6 +80,15 @@ J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à 
     <author>Thomas Louvigné</author>
     <guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
     <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
+</item>
+<item>
+    <title>🗒 [30/09/2022] S&#39;organiser dans sa vie perso :</title>
+    <link>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</link>
+    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
+    <author>Thomas Louvigné</author>
+    <guid>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</guid>
+    <description><![CDATA[J&#39;ai testé pour vous :
+Habitica : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude. Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable. Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile. Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé.]]></description>
 </item>
 </channel>
 </rss>
