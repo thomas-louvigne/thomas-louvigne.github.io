@@ -6,12 +6,11 @@
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Software List</title>
     <link>https://thomas-louvigne.github.io/pages/software-list/</link>
-    <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
+    <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
     <description><![CDATA[Voici la liste des logiciels que j&#39;utilise.
 Derniere mise à jour : 13/04/2023
 PC Distribution Manjaro KDE : Window manager Pipewire : Gestion du son (Bien plus stable que Pulse Audio) Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty : Emulateur de terminal sans racourcis clavier, qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.]]></description>
-</item>
-</channel>
+</item></channel>
 </rss>

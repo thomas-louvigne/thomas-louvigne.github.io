@@ -3,92 +3,86 @@
         <title>Tous Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Tous Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 03 May 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
+    <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
+    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</guid>
+    <description><![CDATA[Introduction Je cherche ici à lister les stratégies que j&#39;ai pu observer en entreprise lors de conflit.
+Il est possible que je mette à jours cette liste si je trouve d&#39;autres stratégies.
+N&#39;hésitez pas à me contacter si vous voyez des stratégies que j&#39;aurais pu oublier.
+Cas de conflit : A et B divergent, ils ont des intérêts opposés :
+&lt;- A / B -&gt;
+On observe que A et B ont des intérêts personnels qui divergent.]]></description>
+</item><item>
+    <title>🎮 [02/05/2023] Mes derniers jeux</title>
+    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-05-23/</link>
+    <pubDate>Tue, 02 May 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-05-23/</guid>
+    <description><![CDATA[À noter: tous ces jeux ont été testés sous Linux/
+Road 96-Mile 0 : J&#39;avais vraiment adoré le 1er jeu (Road 96 ~ 9/10). Là on a un DLC / un préquel du 1er épisode. C&#39;est principalement sur du walking simulator entrecoupé de scène de skate assez passable (même si ça permet de booster un peu le rythme). Bon l&#39;histoire est bien et les personnages sont attachant. Mais on est pas au niveau du 1er épisode Surtout, le jeu est trop focalisé sur les 2 protagonistes quitte à en oublier les personnages secondaires.]]></description>
+</item><item>
+    <title>⌨️ [29/04/2023] Home &amp; End : les meilleures touches du clavier</title>
+    <link>https://thomas-louvigne.github.io/posts/home-end-keyboard/</link>
+    <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/home-end-keyboard/</guid>
+    <description><![CDATA[En matière de clavier, je trouve qu&#39;on ne discute jamais assez de la manière dont on se déplace dans un texte.
+En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans les textes. Au début, comme tout le monde j&#39;utilisais principalement les Arrow Keys (les flèches) pour me déplacer de droite à gauche et haut et bas pour passer d&#39;une ligne à l&#39;autre. C&#39;est le niveau 1 du déplacement dans le texte.]]></description>
+</item><item>
     <title>🤹 [21-04-2023] La nature bifide de la marchandise et les équipes Agile</title>
     <link>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</link>
-    <pubDate>Fri, 21 Apr 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
+    <pubDate>Fri, 21 Apr 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
     <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
-</item>
-<item>
+</item><item>
     <title>📚 [27/03/2023] J&#39;ai lu &#34;Culture Hacking&#34; issus de OCTO</title>
     <link>https://thomas-louvigne.github.io/posts/culture-hacking/</link>
-    <pubDate>Mon, 27 Mar 2023 16:19:12 &#43;0200</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/culture-hacking/</guid>
-    <description><![CDATA[TL-DR : Quoi ? : Un lire-cahier sur le changement de culture dans les boites Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, des consultants en changement d&#39;organisation. Par qui ? : Lan Levy, Alexis Nicolas, Lucie Quach, Brigitte Quiton, Olivier Tuffier Facilité de lecure : 4/10 (1 est très complexe, 10 est très simple) Note globale : 5/10 La forme : Bon, on est sur un livre - cahier, avec des pages et où l&#39;on vous invite à écrire des choses… Et en meme temps on vous racontes 3 histoires… Et en même temps, il y a 2 narrateurs qui vous parle directement.]]></description>
-</item>
-<item>
+    <pubDate>Mon, 27 Mar 2023 16:19:12 &#43;0200</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/culture-hacking/</guid>
+    <description><![CDATA[TL-DR : Quoi ? : Un lire-cahier sur le changement de culture dans les boites Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, des consultants en changement d&#39;organisation. Par qui ? : Lan Levy, Alexis Nicolas, Lucie Quach, Brigitte Quiton, Olivier Tuffier Facilité de lecure : 4/10 (1 est très complexe, 10 est très simple) Note globale : 5/10 La forme : Bon, on est sur un livre-cahier, avec des pages et où l&#39;on vous invite à écrire des choses… Et en meme temps on vous raconte 3 histoires… Et en même temps, il y a 2 narrateurs qui vous parle directement.]]></description>
+</item><item>
     <title>🎮 [24/03/2023] Mes Derniers Jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</link>
-    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</guid>
+    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</guid>
     <description><![CDATA[Hardspace: Shipbreaker : Un très bon jeu de découpe de vaisseau spacial. Un jeu lent, engagé et curieusement très envoutant, vraiment c&#39;est la surprise : 8/10 Sonic &amp; All Star Racing Transformed Collection : Le Mario Kart de steam, j&#39;y joue avec Madame, c&#39;est nickel : 8/10 Please, Don&#39;t Touch Anything 3D : Faut aimer les casses têtes en point &amp; click… 5/10 Last Call BBS : Est-ce vraiment un jeu ?]]></description>
-</item>
-<item>
+</item><item>
     <title>🎮  [10/03/2023] Night In The Woods</title>
     <link>https://thomas-louvigne.github.io/posts/night-in-the-wood/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/night-in-the-wood/</guid>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/night-in-the-wood/</guid>
     <description><![CDATA[Suite au débat sur Hogward Legacy et sa créatrice problématique transphobe, je voulais vous parler du jeu Night In The Woods.
 Bon, Night in the Woods, est l&#39;un de mes jeux préférés :
 C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.
-Les décores sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
-</item>
-<item>
+Les décors sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
+</item><item>
     <title>📚 [10/03/2023] J&#39;ai lu &#34;Le projet Unicorn&#34; de Gene Kim</title>
     <link>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
-    <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
-</item>
-<item>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
+    <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité. Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
+</item><item>
     <title>📚 [02/03/2023] J&#39;ai lu &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin</title>
     <link>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</link>
-    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</guid>
+    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</guid>
     <description><![CDATA[J&#39;ai terminé &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin (L&#39;ancien bosse de ma boite / OCTO Technology). Sortir une critique quand il était encore PDG aurait fait de moi un lèche botte ! Maintenant qu&#39;il est parti, je peux me permettre d&#39;être plus &#34;vrais&#34; et d&#39;expliquer pourquoi c&#39;est un très bon livre
 TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises Par qui ?]]></description>
-</item>
-<item>
+</item><item>
     <title>🔧 [01/03/2023] Hello, je relance mon blog perso &amp; pro !</title>
     <link>https://thomas-louvigne.github.io/posts/relance-le-blog/</link>
-    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/relance-le-blog/</guid>
+    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/relance-le-blog/</guid>
     <description><![CDATA[Juste pour dire que je relancais ce blog. En passant sur hugo pour que ce soit un peu plus jolie quand même. En espérant que ca vous plaise.]]></description>
-</item>
-<item>
-    <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
-    <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
-    <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</guid>
-    <description><![CDATA[J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
-Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
-J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
-</item>
-<item>
-    <title>🤹 [07/12/2022] Convication agiliste</title>
-    <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
-    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
-</item>
-<item>
-    <title>🗒 [30/09/2022] S&#39;organiser dans sa vie perso :</title>
-    <link>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</link>
-    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate>
-    <author>Thomas Louvigné</author>
-    <guid>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</guid>
-    <description><![CDATA[J&#39;ai testé pour vous :
-Habitica : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude. Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable. Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile. Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé.]]></description>
-</item>
-</channel>
+</item></channel>
 </rss>

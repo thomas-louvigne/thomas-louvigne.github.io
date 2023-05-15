@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>keyboard - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/keyboard/</link>
+        <description>keyboard - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/keyboard/" rel="self" type="application/rss+xml" /><item>
+    <title>⌨️ [29/04/2023] Home &amp; End : les meilleures touches du clavier</title>
+    <link>https://thomas-louvigne.github.io/posts/home-end-keyboard/</link>
+    <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/home-end-keyboard/</guid>
+    <description><![CDATA[En matière de clavier, je trouve qu&#39;on ne discute jamais assez de la manière dont on se déplace dans un texte.
+En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans les textes. Au début, comme tout le monde j&#39;utilisais principalement les Arrow Keys (les flèches) pour me déplacer de droite à gauche et haut et bas pour passer d&#39;une ligne à l&#39;autre. C&#39;est le niveau 1 du déplacement dans le texte.]]></description>
+</item></channel>
+</rss>
