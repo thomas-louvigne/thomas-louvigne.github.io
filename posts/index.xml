@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tous Posts - Le blog de Thomas Louvigné</title>
+        <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
-        <description>Tous Posts | Le blog de Thomas Louvigné</description>
+        <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 03 May 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
     <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
@@ -10,7 +10,7 @@
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</guid>
     <description><![CDATA[Introduction Je cherche ici à lister les stratégies que j&#39;ai pu observer en entreprise lors de conflit.
-Il est possible que je mette à jours cette liste si je trouve d&#39;autres stratégies.
+Il est possible que je mette à jour cette liste si je trouve d&#39;autres stratégies.
 N&#39;hésitez pas à me contacter si vous voyez des stratégies que j&#39;aurais pu oublier.
 Cas de conflit : A et B divergent, ils ont des intérêts opposés :
 &lt;- A / B -&gt;
