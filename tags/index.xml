@@ -4,25 +4,18 @@
         <link>https://thomas-louvigne.github.io/tags/</link>
         <description>Tags - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 03 May 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>CNV</title>
+    <link>https://thomas-louvigne.github.io/tags/cnv/</link>
+    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/cnv/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>communication</title>
     <link>https://thomas-louvigne.github.io/tags/communication/</link>
     <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/tags/communication/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>non</title>
-    <link>https://thomas-louvigne.github.io/tags/non/</link>
-    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/non/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>violente</title>
-    <link>https://thomas-louvigne.github.io/tags/violente/</link>
-    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/violente/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>jeux-vidéo</title>
@@ -72,6 +65,13 @@
     <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>list</title>
+    <link>https://thomas-louvigne.github.io/tags/list/</link>
+    <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/list/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
