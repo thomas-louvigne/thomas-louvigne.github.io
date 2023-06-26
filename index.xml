@@ -3,9 +3,18 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 03 May 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🤹 [26/06/2023] Résumé de Team Topologies</title>
+    <link>https://thomas-louvigne.github.io/posts/resume_team_topologies/</link>
+    <pubDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/resume_team_topologies/</guid>
+    <description><![CDATA[Introduction : Team Topologies est un bouquain de Manuel Pais et Matthew Skelton. C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.
+Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo.
+4 types équipes : Stream-aligned Team C&#39;est le type d&#39;équipe de base : Autonome et pluridisciplinaire C&#39;est typiquement l&#39;équipe SCRUM C&#39;est une équipe produit … ou pas forcément !]]></description>
+</item><item>
     <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
     <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
     <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
@@ -14,7 +23,7 @@
     <description><![CDATA[Introduction Je cherche ici à lister les stratégies que j&#39;ai pu observer en entreprise lors de conflit.
 Il est possible que je mette à jour cette liste si je trouve d&#39;autres stratégies.
 N&#39;hésitez pas à me contacter si vous voyez des stratégies que j&#39;aurais pu oublier.
-Cas de conflit : A et B divergent, ils ont des intérêts opposés :
+Cas de conflit : A et B divergent, ils ont des intérêts ou des agendas opposés :
 &lt;- A / B -&gt;
 On observe que A et B ont des intérêts personnels qui divergent.]]></description>
 </item><item>
@@ -156,12 +165,5 @@ Et y a un discord aussi très sympatique.]]></description>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-11-22/</guid>
     <description><![CDATA[Final Fantasy 7 Remake Integrade / RPG : Je l&#39;avais pas fait au collège. C&#39;est excellent malgré certaines longeurs ! Un bon 9/10 Honey, I join a Cult ! / Gestion : Jeu de gestion sympathique : 6/10 Dorf romantik / Build de village (?) : Très bon passe temps à réunion chiante. A jouer en fond. Par contre le prix est excessif. 6/10 My Time at Sandrock / : C&#39;est un bon Oui.]]></description>
-</item><item>
-    <title>🎮 [12/09/2021] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-09-21/</link>
-    <pubDate>Sun, 12 Sep 2021 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-09-21/</guid>
-    <description><![CDATA[Road 96 / Walking simulator : c&#39;est très très bien. 9/10 Black Skyland / shoot-em-up/rpg : Très sympas aussi 7/10 The Station walking simulator + enigme : Trop lent, trop chiant 5/10 Orc Must Die 2 / Tower Defense en 3D : Sympa, mais un peu con-con 6/10 Disco Elysium / RPG-Point &amp; Click : Malgré les critique dytirambique, j&#39;ai pas réussi. C&#39;était trop lent, Trop chiant. Je suis pas fait pour les point &amp; click.]]></description>
 </item></channel>
 </rss>
