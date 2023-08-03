@@ -3,17 +3,25 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🎮 [27/06/2023] Mes derniers jeux</title>
+    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
+    <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</guid>
+    <description><![CDATA[A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck
+House Flipper / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10 The Tenants / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une ame ou d&#39;un parti pris. Theme Hospital et ses successeurs savaient etre drole sur ces sujets. 6/10 Apex Legende / Battle Royal : J&#39;y ai pas joué assé pour donner une note.]]></description>
+</item><item>
     <title>🤹 [26/06/2023] Résumé de Team Topologies</title>
     <link>https://thomas-louvigne.github.io/posts/resume_team_topologies/</link>
     <pubDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/resume_team_topologies/</guid>
     <description><![CDATA[Introduction : Team Topologies est un bouquain de Manuel Pais et Matthew Skelton. C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.
-Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo.
-4 types équipes : Stream-aligned Team C&#39;est le type d&#39;équipe de base : Autonome et pluridisciplinaire C&#39;est typiquement l&#39;équipe SCRUM C&#39;est une équipe produit … ou pas forcément !]]></description>
+Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo et qui corresspond à pas mal de truc que j&#39;ai lu.
+En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication. Je vous les listes ici :]]></description>
 </item><item>
     <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
     <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
@@ -156,14 +164,7 @@ Et y a un discord aussi très sympatique.]]></description>
     <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[Voilllà, je voulais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je vous partage mes observations de gros rageux sur ce qui ne marche ou pas sur ce que je vois au quotidien.
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustration qutotidiennes issus de boite qui veulent faire de l&#39;agile / qui disent/ faire de l&#39;agile.]]></description>
-</item><item>
-    <title>🎮 [28/11/2021] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-11-22/</link>
-    <pubDate>Sun, 28 Nov 2021 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-11-22/</guid>
-    <description><![CDATA[Final Fantasy 7 Remake Integrade / RPG : Je l&#39;avais pas fait au collège. C&#39;est excellent malgré certaines longeurs ! Un bon 9/10 Honey, I join a Cult ! / Gestion : Jeu de gestion sympathique : 6/10 Dorf romantik / Build de village (?) : Très bon passe temps à réunion chiante. A jouer en fond. Par contre le prix est excessif. 6/10 My Time at Sandrock / : C&#39;est un bon Oui.]]></description>
+    <description><![CDATA[Je voudrais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je voudrais partager mes observations, un peu énervés, de ce qui ne marche pas dans le monde réelle.
+⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustrations qutotidiennes issus de boite qui veulent faire de l&#39;agile ou qui disent faire de l&#39;agile. Mais en sont vraiment loin…]]></description>
 </item></channel>
 </rss>

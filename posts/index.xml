@@ -3,15 +3,23 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🎮 [27/06/2023] Mes derniers jeux</title>
+    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
+    <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</guid>
+    <description><![CDATA[A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck
+House Flipper / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10 The Tenants / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une ame ou d&#39;un parti pris. Theme Hospital et ses successeurs savaient etre drole sur ces sujets. 6/10 Apex Legende / Battle Royal : J&#39;y ai pas joué assé pour donner une note.]]></description>
+</item><item>
     <title>🤹 [26/06/2023] Résumé de Team Topologies</title>
     <link>https://thomas-louvigne.github.io/posts/resume_team_topologies/</link>
     <pubDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/resume_team_topologies/</guid>
     <description><![CDATA[Introduction : Team Topologies est un bouquain de Manuel Pais et Matthew Skelton. C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.
-Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo.
-4 types équipes : Stream-aligned Team C&#39;est le type d&#39;équipe de base : Autonome et pluridisciplinaire C&#39;est typiquement l&#39;équipe SCRUM C&#39;est une équipe produit … ou pas forcément !]]></description>
+Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo et qui corresspond à pas mal de truc que j&#39;ai lu.
+En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication. Je vous les listes ici :]]></description>
 </item><item>
     <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
     <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
@@ -78,13 +86,5 @@ Les décors sont magnifiques, la musique est parfaite, les personnages sont trè
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
     <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité. Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
-</item><item>
-    <title>📚 [02/03/2023] J&#39;ai lu &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin</title>
-    <link>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</link>
-    <pubDate>Thu, 02 Mar 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/devenir-une-entreprise-agile-lci/</guid>
-    <description><![CDATA[J&#39;ai terminé &#34;Devenir une entreprise Agile&#34; de Ludovic Cinquin (L&#39;ancien bosse de ma boite / OCTO Technology). Sortir une critique quand il était encore PDG aurait fait de moi un lèche botte ! Maintenant qu&#39;il est parti, je peux me permettre d&#39;être plus &#34;vrais&#34; et d&#39;expliquer pourquoi c&#39;est un très bon livre
-TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises Par qui ?]]></description>
 </item></channel>
 </rss>
