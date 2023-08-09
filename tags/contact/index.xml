@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>contact - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/contact/</link>
+        <description>contact - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/contact/" rel="self" type="application/rss+xml" /><item>
+    <title>Contact</title>
+    <link>https://thomas-louvigne.github.io/pages/contact/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/pages/contact/</guid>
+    <description><![CDATA[ Twitter : @thomas_louvigne Mastodon : Thomas Louvigné LinkedIn : Thomas Louvigné ]]></description>
+</item></channel>
+</rss>

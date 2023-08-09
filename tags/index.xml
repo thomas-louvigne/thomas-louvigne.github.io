@@ -3,7 +3,56 @@
         <title>Tags - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/</link>
         <description>Tags - Balise - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>contact</title>
+    <link>https://thomas-louvigne.github.io/tags/contact/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/contact/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>linux</title>
+    <link>https://thomas-louvigne.github.io/tags/linux/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>list</title>
+    <link>https://thomas-louvigne.github.io/tags/list/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/list/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>louvigne</title>
+    <link>https://thomas-louvigne.github.io/tags/louvigne/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/louvigne/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>software</title>
+    <link>https://thomas-louvigne.github.io/tags/software/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/software/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>tags</title>
+    <link>https://thomas-louvigne.github.io/tags/tags/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/tags/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>thomas</title>
+    <link>https://thomas-louvigne.github.io/tags/thomas/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/tags/thomas/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>jeux-vidéo</title>
     <link>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</link>
     <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
@@ -23,55 +72,6 @@
     <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/tags/cnv/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>communication</title>
-    <link>https://thomas-louvigne.github.io/tags/communication/</link>
-    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/communication/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>clavier</title>
-    <link>https://thomas-louvigne.github.io/tags/clavier/</link>
-    <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/clavier/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>keyboard</title>
-    <link>https://thomas-louvigne.github.io/tags/keyboard/</link>
-    <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/keyboard/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>moonlander</title>
-    <link>https://thomas-louvigne.github.io/tags/moonlander/</link>
-    <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/moonlander/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>agilité</title>
-    <link>https://thomas-louvigne.github.io/tags/agilit%C3%A9/</link>
-    <pubDate>Fri, 21 Apr 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/agilit%C3%A9/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>linux</title>
-    <link>https://thomas-louvigne.github.io/tags/linux/</link>
-    <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/linux/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>list</title>
-    <link>https://thomas-louvigne.github.io/tags/list/</link>
-    <pubDate>Thu, 13 Apr 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/tags/list/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
