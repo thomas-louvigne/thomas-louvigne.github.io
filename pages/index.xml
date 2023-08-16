@@ -17,16 +17,5 @@
 Twitter : @Thomas_Louvigne Mastodon : Thomas Louvigné LinkedIn : Thomas Louvigné </description>
     </item>
     
-    <item>
-      <title>Software List</title>
-      <link>https://thomas-louvigne.github.io/pages/software-list/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
-      <description>Voici la liste des logiciels que j&amp;#39;utilise.
-Derniere mise à jour : 08/08/2023
-PC Distribution Manjaro KDE : Window manager Pipewire : Gestion du son (Bien plus stable que Pulse Audio) Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty : Emulateur de terminal sans racourcis clavier, qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&amp;#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.</description>
-    </item>
-    
   </channel>
 </rss>
