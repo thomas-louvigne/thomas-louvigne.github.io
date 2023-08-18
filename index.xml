@@ -3,9 +3,19 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🤹 [18/08/2023] Cheat Sheet for the PSC / SCRUM certification 2020</title>
+    <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
+    <pubDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
+    <description><![CDATA[I have recently pass my PSM1 certificatin from scrum.org .
+I give you my Cheat Sheet :-)
+⚠ It in alpha version for now.
+And the PDF version ! (More easy to print)]]></description>
+</item><item>
     <title>🎮 [27/06/2023] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
     <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
@@ -158,13 +168,5 @@ Et y a un discord aussi très sympatique.]]></description>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-01-22/</guid>
     <description><![CDATA[Célest / Plateformer : un jeu de plateforme Hardcore. J&#39;ai beau pas aimé les plateformers. Là c&#39;est superbe. 8/10 Factorio / Gestion d&#39;usine : Bien que moche, le jeu est sympas. Ultra adictif. 8/10 Vampyr / RPG : Sympas. Mais un peu chiant: L&#39;ambiance est très bonne. mais les aller / retour dans la villes sont vite chiant. Le personnage principale manque de charisme 6.5/10 It take two / Plateformer : Un Plateformers en coop.]]></description>
-</item><item>
-    <title>🤹 [23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
-    <link>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[Je voudrais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je voudrais partager mes observations, un peu énervés, de ce qui ne marche pas dans le monde réelle.
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustrations qutotidiennes issus de boite qui veulent faire de l&#39;agile ou qui disent faire de l&#39;agile. Mais en sont vraiment loin…]]></description>
 </item></channel>
 </rss>

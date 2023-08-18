@@ -3,7 +3,17 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [18/08/2023] Cheat Sheet for the PSC / SCRUM certification 2020</title>
+    <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
+    <pubDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
+    <description><![CDATA[I have recently pass my PSM1 certificatin from scrum.org .
+I give you my Cheat Sheet :-)
+⚠ It in alpha version for now.
+And the PDF version ! (More easy to print)]]></description>
+</item><item>
     <title>🎮 [27/06/2023] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
     <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
@@ -79,12 +89,5 @@ En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans
 Bon, Night in the Woods, est l&#39;un de mes jeux préférés :
 C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.
 Les décors sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
-</item><item>
-    <title>📚 [10/03/2023] J&#39;ai lu &#34;Le projet Unicorn&#34; de Gene Kim</title>
-    <link>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/le-projet-unicorn/</guid>
-    <description><![CDATA[TL-DR : Quoi ? : Un romman sur une transfo d&#39;orga réussi Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, ceux qui s&#39;intéressent à la cultre des entreprises, les consultants en dev-ops ou agilité. Par qui ? : Gene Kim Facilité de lecure : 7/10 (1 est très complexe à lire, 10 est très simple) Note globale : 9/10 Un roman d&#39;entreprise Alors, c&#39;est l&#39;histoire de Maxine qui pour des raions de merde se retrouve affecté dans un service informatique horrible.]]></description>
 </item></channel>
 </rss>

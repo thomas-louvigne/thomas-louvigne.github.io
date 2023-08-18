@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>scrum - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/scrum/</link>
+        <description>scrum - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/scrum/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [18/08/2023] Cheat Sheet for the PSC / SCRUM certification 2020</title>
+    <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
+    <pubDate>Fri, 18 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
+    <description><![CDATA[I have recently pass my PSM1 certificatin from scrum.org .
+I give you my Cheat Sheet :-)
+⚠ It in alpha version for now.
+And the PDF version ! (More easy to print)]]></description>
+</item></channel>
+</rss>
