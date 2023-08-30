@@ -3,14 +3,15 @@
         <title>software - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/software/</link>
         <description>software - Balise - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/software/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/software/" rel="self" type="application/rss+xml" /><item>
     <title>Software List</title>
     <link>https://thomas-louvigne.github.io/pages/software-list/</link>
-    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Fri, 25 Aug 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
     <description><![CDATA[Voici la liste des logiciels que j&#39;utilise.
-Derniere mise à jour : 08/08/2023
-PC Distribution Manjaro KDE : Window manager Pipewire : Gestion du son (Bien plus stable que Pulse Audio) Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty : Emulateur de terminal sans racourcis clavier, qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.]]></description>
+Dernière mise à jour : `25/08/2023`
+Dot-stuff Vous pouvez trouver mes fichiers de configuration ici : https://github.com/thomas-louvigne/dot-stuff
+PC (Laptop et Fixe / Perso) Distribution Manjaro Windows Manager : KDE Gestion du son Pipewire Gestion de l&#39;affichage Wayland sur le laptop / X11 sur le PC fixe Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty Kitty: Emulateur de terminal qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.]]></description>
 </item></channel>
 </rss>
