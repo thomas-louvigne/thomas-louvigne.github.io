@@ -3,7 +3,16 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🎮 [05/09/2023] Mes derniers jeux</title>
+    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
+    <pubDate>Tue, 05 Sep 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</guid>
+    <description><![CDATA[Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…
+À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck
+Airborn Kingdom / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10 Inscryption / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable.]]></description>
+</item><item>
     <title>🤹 [01/09/2023] Cheat Sheet for the SCRUM certification 2020</title>
     <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</pubDate><author>
@@ -80,15 +89,5 @@ En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</guid>
     <description><![CDATA[Hardspace: Shipbreaker : Un très bon jeu de découpe de vaisseau spacial. Un jeu lent, engagé et curieusement très envoutant, vraiment c&#39;est la surprise : 8/10 Sonic &amp; All Star Racing Transformed Collection : Le Mario Kart de steam, j&#39;y joue avec Madame, c&#39;est nickel : 8/10 Please, Don&#39;t Touch Anything 3D : Faut aimer les casses têtes en point &amp; click… 5/10 Last Call BBS : Est-ce vraiment un jeu ?]]></description>
-</item><item>
-    <title>🎮  [10/03/2023] Night In The Woods</title>
-    <link>https://thomas-louvigne.github.io/posts/night-in-the-wood/</link>
-    <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/night-in-the-wood/</guid>
-    <description><![CDATA[Suite au débat sur Hogward Legacy et sa créatrice problématique transphobe, je voulais vous parler du jeu Night In The Woods.
-Bon, Night in the Woods, est l&#39;un de mes jeux préférés :
-C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.
-Les décors sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
 </item></channel>
 </rss>
