@@ -14,9 +14,9 @@
       
       <guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
       <description>Voici la liste des logiciels que j&amp;#39;utilise.
-Dernière mise à jour : `25/08/2023`
+Dernière mise à jour : `08/09/2023`
 Dot-stuff Vous pouvez trouver mes fichiers de configuration ici : https://github.com/thomas-louvigne/dot-stuff
-PC (Laptop et Fixe / Perso) Distribution Manjaro Windows Manager : KDE Gestion du son Pipewire Gestion de l&amp;#39;affichage Wayland sur le laptop / X11 sur le PC fixe Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Alacritty Kitty: Emulateur de terminal qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&amp;#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.</description>
+PC (Laptop et Fixe / Perso) Distribution Manjaro Windows Manager : KDE Gestion du son Pipewire Gestion de l&amp;#39;affichage Wayland sur le laptop / X11 sur le PC fixe Terminal zsh : Terminal oh my zsh : Pour la configuration de zsh ➡ plugins:(git emacs ssh-agent zoxide extract common-aliases git-extras) Kitty: Emulateur de terminal qui fait le taff the_silver_searcher : grep en mieux tree : Jolie affichage de l&amp;#39;arborecence dans linux exa : Remplacement de ls en rust zoxide : Permet de faire du jump dans les dossiers.</description>
     </item>
     
     <item>
