@@ -3,7 +3,14 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🎮 [27/09/2023] Je joue à stafield</title>
+    <link>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</link>
+    <pubDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</guid>
+    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu ou je me suis retrouvé sans balles ni medpacks. Passé les premieres mission, j&#39;ai fait le socks. Je n&#39;ai maintenant plus peur des comats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les comats L&#39;IA des adverssaire est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques annimaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premieres villes que j&#39;ai vue sont vraiment nuls: Déjà ca laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop carricaturale.]]></description>
+</item><item>
     <title>🤹 [11/09/2023] Cheat Sheet for the SCRUM certification 2020</title>
     <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Mon, 11 Sep 2023 00:00:00 &#43;0000</pubDate><author>
@@ -11,10 +18,10 @@
     </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
     <description><![CDATA[I have recently pass my PSM 1 certification from scrum.org .
 Here&#39;s a cheat sheet to help you revise.
-⚠ It is in 0.8 version for now. If you find errors, please, let me know !
-Last update : 25/09/2023
-🖨 Here the PDF version ! (Easyer to print)
-Thanks to Fabrice A. for his proofreading.]]></description>
+⚠ It is in 0.10 version for now. If you find errors, please, let me know !
+Last update : 03/10/2023
+🖨 Here the PDF version ! (Easier to print)
+Thanks to Fabrice A. and Grégoire P. for his proofreading.]]></description>
 </item><item>
     <title>🎮 [05/09/2023] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
@@ -83,12 +90,5 @@ En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/culture-hacking/</guid>
     <description><![CDATA[TL-DR : Quoi ? : Un lire-cahier sur le changement de culture dans les boites Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, des consultants en changement d&#39;organisation. Par qui ? : Lan Levy, Alexis Nicolas, Lucie Quach, Brigitte Quiton, Olivier Tuffier Facilité de lecure : 4/10 (1 est très complexe, 10 est très simple) Note globale : 5/10 La forme : Bon, on est sur un livre-cahier, avec des pages et où l&#39;on vous invite à écrire des choses… Et en meme temps on vous raconte 3 histoires… Et en même temps, il y a 2 narrateurs qui vous parle directement.]]></description>
-</item><item>
-    <title>🎮 [24/03/2023] Mes Derniers Jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</link>
-    <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</guid>
-    <description><![CDATA[Hardspace: Shipbreaker : Un très bon jeu de découpe de vaisseau spacial. Un jeu lent, engagé et curieusement très envoutant, vraiment c&#39;est la surprise : 8/10 Sonic &amp; All Star Racing Transformed Collection : Le Mario Kart de steam, j&#39;y joue avec Madame, c&#39;est nickel : 8/10 Please, Don&#39;t Touch Anything 3D : Faut aimer les casses têtes en point &amp; click… 5/10 Last Call BBS : Est-ce vraiment un jeu ?]]></description>
 </item></channel>
 </rss>

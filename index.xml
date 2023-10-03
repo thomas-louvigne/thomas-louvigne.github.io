@@ -3,9 +3,16 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🎮 [27/09/2023] Je joue à stafield</title>
+    <link>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</link>
+    <pubDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</guid>
+    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu ou je me suis retrouvé sans balles ni medpacks. Passé les premieres mission, j&#39;ai fait le socks. Je n&#39;ai maintenant plus peur des comats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les comats L&#39;IA des adverssaire est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques annimaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premieres villes que j&#39;ai vue sont vraiment nuls: Déjà ca laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop carricaturale.]]></description>
+</item><item>
     <title>🤹 [11/09/2023] Cheat Sheet for the SCRUM certification 2020</title>
     <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Mon, 11 Sep 2023 00:00:00 &#43;0000</pubDate><author>
@@ -13,10 +20,10 @@
     </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
     <description><![CDATA[I have recently pass my PSM 1 certification from scrum.org .
 Here&#39;s a cheat sheet to help you revise.
-⚠ It is in 0.8 version for now. If you find errors, please, let me know !
-Last update : 25/09/2023
-🖨 Here the PDF version ! (Easyer to print)
-Thanks to Fabrice A. for his proofreading.]]></description>
+⚠ It is in 0.10 version for now. If you find errors, please, let me know !
+Last update : 03/10/2023
+🖨 Here the PDF version ! (Easier to print)
+Thanks to Fabrice A. and Grégoire P. for his proofreading.]]></description>
 </item><item>
     <title>🎮 [05/09/2023] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
@@ -165,12 +172,5 @@ Et y a un discord aussi très sympatique.]]></description>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</guid>
     <description><![CDATA[Dying Light 2 - Stay Humain / RPG : L&#39;histoire est nul mais faire du parkour et casser la tete des zombie est hyper jouissif. 7/10 Castle Crasher / Beat Them All: Se joue a 2. (en l&#39;occurence avec ma copine), c&#39;est un grand OUI. 9/10 Chernobilyte / RPG : Pas mal , de bonnes idées, une ambiance et un sénar qui tiennent la route, Mais le theme vraiment dark me fait déprimer.]]></description>
-</item><item>
-    <title>🎮 [28/03/2022] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</link>
-    <pubDate>Mon, 28 Mar 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</guid>
-    <description><![CDATA[Castle Crasher / Beat Them All : A jouer à 2, excellent : 9/10 GTA IV / GTA-like : Balade de gay tony : lent, j&#39;ai joué 1h, je me suis ennuyé. Ca à mal viellit. 2/10 Graveyard Keeper / Gestion de cimetiere : Excellent : 9/10 Train Valley Gestion de gare : Envoutant 8 / 10 Out Of Space Gestion de rangement : Sympas. A jouer à 2 minimum : 6/10 Haven RPG RPG / a jouer à 2 .]]></description>
 </item></channel>
 </rss>
