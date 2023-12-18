@@ -3,7 +3,25 @@
         <title>emacs - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/emacs/</link>
         <description>emacs - Balise - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/emacs/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/emacs/" rel="self" type="application/rss+xml" /><item>
+    <title>🐎 [18/12/2023] A propos du dernier Meetup EMACS Parisien</title>
+    <link>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</link>
+    <pubDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</guid>
+    <description><![CDATA[J&#39;ai organisé le Meetup emacs de Paris du 05/12/2023 dans ma boite.
+Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.
+Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond idéologique entre les participants :]]></description>
+</item><item>
+    <title>🐎 [04/11/2023] De purcell à bedrock : Je change de starter-kits</title>
+    <link>https://thomas-louvigne.github.io/posts/emacs-bedrock/</link>
+    <pubDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/emacs-bedrock/</guid>
+    <description><![CDATA[Bon, j&#39;avais dis dans un précédent article que Purcell était un excellent starter kit pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.
+Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à emacs-bedrock. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.
+Il à l&#39;avantage d&#39;être très rapide et plutôt modulable.]]></description>
+</item><item>
     <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
     <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
     <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate><author>

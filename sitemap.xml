@@ -2,13 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/emacs/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/emacs/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2023-12-18T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/emacs-bedrock/</loc><lastmod>2023-11-04T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/technique/</loc><lastmod>2023-11-04T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2023-09-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/2020/</loc><lastmod>2023-09-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2023-09-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/categories/agile/</loc><lastmod>2023-09-11T00:00:00&#43;00:00</lastmod></url><url>
@@ -58,8 +63,6 @@
             <loc>https://thomas-louvigne.github.io/tags/blog/</loc><lastmod>2023-03-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/categories/blog/</loc><lastmod>2023-03-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</loc><lastmod>2023-01-18T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/emacs/</loc><lastmod>2023-01-18T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/technique/</loc><lastmod>2023-01-18T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</loc><lastmod>2022-12-07T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/posts/convictions-agiliste/</loc><lastmod>2022-12-07T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://thomas-louvigne.github.io/tags/organisation/</loc><lastmod>2022-09-30T00:00:00&#43;00:00</lastmod></url><url>
