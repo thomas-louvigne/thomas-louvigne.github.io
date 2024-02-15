@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/thomas-luquet/Documents/thomas-louvigne",
+	"sourceRoot": "/home/thomas-luquet/Documents/blog/thomas-louvigne",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",

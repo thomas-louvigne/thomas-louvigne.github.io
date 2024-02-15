@@ -3,19 +3,19 @@
         <title>Categories - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/</link>
         <description>Categories - Catégorie - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>jeux-video</title>
+    <link>https://thomas-louvigne.github.io/categories/jeux-video/</link>
+    <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/categories/jeux-video/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>agile</title>
     <link>https://thomas-louvigne.github.io/categories/agile/</link>
     <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/categories/agile/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>jeux-video</title>
-    <link>https://thomas-louvigne.github.io/categories/jeux-video/</link>
-    <pubDate>Tue, 26 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/categories/jeux-video/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>emacs</title>

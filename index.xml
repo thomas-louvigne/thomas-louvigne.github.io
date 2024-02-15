@@ -3,9 +3,16 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🎮 [11/02/2024] Mes Derniers Jeux</title>
+    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</link>
+    <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</guid>
+    <description><![CDATA[Titre Genre Critique Note Celeste Plateformer difficile Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique. 10/10 Baldur&#39;s Gate 3 RPG C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023. Je trouve cela juste trop long. 9/10 The Red String Club Point &amp; click du futur J&#39;y ai pas assez joué pour le noter correctement, mais le début avait l&#39;air prometteur.]]></description>
+</item><item>
     <title>🤹 [09/01/2024] Cheat Sheet for the SCRUM certification 2020</title>
     <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
@@ -45,12 +52,12 @@ Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il 
 Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à emacs-bedrock. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.
 Il à l&#39;avantage d&#39;être très rapide et plutôt modulable.]]></description>
 </item><item>
-    <title>🎮 [27/09/2023] Je joue à stafield</title>
+    <title>🎮 [27/09/2023] Je joue à Starfield</title>
     <link>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</link>
     <pubDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</guid>
-    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu ou je me suis retrouvé sans balles ni medpacks. Passé les premieres mission, j&#39;ai fait le socks. Je n&#39;ai maintenant plus peur des comats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les comats L&#39;IA des adverssaire est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques annimaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premieres villes que j&#39;ai vue sont vraiment nuls: Déjà ca laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop carricaturale.]]></description>
+    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu, où je me suis retrouvé sans balles ni medpacks. Passé les premières missions, j&#39;ai fait le stocks. Je n&#39;ai maintenant plus peur des combats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les combats L&#39;IA des adversaires est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques animaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premières villes que j&#39;ai vue sont vraiment nuls: Déjà ça laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop caricaturale.]]></description>
 </item><item>
     <title>🎮 [05/09/2023] Mes derniers jeux</title>
     <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
@@ -167,12 +174,5 @@ TL-DR : Quoi ? : Un retour sur la construction d&#39;une bonne boite Pour qui ? 
     <description><![CDATA[J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
 Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
 J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
-</item><item>
-    <title>🤹 [07/12/2022] Convication agiliste</title>
-    <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
-    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
 </item></channel>
 </rss>
