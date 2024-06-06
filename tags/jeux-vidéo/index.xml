@@ -1,87 +1,354 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>jeux-vidéo - Balise - Le blog de Thomas Louvigné</title>
+        <title>Jeux-Vidéo - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</link>
-        <description>jeux-vidéo - Balise - Le blog de Thomas Louvigné</description>
+        <description>Jeux-Vidéo - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/" rel="self" type="application/rss+xml" /><item>
     <title>🎮 [11/02/2024] Mes Derniers Jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-02-24/</link>
     <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</guid>
-    <description><![CDATA[Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).
-Titre Genre Critique Note Celeste Plateformer difficile Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique. 10/10 Baldur&#39;s Gate 3 RPG C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-02-24/</guid>
+    <description><![CDATA[<p>
+Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).</p>
+<table>
+<thead>
+<tr>
+<th>Titre</th>
+<th>Genre</th>
+<th>Critique</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Celeste</td>
+<td>Plateformer difficile</td>
+<td>Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique.</td>
+<td>10/10</td>
+</tr>
+<tr>
+<td>Baldur&#39;s Gate 3</td>
+<td>RPG</td>
+<td>C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023. Je trouve cela juste trop long.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>The Red String Club</td>
+<td>Point &amp; click du futur</td>
+<td>J&#39;y ai pas assez joué pour le noter correctement, mais le début avait l&#39;air prometteur.</td>
+<td></td>
+</tr>
+<tr>
+<td>Against The Storm</td>
+<td>City Builder</td>
+<td>C&#39;est excellent, <a href="../../posts/je-joue-a-against-the-storm/">j&#39;en parle ici</a>.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Lethal Company</td>
+<td>Horreur en Coop</td>
+<td>Y a pleins de très bonne idées. Sympa mais pas exceptionnelle. Surtout très moche.</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Kingdoms Rebord</td>
+<td>City Builder médiéval</td>
+<td>Cool, mais sans plus. Ça manque de profondeur et d&#39;originalité.</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Citzen Sleeper</td>
+<td>Roman Graphique &amp; LRPG</td>
+<td>J&#39;y ai joués que quelques heures. L&#39;histoire est simple et belle. Le coté Light RPG fonctionne étonnamment bien.</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Hi-Fi Rush</td>
+<td>Beat Them All Rythmé</td>
+<td>Un gamin insupportable doit taper des robots dans une ambiance cartoonesque. Y a des phases de plateforme chiante. C&#39;est l&#39;ennuie.</td>
+<td>4/10</td>
+</tr>
+<tr>
+<td>CP2077 - Phantom Liberty</td>
+<td>FPS / RPG</td>
+<td>Mon jeux préféré a sortie un DLC très réussit.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Starfield</td>
+<td>RPG</td>
+<td>Vraiment décevant a tout point de vue. J&#39;en parle <a href="../je-joue-a-starfield">ici</a> .</td>
+<td>4/10</td>
+</tr>
+</tbody>
+</table>
+]]></description>
 </item><item>
     <title>🎮 [26/12/2023] Je joue à Against The Storm</title>
-    <link>https://thomas-louvigne.github.io/posts/je-joue-a-against-the-storm/</link>
+    <link>https://thomas-louvigne.github.io/je-joue-a-against-the-storm/</link>
     <pubDate>Tue, 26 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-against-the-storm/</guid>
-    <description><![CDATA[C’est un city builder médiévale fantastique sous la pluie .
-Y a des relents de roguelite : tu enchaînes les constructions de ville pour gagner des upgrades pour tes prochaines construction.
-Et a chaque construction de ville tu as des objectifs différents à atteindre. L’ambiance est un peu dark-fantasy-poisseux. Je pensais que ça finira par tirer sur la longueur, mais le gameplay se complexifie pas mal à chaque run.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/je-joue-a-against-the-storm/</guid>
+    <description><![CDATA[<p>
+C’est un city builder médiévale fantastique sous la pluie .</p>
+<p>
+Y a des relents de roguelite : tu enchaînes les constructions de ville pour gagner des upgrades pour tes prochaines construction.</p>
+<p>
+Et a chaque construction de ville tu as des objectifs différents à atteindre.
+L’ambiance est un peu dark-fantasy-poisseux.
+Je pensais que ça finira par tirer sur la longueur, mais le gameplay se complexifie pas mal à chaque run.</p>
+<p>
+Bref, j’y joue depuis un petit mois et ça me plaît pas mal.</p>
+<p>
+[édit 14/02/2024]
+Finalement, le gameplay se renouvelle parce que les &#34;objectifs de missions&#34; changent a chaque mission.
+Donc, a chaque fois, c&#39;est une nouvelle aventure. Bref, je n&#39;arrives pas à lâcher le jeu. Je le recommande vivement.</p>
+]]></description>
 </item><item>
     <title>🎮 [27/09/2023] Je joue à Starfield</title>
-    <link>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</link>
+    <link>https://thomas-louvigne.github.io/je-joue-a-starfield/</link>
     <pubDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</guid>
-    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu, où je me suis retrouvé sans balles ni medpacks. Passé les premières missions, j&#39;ai fait le stocks. Je n&#39;ai maintenant plus peur des combats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les combats L&#39;IA des adversaires est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques animaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premières villes que j&#39;ai vue sont vraiment nuls: Déjà ça laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop caricaturale.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/je-joue-a-starfield/</guid>
+    <description><![CDATA[
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+🔫 Baston
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<ul>
+<li>J&#39;ai aimé la difficulté du début du jeu, où je me suis retrouvé sans balles ni medpacks.</li>
+<li>Passé les premières missions, j&#39;ai fait le stocks. Je n&#39;ai maintenant plus peur des combats.</li>
+<li>Évidement, les bot-assistants sont déplorables et se mette devant toi dans les combats</li>
+<li>L&#39;IA des adversaires est pas dingue</li>
+<li>Bref, les phases de shoot sont lentes et ennuyeuses</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+🎨 Direction Artistique
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<ul>
+<li>Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester</li>
+<li>Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques animaux moches qu&#39;on peut tuer</li>
+<li>On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout</li>
+<li>Les 2 premières villes que j&#39;ai vue sont vraiment nuls: Déjà ça laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop caricaturale.</li>
+<li>Et puis c&#39;est vide. On se retrouve dans un magasin hyper grand, il n&#39;y a qu&#39;un seul PNJ qui n&#39;a pas de dialogue. Ça semble totalement mort et faux.</li>
+<li>Je pense notamment à la ville cowboy qui fait vraiment tache par rapport au reste de l&#39;univers. Pourquoi des cowboys dans l&#39;espace alors que tout le reste est futuriste ? Ça ne colle pas.</li>
+<li>Et puis c&#39;est long, les temps de chargement après chaque porte ouverte, ça n&#39;est plus possible en 2023.</li>
+<li>Quand on compare avec un NightCity et sa ville qui vit a fond et sans temps de chargement, on joue clairement pas dans la même court.</li>
+<li>De manière générale, la DA est un échec : on tente une vision futuriste proche mais du coup, c&#39;est laid comme une zone industrielle au bord nogent-sur-marne.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+📘 Histoire
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<ul>
+<li>Les dialogues sont plutôt con-con et prévisible.</li>
+<li>Le coter &#34;<em>Point de charisme</em>&#34; fait quelques trucs marrant, mais on est à des années-lumières de ce qui se passe sur un BG3.</li>
+<li>
+<p>Les personnages sont pas intéressants et pas attachant parce que ultra caricaturaux. La working girl bourrine, le bad-boy cowboy, l&#39;homme d&#39;affaires cupide…</p>
+<ul>
+<li>A coté de cela, on a quand même sortie <strong>Baldur&#39;s Gate 3</strong> et <strong>Cyberpunk 2077</strong> avec de vrais personnages, complexe qui ont de vrais personnalités.</li>
+</ul>
+</li>
+<li>Le pitch est super mauvais : &#34;On est le club des scientifiques qui veulent connaître le monde ! Mais dans le groupe y a plein de gens qui ont l&#39;air d&#39;en avoir rien à faire de la science.&#34;</li>
+<li>Bref, l&#39;intrigue de base est nul</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+🖌️ User Interface
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<ul>
+<li>Toutes les interfaces sont chiante. Bethesda ne s&#39;est toujours pas améliorée là-dessus depuis Skyrim</li>
+<li>Les bastons dans l&#39;espace sont mal branlés, notamment l&#39;assignement de l&#39;énergie dans ton vaisseau entre les missiles et les boucliers</li>
+<li>L&#39;amélioration de ton vaisseau spatiale est incompréhensible. J&#39;ai très vite abandonné l&#39;idée de le customiser</li>
+<li>J&#39;ai amélioré plein de trucs dans le centre de recherche. Je n&#39;ai jamais compris à quoi servait ces améliorations ! 🙃</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+😬 Autres trucs agaçant
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li>Le sac est toujours trop petit</li>
+<li>Le lock picking est complexe</li>
+<li>Le jeu lag pourtant je joue sur un Shadow PC boosté</li>
+<li>Sur steamdeck le jeu est d&#39;une laideur sans nom</li>
+<li>Sur mon linux classique avec une GTX 1060, ça tourne pas. C&#39;est con mais Cyberpunk 2077, lui tourne de manière acceptable</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+📝 Conclusion
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<p>
+Mais j&#39;ai du mal à le croire, de toute façon, je n&#39;ai plus envie d&#39;y jouer.</p>
+<p>
+Pour 70 euros, on a de la quête (<del>fedexe</del>) en masse et c&#39;est son point positif. La durée de vie semble extrêmement longue.
+Au final, on parle d&#39;un remix de Skyrim - l&#39;ambiance épique en moins - dans l&#39;espace.</p>
+<p>
+Si il était sorti en 2011 comme son grand frère, ce jeu aurait mérité un bon 8/10 .</p>
+<p>
+Mais en 2023, après Baldur&#39;s Gate 3, après No Man&#39;s Sky, après Cyberpunk2077… Honnêtement y a rien qui va pour un AAA avec des millions de budgets.
+Je ne comprends pas comment et pourquoi la presse vidéo-ludique lui met des notes aussi haut.</p>
+<p>
+<strong>Ma note finale : 4/10</strong></p>
+<p>
+PS : <em>Je finis cet article ayant lancé Cyber Punk 2077 : Phantom Liberty. J&#39;ai pris plus de plaisir en 3 heures à Night City que 15h dans les étoiles de Starfield…</em></p>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🎮 [05/09/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-08-23/</link>
     <pubDate>Tue, 05 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</guid>
-    <description><![CDATA[Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…
-À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck
-Airborn Kingdom / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10 Inscryption / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-08-23/</guid>
+    <description><![CDATA[<p>
+Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…</p>
+<p>
+<em>À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck</em></p>
+<ul>
+<li><strong>Airborn Kingdom</strong> / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10</li>
+<li><strong>Inscryption</strong> / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable. Surtout le jeux est en 3 grandes parties très surprenante. La fin est superbe, allez jusqu&#39;au bout !  9/10</li>
+<li><strong>Dave The Diver</strong> / Mix entre subnautica et Cook, Serve Delicious. Incroyable jeu de l&#39;été. Une sorte de fête forraine permanente, un style visuel unique, de l&#39;humour. L&#39;histoire est un peu trop légère pour toucher la perfection. 9/10</li>
+<li><strong>Coffee Talk</strong> / Du visual novel lent, mignon et profond. On s&#39;attache aux personnage malgré le niveau 0 du gameplay. J&#39;aime beaucoup. 8/10</li>
+<li><strong>Retrowave</strong> / Jeu de bagnole avec des synthé. Good feeling quoi qu&#39;assez pauvre niveau gameplay. 7/10</li>
+<li><strong>Mafia Définitive édition</strong> / Jeu de bandit à la 3e personne. C&#39;est du GTA au rabais, l&#39;histoire est moins prenante, c&#39;est des couloirs + shoot qui s&#39;enchaine. C&#39;est domage parce que c&#39;est beau et l&#39;ambiance est pas mauvaise. 6/10</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮 [27/06/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-06-23/</link>
     <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</guid>
-    <description><![CDATA[A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck.
-House Flipper / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10 The Tenants / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une âme ou d&#39;un parti pris. Theme Hospital et ses successeurs savaient être drole sur ce genre de sujets.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-06-23/</guid>
+    <description><![CDATA[<p>
+<em>A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck</em>.</p>
+<ul>
+<li><strong>House Flipper</strong> / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10</li>
+<li><strong>The Tenants</strong> / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une âme ou d&#39;un parti pris. <em>Theme Hospital</em> et ses successeurs savaient être drole sur ce genre de sujets. 6/10</li>
+<li><strong>Apex Legende</strong> / Battle Royal : J&#39;y ai pas joué assé pour donner une note. Mais l&#39;univers me semble con-con et enfentin.</li>
+<li><strong>Boy Friend Dungon</strong> / Hack &amp; Slash + Dating Sim : On drague des &#34;<em>épé.e.s</em>&#34; qui se transforment aussi en humain.e.s. C&#39;est malin, ca marche bien. C&#39;est pas si niais. 7/10</li>
+<li><strong>Persona 4</strong> / JRPG : J&#39;ai fait 4h d&#39;un jeu qui en demande 60 pour se terminer. Ca m&#39;a l&#39;aire grandiose, mais trop long pour moi. A noter que le jeu est très moche. 7/10</li>
+<li><strong>Lost in Harmony</strong> / Dance:  je l&#39;ai acheté parce que c&#39;est une sorte de préquel à l&#39;excellent <strong>Road 96</strong> que j&#39;avais adoré. Bon, ca n&#39;a pas beaucoup d&#39;intéret, mais y a de belles musique. 5/10</li>
+<li><strong>Virtuaverse</strong> / Point n&#39;click : L&#39;atmosphère et la musique sont bonnes. (À noter que j&#39;ai du y jouer que quelques heures). 7/10</li>
+<li><strong>Wobbledogs</strong> / Tamagotchi : Alors, c&#39;est absurde, beau et sympathique. 8/10</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮 [02/05/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-05-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-05-23/</link>
     <pubDate>Tue, 02 May 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-05-23/</guid>
-    <description><![CDATA[À noter: tous ces jeux ont été testés sous Linux
-Road 96-Mile 0 : J&#39;avais vraiment adoré le 1er jeu (Road 96 ~ 9/10). Là on a un DLC / un préquel du 1er épisode. C&#39;est principalement sur du walking simulator entrecoupé de scène de skate assez passable (même si ça permet de booster un peu le rythme). Bon l&#39;histoire est bien et les personnages sont attachant. Mais on est pas au niveau du 1er épisode Surtout, le jeu est trop focalisé sur les 2 protagonistes quitte à en oublier les personnages secondaires.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-05-23/</guid>
+    <description><![CDATA[<p>
+<em>À noter: tous ces jeux ont été testés sous Linux</em></p>
+<ul>
+<li><strong>Road 96-Mile 0</strong> : J&#39;avais vraiment adoré le 1er jeu (<strong>Road 96</strong> ~ 9/10). Là on a un DLC / un préquel du 1er épisode. C&#39;est principalement sur du walking simulator entrecoupé de scène de skate assez passable (même si ça permet de booster un peu le rythme). Bon l&#39;histoire est bien et les personnages sont attachant. Mais on est pas au niveau du 1er épisode Surtout, le jeu est trop focalisé sur les 2 protagonistes quitte à en oublier les personnages secondaires. La fin reste superbe. (À noter que le jeu m&#39;a été offert par l&#39;éditeur). 7/10</li>
+<li><strong>Tetris Effect</strong> : Pour retrouver le plaisir du tétris. Avec de la musique et un incroyable sentiment de satisfaction quand tu as ta barre de 5. 8/10</li>
+<li><strong>Hades</strong> : J’arrive après la bataille pour vous dire que c&#39;est bien : fluide, nerveux, dure, addicif sans être ennuyeux. Mais dans le style, j&#39;ai préféré <strong>Cult Of The Lamb</strong>. 7/10</li>
+<li><strong>DLC Quest</strong> : Un indie game de 2013 où faut se déplacer. C&#39;est hyper court et sans aucun intérêt 2/10</li>
+<li><strong>Olli Olli World</strong> : un jeu de skate zen et good vibe en 2D. 7/10</li>
+<li><strong>Aperture Desk Job</strong> : Le truc fait pour apprendre à utiliser le steam deck. Aucun intérêt, si ce n&#39;est quelques moments de nostalgie du monde de <strong>Portal 2</strong>. 4/10</li>
+<li><strong>The procession to Calvary</strong> : J&#39;ai jamais kiffé les points &amp; click. Je ne comprends pas bien comment on peut prendre du plaisir dans ce genre de jeu. Cela dit j&#39;ai trouvé assez drôle l&#39;ambiance 5/10</li>
+<li><strong>Crypt of the NecroDancer</strong> : Un jeu de danse en rythme. J&#39;accroche pas du tout et c&#39;est objectivement pas très beau. 4/10 (Je n&#39;y ai pas joué assez pour avoir un avis définitif)</li>
+<li><strong>Super Indie Kart</strong> : Un très bon Mario kart. 7/10 (Je n&#39;y ai pas joué assez pour avoir un avis définitif)</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮 [24/03/2023] Mes Derniers Jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-03-23/</link>
     <pubDate>Fri, 24 Mar 2023 14:36:58 &#43;0100</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-23/</guid>
-    <description><![CDATA[Hardspace: Shipbreaker : Un très bon jeu de découpe de vaisseau spacial. Un jeu lent, engagé et curieusement très envoutant, vraiment c&#39;est la surprise : 8/10 Sonic &amp; All Star Racing Transformed Collection : Le Mario Kart de steam, j&#39;y joue avec Madame, c&#39;est nickel : 8/10 Please, Don&#39;t Touch Anything 3D : Faut aimer les casses têtes en point &amp; click… 5/10 Last Call BBS : Est-ce vraiment un jeu ?]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-03-23/</guid>
+    <description><![CDATA[<ul>
+<li><strong>Hardspace: Shipbreaker</strong> : Un très bon jeu de découpe de vaisseau spacial. Un jeu lent, engagé et curieusement très envoutant, vraiment c&#39;est la surprise : 8/10</li>
+<li><strong>Sonic &amp; All Star Racing Transformed Collection</strong> : Le Mario Kart de steam, j&#39;y joue avec Madame, c&#39;est nickel : 8/10</li>
+<li><strong>Please, Don&#39;t Touch Anything 3D</strong> : Faut aimer les casses têtes en point &amp; click… 5/10</li>
+<li><strong>Last Call BBS</strong> : Est-ce vraiment un jeu ? Ou un PC ? J&#39;ai pas vraiment accroché malgré un certain charme. 6/10</li>
+<li><strong>Vampire Survivor</strong> : Jeu de survie addictif, fun, efficase et sans prise de têle. 8/10</li>
+<li><strong>Hogwarts Legacy</strong> : Le triple A en monde ouvert pour enfant/ado. Sympas mais l&#39;histoire est naze. 7/10</li>
+<li><strong>Turtles Shredder&#39;s revange</strong> : Un beat&#39;theam all pour trentenaire qui ont la nostalgie des tortues ninjas : 7/10</li>
+<li><strong>Satisfactory</strong> : Jeu de création d&#39;une usine. Très addictif ! 8/10</li>
+<li><strong>Train Valley 2</strong> : Un jeu de gestion de train et de gare. C&#39;est calme et minion. (Il ressemble beaucoup au 1 par ailleurs) : 7/10.</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮  [10/03/2023] Night In The Woods</title>
-    <link>https://thomas-louvigne.github.io/posts/night-in-the-wood/</link>
+    <link>https://thomas-louvigne.github.io/night-in-the-wood/</link>
     <pubDate>Fri, 10 Mar 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/night-in-the-wood/</guid>
-    <description><![CDATA[Suite au débat sur Hogward Legacy et sa créatrice problématique transphobe, je voulais vous parler du jeu Night In The Woods.
-Bon, Night in the Woods, est l&#39;un de mes jeux préférés :
-C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.
-Les décors sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/night-in-the-wood/</guid>
+    <description><![CDATA[<p>
+Suite au débat sur Hogward Legacy et sa créatrice problématique transphobe, je voulais vous parler du jeu <strong>Night In The Woods</strong>.</p>
+<p>
+Bon, <a href="https://store.steampowered.com/app/481510/Night_in_the_Woods/">Night in the Woods</a>, est l&#39;un de mes jeux préférés :</p>
+<p>
+C&#39;est l&#39;histoire d&#39;une ado qui a plus ou moins raté ces études et qui revient vivre dans sa petite ville de province où elle retrouve ses &#34;amis&#34; du lycée.</p>
+<p>
+Les décors sont magnifiques, la musique est parfaite, les personnages sont très bouleversants, l&#39;histoire m&#39;a fait pleurer à plusieurs reprises et m&#39;a permis de me remettre en question sur le sens de ma vie …</p>
+<p>
+Bref, le Game Design de ce jeu encessé par la critique qui est du à <strong>Alec Holowka</strong> .</p>
+<p>
+2 ans après la sortie du jeu, en pleine période MeToo, il a été accusé de VSS par plusieurs femmes qui ont bossé avec lui.</p>
+<p>
+Quelques mois après, il finira par se suicider.
+Cette histoire m&#39;a bizarrement fait adorer Night In the Woods pour la deuxième fois:</p>
+<p>
+Dans le jeu, Alec Holowk parle en fait des (mauvais) choix que l&#39;on fait tous, qui ont de l&#39;impact sûr sois et sur surtout autour de nous.
+Sur l&#39;impossibilité de revenir en arrière. Sur le prix à payer de ses erreurs…</p>
+<p>
+Voila, j&#39;ai pas de fin à cette artucle qui est assez déprimant si ce n&#39;est qu&#39;Alec Holowk est un sale type, mais qu&#39;il m&#39;a beaucoup appris sur la vie.</p>
+]]></description>
 </item><item>
     <title>🎮 [30/07/2022] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-07-22/</link>
     <pubDate>Sat, 30 Jul 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-07-22/</guid>
-    <description><![CDATA[Dying Light 2 - Stay Humain / RPG : L&#39;histoire est nul mais faire du parkour et casser la tete des zombie est hyper jouissif. 7/10 Castle Crasher / Beat Them All: Se joue a 2. (en l&#39;occurence avec ma copine), c&#39;est un grand OUI. 9/10 Chernobilyte / RPG : Pas mal , de bonnes idées, une ambiance et un sénar qui tiennent la route, Mais le theme vraiment dark me fait déprimer.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-07-22/</guid>
+    <description><![CDATA[<ul>
+<li><strong>Dying Light 2 - Stay Humain</strong> / RPG : L&#39;histoire est nul mais faire du parkour et casser la tete des zombie est hyper jouissif. 7/10</li>
+<li><strong>Castle Crasher</strong> / Beat Them All: Se joue a 2. (en l&#39;occurence avec ma copine), c&#39;est un grand OUI. 9/10</li>
+<li><strong>Chernobilyte</strong> / RPG : Pas mal , de bonnes idées, une ambiance et un sénar qui tiennent la route, Mais le theme vraiment dark me fait déprimer. 7/10</li>
+<li><strong>Prison Architect</strong> / Gestion d&#39;équipe : Relancé pour la 10e fois. Ce jeux est génial. 9/10</li>
+<li><strong>Batman Arkham Knight</strong> / RPG : j&#39;ai pas réussi a entrer dedant. Je trouve que le open world a peu d&#39;intéret. Cela dit c&#39;est beau et y a bien une certaines ambiance. Mais, qqch ne marche pas bien… 6/10</li>
+<li><strong>There is no game</strong> / Casse tête &amp; Point &amp; clik : Un peu d&#39;humour absurde et d&#39;histoire du jeux vidéo. Sympathique. 6/10</li>
+<li><strong>Jedi Fallen Order</strong> / Plateformer : Un plateformer moue et ennuyey . Aucun intéret. 3/10</li>
+<li><strong>Forager</strong> / Gestion : Un jeu totalement adictif. <strong>Je dis cela serieusement</strong>. Je peux pas le noter parce qu&#39;il m&#39;a vriament rendu addict.</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮 [28/03/2022] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-03-22/</link>
     <pubDate>Mon, 28 Mar 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-03-22/</guid>
-    <description><![CDATA[Castle Crasher / Beat Them All : A jouer à 2, excellent : 9/10 GTA IV / GTA-like : Balade de gay tony : lent, j&#39;ai joué 1h, je me suis ennuyé. Ca à mal viellit. 2/10 Graveyard Keeper / Gestion de cimetiere : Excellent : 9/10 Train Valley Gestion de gare : Envoutant 8 / 10 Out Of Space Gestion de rangement : Sympas. A jouer à 2 minimum : 6/10 Haven RPG RPG / a jouer à 2 .]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-03-22/</guid>
+    <description><![CDATA[<ul>
+<li><strong>Castle Crasher</strong> / Beat Them All : A jouer à 2, excellent : 9/10</li>
+<li><strong>GTA IV</strong> / GTA-like : Balade de gay tony : lent, j&#39;ai joué 1h, je me suis ennuyé. Ca à mal viellit. 2/10</li>
+<li><strong>Graveyard Keeper</strong> / Gestion de cimetiere : Excellent : 9/10</li>
+<li><strong>Train Valley</strong> Gestion de gare : Envoutant 8 / 10</li>
+<li><strong>Out Of Space</strong> Gestion de rangement : Sympas. A jouer à 2 minimum : 6/10</li>
+<li><strong>Haven RPG</strong> RPG / a jouer à 2 . Lent et Chiant : 2/10</li>
+<li><strong>Head Lander</strong> / : Aucun intéret : 3/10</li>
+<li><strong>Tetris Effect</strong> / Tetris Like : Faible : 4/10</li>
+<li><strong>Kingdome NewLand</strong> : J&#39;ai pas compris : 3/10</li>
+</ul>
+]]></description>
 </item></channel>
 </rss>

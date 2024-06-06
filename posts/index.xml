@@ -3,97 +3,534 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 29 May 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [29/05/2024] Agile, faut qu&#39;on parle</title>
+    <link>https://thomas-louvigne.github.io/rupture-agile/</link>
+    <pubDate>Wed, 29 May 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/rupture-agile/</guid>
+    <description><![CDATA[<p>
+Chère Agile, mon amour,
+Voila, ça fait 8 ans qu&#39;on se fréquente, 8 ans qu&#39;on est ensemble, mais la je crois qu&#39;il faut qu&#39;on parle.</p>
+<p>
+Je me rappelle quand je t&#39;ai rencontré au 34 , y avait CTH et JVI qui m&#39;expliquait qu&#39;on allait bien ensemble, que ce serait chouette, qu&#39;il était permis de rêver. C&#39;était marrant bien qu&#39;un peu gênant.
+En vrai, j&#39;y croyais sans y croire, je me disais, &#34; c&#39;est sure, elle à l&#39;air belle et sympa&#34;, mais j&#39;ai eu suffisamment de fois le coeur brisé pour ne plus croire au compte de fée.</p>
+<p>
+Méfiant et un peu désabusé, je savais que les vraies histoires d&#39;amour se vivent à la fois dans les voyages et dans le quotidien le plus crasse.
+Les lumières, le maquillage et les belles paroles s&#39;effacent si vite…</p>
+<p>
+Et puis on a voyagé ensemble au ministère de l&#39;intérieur sur un obscur projet de gestion informatique de migrants. Bon, raconté comme ça, ça a pas l&#39;air super romantique. Mais tu vois on était 20 dev et on était bien ensemble. Au quotidien, on vivait l&#39;aventure agile. Ton aventure.
+Tu te rappelles ? on prenait notre café face au kanban physique avec de véritable post-it qui collait mal ! On pouvait rester comme ça 15 min a se regarder droit dans les yeux. Et c&#39;était bien.</p>
+<p>
+J&#39;étais nul et plutôt maladroit, mais les techleads nous ont bien aidé. Ils ont organisés des séances de mob-programming et j&#39;ai appris ce qu&#39;était le TDD avec toi. Tu me parlais d&#39;excellence technique. Je pensais que c&#39;était un rêve, tu t&#39;es battue contre ce système capitaliste pourri pour nous montrer que rien n&#39;était plus important que de prendre du temps ! Prendre du temps pour la qualité du code. Prendre du temps pour être fière de son travail. C&#39;était fort ! Ça donnait un sens à notre histoire !</p>
+<p>
+Agile, mon amour, tu me disais que notre couple ne pourrait fonctionner que si on était capable de vraiment communiquer. Communiquer de manière non violente, ça va de soi, mais communiquer sans arrière pensée, sans politique, en toute transparence et régulièrement.
+Et pour communiquer, ça on a communiqué ! Tous les 4 matins on refaisait le monde. Les daily, les Sprint Planning, les Démos de folies, et surtout, les Rétros. Ha les rétros !</p>
+<p>
+Faut qu&#39;on parle de tes fameuses rétros, c&#39;est la je crois où tu m&#39;a fais le plus craquer !
+Attends, tu te souviens de cette fameuse rétro où la PO s&#39;était mise à pleurer ? Et où dans la même heure - on s&#39;est excusé et promis, tous ensemble d&#39;améliorer les choses ! Plus que des promesses, on avait actés en séance les trucs qui feraient que plus jamais on serait triste ! Et cela avait marché ! Contre toute attente ! En 1h30 on s&#39;était dit nos malheurs et on avait trouvé les moyens d&#39;en sortir ! Tes rétros était des moments à sensation forte. Une vrais aventure !
+Tes rétros étaient magiques, de véritables appareils à transformer la colère en espoir. N&#39;y a t&#39;il rien de plus fort ?</p>
+<p>
+Agile, tu m&#39;a fait comprendre que nos émotions n&#39;étaient pas sales, qu&#39;on étaient des êtres sensibles avant d&#39;être des travailleurs. Je te remercierais jamais assez pour cela.</p>
+<p>
+Notre histoire était belle, et on n&#39;a vécu plein d&#39;aventure, a XXXX, a YYYYY, a ZZZZ…
+Des que je penses a toi, pleins de belles images me revienne.</p>
+<p>
+Et puis y en a eu de moins belles histoires. Et de plus en plus.
+Ça a commencé quand tu m&#39;a parlé &#34; d&#39;agilité à l&#39;échelle &#34;. Au départ, j&#39;étais super partant pour essayer ça. A XXXX et au ZZZZ c&#39;était ça l&#39;agilité à l&#39;échelle ? Hun ?
+Et puis après tu m&#39;a dit &#34; non, c&#39;est pas assez SAFe &#34;, j&#39;ai pas bien compris. Au fur et à mesure, tu as eu pleins de nouveaux potes dont je comprenais bien ce qu&#39;ils faisaient là. Y avait les Product Manager, des products lead, des co-po, des business analystes, des experts en tous genres… J&#39;ai l&#39;impression que je devais te partager avec pleins de gens.</p>
+<p>
+J&#39;ai essayé de te dire non mais attends, &#34; On est bien là juste entre développeurs et PO. Ça suffit, on a pas besoin de tous ces tocards pour être heureux ? &#34; Là tu t&#39;es fachés, tu m&#39;a traité, de ringard. Apparemment on avait absolument besoin de ces gens qui ne connaissaient rien au code.
+Bon j&#39;ai rien dit, mais j&#39;étais pas bien.</p>
+<p>
+Après, je voulais parler avec toi, mais tu m&#39;a dit que tu n&#39;avais pas le temps. Fallait que je cale un point dans l&#39;agenda !
+Je t&#39;ai dis que je préférais attendre la rétro. Mais tu es pas venue. Je me suis sentie seule.</p>
+<p>
+Un matin j&#39;ai surpris un Scrum Master faire un tableau excel avec les jours hommes des développeurs. Il nous espionnait ! Quand je t&#39;ai raconté tout ça furieux, tu m&#39;a regardé et tu m&#39;a dit qu&#39;il fallait que je grandisse un peu, que dans notre monde adulte, il fallait absolument mettre les jours / hommes des développeurs dans des tableaux excel. J&#39;étais abasourdi. L&#39;Agile révolutionnaire que j&#39;avais connu il y a quelques années n&#39;aurait jamais dit ça. Je crois que j&#39;ai pleuré ce matin-là.</p>
+<p>
+Alors le temps est passé, nos discussions enflammées se sont mécanisées, se sont régulées, ce sont policées. Puis un jour, après une réunion, tu m&#39;a dit &#34; Thomas, tu peux pas dire ça &#34;. Il y avait donc des choses à dire et des choses à taire. De jours en jours, les non-dits s&#39;installait et murmuraient des &#34; c&#39;est comme ça &#34;, &#34; c&#39;est obligé &#34;, &#34; c&#39;est pas dans notre main &#34;, &#34; on peut rien faire de toute façons &#34; .</p>
+<p>
+Les ingénieurs, ces créatifs, ces codeurs-rêveurs, ceux qui pouvaient réparer le code - et donc réparer le monde entier - se sont spécialisés en soldat du jira. Il faut faire ce qui est écrit. Et tant pis si tu as pas parlé avec l&#39;utilisateur final.</p>
+<p>
+Les utilisateurs, c&#39;étaient nos enfants. On s&#39;était promis de tout faire pour eux ! Tout !
+Tu te rappelles ? On avait juré d&#39;être toujours auprès d&#39;eux, tout près d&#39;eux . On s&#39;était juré de tout faire pour les rendre heureux.</p>
+<p>
+Mais jours après jours, ils se sont éloignés. On leur a parlé à travers des tickets, de contrats, des &#34; spécialistes-des-utilisateurs &#34;, des &#34; représentants-de-nos-enfants &#34;, bref de gens qui n&#39;ont jamais posé une ligne de code ! Aujourd&#39;hui on ne voit presque plus nos enfants !
+Agile, c&#39;est pas eux qui sont partis ! C&#39;est toi !
+Je te l&#39;ai dit, j&#39;ai crié et tu n&#39;as rien fait ! Ça je suis désolé, mais je ne te le pardonnerais jamais !</p>
+<p>
+L&#39;espoir que fabriquait la machine à rétro s&#39;est éteint jours après jours. Aujourd&#39;hui la machine est cassée.</p>
+<p>
+Alors oui, après avoir regardé notre première <a href="https://agilemanifesto.org/iso/fr/principles.html">lettre d&#39;amour</a>, j&#39;ai repensé à mes ex, ceux que j&#39;avais fréquenté avant toi. Oui c&#39;est vrai,je l&#39;assume, j&#39;ai appelé XP et Lean pour savoir ce qu&#39;ils devenaient.
+Tu sais quoi ? Quand je les eu au bout du fil, je n&#39;entendais que ta voix. Ta voix de nos premiers jours. Ta voix que je ne retrouverais pas.</p>
+<p>
+Voilà Agile, pour nous deux, je crois c&#39;est mieux que je parte.</p>
+]]></description>
+</item><item>
     <title>🎮 [11/02/2024] Mes Derniers Jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-02-24/</link>
     <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-02-24/</guid>
-    <description><![CDATA[Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).
-Titre Genre Critique Note Celeste Plateformer difficile Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique. 10/10 Baldur&#39;s Gate 3 RPG C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-02-24/</guid>
+    <description><![CDATA[<p>
+Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).</p>
+<table>
+<thead>
+<tr>
+<th>Titre</th>
+<th>Genre</th>
+<th>Critique</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Celeste</td>
+<td>Plateformer difficile</td>
+<td>Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique.</td>
+<td>10/10</td>
+</tr>
+<tr>
+<td>Baldur&#39;s Gate 3</td>
+<td>RPG</td>
+<td>C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023. Je trouve cela juste trop long.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>The Red String Club</td>
+<td>Point &amp; click du futur</td>
+<td>J&#39;y ai pas assez joué pour le noter correctement, mais le début avait l&#39;air prometteur.</td>
+<td></td>
+</tr>
+<tr>
+<td>Against The Storm</td>
+<td>City Builder</td>
+<td>C&#39;est excellent, <a href="../../posts/je-joue-a-against-the-storm/">j&#39;en parle ici</a>.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Lethal Company</td>
+<td>Horreur en Coop</td>
+<td>Y a pleins de très bonne idées. Sympa mais pas exceptionnelle. Surtout très moche.</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Kingdoms Rebord</td>
+<td>City Builder médiéval</td>
+<td>Cool, mais sans plus. Ça manque de profondeur et d&#39;originalité.</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Citzen Sleeper</td>
+<td>Roman Graphique &amp; LRPG</td>
+<td>J&#39;y ai joués que quelques heures. L&#39;histoire est simple et belle. Le coté Light RPG fonctionne étonnamment bien.</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Hi-Fi Rush</td>
+<td>Beat Them All Rythmé</td>
+<td>Un gamin insupportable doit taper des robots dans une ambiance cartoonesque. Y a des phases de plateforme chiante. C&#39;est l&#39;ennuie.</td>
+<td>4/10</td>
+</tr>
+<tr>
+<td>CP2077 - Phantom Liberty</td>
+<td>FPS / RPG</td>
+<td>Mon jeux préféré a sortie un DLC très réussit.</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Starfield</td>
+<td>RPG</td>
+<td>Vraiment décevant a tout point de vue. J&#39;en parle <a href="../je-joue-a-starfield">ici</a> .</td>
+<td>4/10</td>
+</tr>
+</tbody>
+</table>
+]]></description>
 </item><item>
     <title>🤹 [09/01/2024] Cheat Sheet for the SCRUM certification 2020</title>
-    <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
+    <link>https://thomas-louvigne.github.io/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
-    <description><![CDATA[I have recently pass my PSM 1 and PSPO 1 certification from scrum.org .
-Here&#39;s a cheat sheet to help you revise.
-⚠ It is in 0.11 version for now. If you find errors, please, let me know !
-Last update : 09/01/2024
-🖨 Here the PDF version ! (Easier to print)
-Thanks to Fabrice A. , Grégoire P. and Marxime O. for his proofreading.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/2020-psm-scrum-certification-cheat-sheet/</guid>
+    <description><![CDATA[<p>
+I have recently pass my PSM 1 and PSPO 1 certification from <a href="scrum.html">scrum.org</a> .</p>
+<p>
+Here&#39;s a cheat sheet to help you revise.</p>
+<p>
+⚠ It is in 0.11 version for now. If you find errors, please, let me know !</p>
+<p>
+<em>Last update :</em> 09/01/2024</p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" /></p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" /></p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" /> </p>
+<p>
+🖨  <a href="./2020 PSM-PSPO Cheat Sheet.pdf">Here the PDF version !</a> (Easier to print)</p>
+<p>
+Thanks to Fabrice A. , Grégoire P. and Marxime O. for his proofreading.</p>
+]]></description>
 </item><item>
     <title>🎮 [26/12/2023] Je joue à Against The Storm</title>
-    <link>https://thomas-louvigne.github.io/posts/je-joue-a-against-the-storm/</link>
+    <link>https://thomas-louvigne.github.io/je-joue-a-against-the-storm/</link>
     <pubDate>Tue, 26 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-against-the-storm/</guid>
-    <description><![CDATA[C’est un city builder médiévale fantastique sous la pluie .
-Y a des relents de roguelite : tu enchaînes les constructions de ville pour gagner des upgrades pour tes prochaines construction.
-Et a chaque construction de ville tu as des objectifs différents à atteindre. L’ambiance est un peu dark-fantasy-poisseux. Je pensais que ça finira par tirer sur la longueur, mais le gameplay se complexifie pas mal à chaque run.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/je-joue-a-against-the-storm/</guid>
+    <description><![CDATA[<p>
+C’est un city builder médiévale fantastique sous la pluie .</p>
+<p>
+Y a des relents de roguelite : tu enchaînes les constructions de ville pour gagner des upgrades pour tes prochaines construction.</p>
+<p>
+Et a chaque construction de ville tu as des objectifs différents à atteindre.
+L’ambiance est un peu dark-fantasy-poisseux.
+Je pensais que ça finira par tirer sur la longueur, mais le gameplay se complexifie pas mal à chaque run.</p>
+<p>
+Bref, j’y joue depuis un petit mois et ça me plaît pas mal.</p>
+<p>
+[édit 14/02/2024]
+Finalement, le gameplay se renouvelle parce que les &#34;objectifs de missions&#34; changent a chaque mission.
+Donc, a chaque fois, c&#39;est une nouvelle aventure. Bref, je n&#39;arrives pas à lâcher le jeu. Je le recommande vivement.</p>
+]]></description>
 </item><item>
     <title>🐎 [18/12/2023] A propos du dernier Meetup EMACS Parisien</title>
-    <link>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</link>
+    <link>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</link>
     <pubDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</guid>
-    <description><![CDATA[J&#39;ai organisé le Meetup emacs de Paris du 05/12/2023 dans ma boite.
-Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.
-Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond idéologique entre les participants :]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</guid>
+    <description><![CDATA[<p>
+J&#39;ai organisé le <a href="https://emacs-doctor.com/">Meetup emacs de Paris</a> du 05/12/2023 dans ma boite.</p>
+<p>
+Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : 
+Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.</p>
+<p>
+Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond <em>idéologique</em> entre les participants :</p>
+<p>
+Une sorte de militantisme libriste et anti-moderne, anti-bloitware, à contre courant de tout ce qu&#39;il se fait.</p>
+<p>
+En même temps, on rassemble des gens qui utilise un logiciel qui est né dans les années 70. Soit il y a 50 ans ! Beaucoup d&#39;entre nous l&#39;utilise dans le terminal.</p>
+<p>
+Très vite il y a eu des petites blagues, des connexions, sans se connaître j&#39;ai eu l&#39;impression de rencontrer des vieux potes.</p>
+<p>
+Sur le fond, on a discuté de <a href="https://www.orgroam.com/">org-roam</a>. L&#39;un de ses créateur était là pour nous montrer, en LISP, comment et pourquoi c&#39;était fait. C&#39;était technique et un peu lunaire, hors sole… Ou génial !</p>
+<p>
+<strong>Org-Roam</strong> est une extension d&#39;une autre extension (<strong>org-mode</strong>) de ce vieux logiciel qui est EMACS.</p>
+<p>
+Bref, au delà du fond, j&#39;ai trouvé ce meetup simplement sympa.</p>
+<p>
+Pour avoir les infos, sur les prochains meetup parisien, ca ce passe <a href="https://emacs-doctor.com/">ici</a>.</p>
+]]></description>
 </item><item>
     <title>🐎 [04/11/2023] De purcell à bedrock : Je change de starter-kits</title>
-    <link>https://thomas-louvigne.github.io/posts/emacs-bedrock/</link>
+    <link>https://thomas-louvigne.github.io/emacs-bedrock/</link>
     <pubDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/emacs-bedrock/</guid>
-    <description><![CDATA[Bon, j&#39;avais dis dans un précédent article que Purcell était un excellent starter kit pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.
-Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à emacs-bedrock. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.
-Il à l&#39;avantage d&#39;être très rapide et plutôt modulable.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/emacs-bedrock/</guid>
+    <description><![CDATA[<p>
+Bon, j&#39;avais dis dans un précédent article que <a href="purcell-startup-kit-emacs.html">Purcell était un excellent starter kit</a> pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.</p>
+<p>
+Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à <a href="https://git.sr.ht/~ashton314/emacs-bedrock">emacs-bedrock</a>. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.</p>
+<p>
+Il à l&#39;avantage d&#39;être très rapide et plutôt modulable. Y a rien de sensationnel, je dirais même que c&#39;est plutôt décevant tellement il est vide. Mais je crois que c&#39;est ce que j&#39;aime chez lui !</p>
+]]></description>
 </item><item>
     <title>🎮 [27/09/2023] Je joue à Starfield</title>
-    <link>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</link>
+    <link>https://thomas-louvigne.github.io/je-joue-a-starfield/</link>
     <pubDate>Wed, 27 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/je-joue-a-starfield/</guid>
-    <description><![CDATA[🔫 Baston J&#39;ai aimé la difficulté du début du jeu, où je me suis retrouvé sans balles ni medpacks. Passé les premières missions, j&#39;ai fait le stocks. Je n&#39;ai maintenant plus peur des combats. Évidement, les bot-assistants sont déplorables et se mette devant toi dans les combats L&#39;IA des adversaires est pas dingue Bref, les phases de shoot sont lentes et ennuyeuses 🎨 Direction Artistique Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques animaux moches qu&#39;on peut tuer On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout Les 2 premières villes que j&#39;ai vue sont vraiment nuls: Déjà ça laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop caricaturale.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/je-joue-a-starfield/</guid>
+    <description><![CDATA[
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+🔫 Baston
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<ul>
+<li>J&#39;ai aimé la difficulté du début du jeu, où je me suis retrouvé sans balles ni medpacks.</li>
+<li>Passé les premières missions, j&#39;ai fait le stocks. Je n&#39;ai maintenant plus peur des combats.</li>
+<li>Évidement, les bot-assistants sont déplorables et se mette devant toi dans les combats</li>
+<li>L&#39;IA des adversaires est pas dingue</li>
+<li>Bref, les phases de shoot sont lentes et ennuyeuses</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+🎨 Direction Artistique
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<ul>
+<li>Les planètes sont, dans l&#39;ensemble, vides et ne donnent pas du tout envie de rester</li>
+<li>Une fois dépassé les avants-postes on se retrouve sur du grand rien avec quelques animaux moches qu&#39;on peut tuer</li>
+<li>On va avoir quelques ressources à scanner pour une sorte de pokedex interne mais c&#39;est tout</li>
+<li>Les 2 premières villes que j&#39;ai vue sont vraiment nuls: Déjà ça laggue, c&#39;est trop grand, trop horizontale, trop attendu ou trop caricaturale.</li>
+<li>Et puis c&#39;est vide. On se retrouve dans un magasin hyper grand, il n&#39;y a qu&#39;un seul PNJ qui n&#39;a pas de dialogue. Ça semble totalement mort et faux.</li>
+<li>Je pense notamment à la ville cowboy qui fait vraiment tache par rapport au reste de l&#39;univers. Pourquoi des cowboys dans l&#39;espace alors que tout le reste est futuriste ? Ça ne colle pas.</li>
+<li>Et puis c&#39;est long, les temps de chargement après chaque porte ouverte, ça n&#39;est plus possible en 2023.</li>
+<li>Quand on compare avec un NightCity et sa ville qui vit a fond et sans temps de chargement, on joue clairement pas dans la même court.</li>
+<li>De manière générale, la DA est un échec : on tente une vision futuriste proche mais du coup, c&#39;est laid comme une zone industrielle au bord nogent-sur-marne.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+📘 Histoire
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<ul>
+<li>Les dialogues sont plutôt con-con et prévisible.</li>
+<li>Le coter &#34;<em>Point de charisme</em>&#34; fait quelques trucs marrant, mais on est à des années-lumières de ce qui se passe sur un BG3.</li>
+<li>
+<p>Les personnages sont pas intéressants et pas attachant parce que ultra caricaturaux. La working girl bourrine, le bad-boy cowboy, l&#39;homme d&#39;affaires cupide…</p>
+<ul>
+<li>A coté de cela, on a quand même sortie <strong>Baldur&#39;s Gate 3</strong> et <strong>Cyberpunk 2077</strong> avec de vrais personnages, complexe qui ont de vrais personnalités.</li>
+</ul>
+</li>
+<li>Le pitch est super mauvais : &#34;On est le club des scientifiques qui veulent connaître le monde ! Mais dans le groupe y a plein de gens qui ont l&#39;air d&#39;en avoir rien à faire de la science.&#34;</li>
+<li>Bref, l&#39;intrigue de base est nul</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+🖌️ User Interface
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<ul>
+<li>Toutes les interfaces sont chiante. Bethesda ne s&#39;est toujours pas améliorée là-dessus depuis Skyrim</li>
+<li>Les bastons dans l&#39;espace sont mal branlés, notamment l&#39;assignement de l&#39;énergie dans ton vaisseau entre les missiles et les boucliers</li>
+<li>L&#39;amélioration de ton vaisseau spatiale est incompréhensible. J&#39;ai très vite abandonné l&#39;idée de le customiser</li>
+<li>J&#39;ai amélioré plein de trucs dans le centre de recherche. Je n&#39;ai jamais compris à quoi servait ces améliorations ! 🙃</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+😬 Autres trucs agaçant
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li>Le sac est toujours trop petit</li>
+<li>Le lock picking est complexe</li>
+<li>Le jeu lag pourtant je joue sur un Shadow PC boosté</li>
+<li>Sur steamdeck le jeu est d&#39;une laideur sans nom</li>
+<li>Sur mon linux classique avec une GTX 1060, ça tourne pas. C&#39;est con mais Cyberpunk 2077, lui tourne de manière acceptable</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+📝 Conclusion
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<p>
+Mais j&#39;ai du mal à le croire, de toute façon, je n&#39;ai plus envie d&#39;y jouer.</p>
+<p>
+Pour 70 euros, on a de la quête (<del>fedexe</del>) en masse et c&#39;est son point positif. La durée de vie semble extrêmement longue.
+Au final, on parle d&#39;un remix de Skyrim - l&#39;ambiance épique en moins - dans l&#39;espace.</p>
+<p>
+Si il était sorti en 2011 comme son grand frère, ce jeu aurait mérité un bon 8/10 .</p>
+<p>
+Mais en 2023, après Baldur&#39;s Gate 3, après No Man&#39;s Sky, après Cyberpunk2077… Honnêtement y a rien qui va pour un AAA avec des millions de budgets.
+Je ne comprends pas comment et pourquoi la presse vidéo-ludique lui met des notes aussi haut.</p>
+<p>
+<strong>Ma note finale : 4/10</strong></p>
+<p>
+PS : <em>Je finis cet article ayant lancé Cyber Punk 2077 : Phantom Liberty. J&#39;ai pris plus de plaisir en 3 heures à Night City que 15h dans les étoiles de Starfield…</em></p>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🎮 [05/09/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-08-23/</link>
     <pubDate>Tue, 05 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-08-23/</guid>
-    <description><![CDATA[Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…
-À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck
-Airborn Kingdom / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10 Inscryption / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-08-23/</guid>
+    <description><![CDATA[<p>
+Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…</p>
+<p>
+<em>À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck</em></p>
+<ul>
+<li><strong>Airborn Kingdom</strong> / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10</li>
+<li><strong>Inscryption</strong> / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable. Surtout le jeux est en 3 grandes parties très surprenante. La fin est superbe, allez jusqu&#39;au bout !  9/10</li>
+<li><strong>Dave The Diver</strong> / Mix entre subnautica et Cook, Serve Delicious. Incroyable jeu de l&#39;été. Une sorte de fête forraine permanente, un style visuel unique, de l&#39;humour. L&#39;histoire est un peu trop légère pour toucher la perfection. 9/10</li>
+<li><strong>Coffee Talk</strong> / Du visual novel lent, mignon et profond. On s&#39;attache aux personnage malgré le niveau 0 du gameplay. J&#39;aime beaucoup. 8/10</li>
+<li><strong>Retrowave</strong> / Jeu de bagnole avec des synthé. Good feeling quoi qu&#39;assez pauvre niveau gameplay. 7/10</li>
+<li><strong>Mafia Définitive édition</strong> / Jeu de bandit à la 3e personne. C&#39;est du GTA au rabais, l&#39;histoire est moins prenante, c&#39;est des couloirs + shoot qui s&#39;enchaine. C&#39;est domage parce que c&#39;est beau et l&#39;ambiance est pas mauvaise. 6/10</li>
+</ul>
+]]></description>
 </item><item>
     <title>🎮 [27/06/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</link>
+    <link>https://thomas-louvigne.github.io/derniers-jeux-06-23/</link>
     <pubDate>Tue, 27 Jun 2023 11:24:01 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/derniers-jeux-06-23/</guid>
-    <description><![CDATA[A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck.
-House Flipper / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10 The Tenants / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une âme ou d&#39;un parti pris. Theme Hospital et ses successeurs savaient être drole sur ce genre de sujets.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/derniers-jeux-06-23/</guid>
+    <description><![CDATA[<p>
+<em>A noter que tous ces jeux ont été joués sous Linux et/ou SteamDeck</em>.</p>
+<ul>
+<li><strong>House Flipper</strong> / Build de logement : Étrangement satisfaisaint de nettoyer, ranger et peindre des appartements. 7/10</li>
+<li><strong>The Tenants</strong> / Gestion de propriété : Vous devez gérer votre empire de location d&#39;appartement. Sympathique, mais sans plus, ca manque d&#39;une âme ou d&#39;un parti pris. <em>Theme Hospital</em> et ses successeurs savaient être drole sur ce genre de sujets. 6/10</li>
+<li><strong>Apex Legende</strong> / Battle Royal : J&#39;y ai pas joué assé pour donner une note. Mais l&#39;univers me semble con-con et enfentin.</li>
+<li><strong>Boy Friend Dungon</strong> / Hack &amp; Slash + Dating Sim : On drague des &#34;<em>épé.e.s</em>&#34; qui se transforment aussi en humain.e.s. C&#39;est malin, ca marche bien. C&#39;est pas si niais. 7/10</li>
+<li><strong>Persona 4</strong> / JRPG : J&#39;ai fait 4h d&#39;un jeu qui en demande 60 pour se terminer. Ca m&#39;a l&#39;aire grandiose, mais trop long pour moi. A noter que le jeu est très moche. 7/10</li>
+<li><strong>Lost in Harmony</strong> / Dance:  je l&#39;ai acheté parce que c&#39;est une sorte de préquel à l&#39;excellent <strong>Road 96</strong> que j&#39;avais adoré. Bon, ca n&#39;a pas beaucoup d&#39;intéret, mais y a de belles musique. 5/10</li>
+<li><strong>Virtuaverse</strong> / Point n&#39;click : L&#39;atmosphère et la musique sont bonnes. (À noter que j&#39;ai du y jouer que quelques heures). 7/10</li>
+<li><strong>Wobbledogs</strong> / Tamagotchi : Alors, c&#39;est absurde, beau et sympathique. 8/10</li>
+</ul>
+]]></description>
 </item><item>
     <title>🤹 [26/06/2023] Résumé de Team Topologies</title>
-    <link>https://thomas-louvigne.github.io/posts/resume_team_topologies/</link>
+    <link>https://thomas-louvigne.github.io/resume_team_topologies/</link>
     <pubDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/resume_team_topologies/</guid>
-    <description><![CDATA[Introduction : Team Topologies est un bouquain de Manuel Pais et Matthew Skelton. C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.
-Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo et qui corresspond à pas mal de truc que j&#39;ai lu.
-En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication. Je vous les listes ici :]]></description>
-</item><item>
-    <title>🔧 [25/03/2023] Stratégie de gestion des conflits dans l&#39;entreprise</title>
-    <link>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</link>
-    <pubDate>Wed, 03 May 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/strategie-de-gestion-des-conflits-dans-les-entreprises/</guid>
-    <description><![CDATA[Introduction Je cherche ici à lister les stratégies que j&#39;ai pu observer en entreprise lors de conflit.
-Il est possible que je mette à jour cette liste si je trouve d&#39;autres stratégies.
-N&#39;hésitez pas à me contacter si vous voyez des stratégies que j&#39;aurais pu oublier.
-Cas de conflit : A et B divergent, ils ont des intérêts ou des agendas opposés :
-&lt;- A / B -&gt;
-On observe que A et B ont des intérêts personnels qui divergent.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/resume_team_topologies/</guid>
+    <description><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Introduction :
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p><strong>Team Topologies</strong> est un bouquain de <strong>Manuel Pais</strong> et <strong>Matthew Skelton</strong>.
+C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.</p>
+<p>
+Je vous fais ici un résumé que vous pouvez trouver dans <a href="https://www.youtube.com/watch?v=Qzd2NOBNfQs">cette vidéo</a> et qui corresspond à pas mal de truc que j&#39;ai lu.</p>
+<p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Qzd2NOBNfQs?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+</p>
+<p>
+ En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication.
+ Je vous les listes ici :</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+4 types équipes :
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+Stream-aligned Team
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<ul>
+<li>C&#39;est le type d&#39;équipe de base : Autonome et pluridisciplinaire</li>
+<li>C&#39;est typiquement l&#39;équipe SCRUM</li>
+<li>C&#39;est une équipe produit … ou pas forcément !</li>
+<li>Ce type d&#39;équipe travail sur un <strong>flux de valeur</strong> (et pas forcément un produit).</li>
+<li>Ils ne sont pas &#34;<em>forcément</em>&#34; au contact des utilisateurs finaux</li>
+<li>Elle peut travailler pour des utilisateurs interne</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+Enabling Team
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<ul>
+<li>Ils ne produisent pas directement de la valeur</li>
+<li>Ils sont en support des autres équipes</li>
+<li>Ils permettent aux autres équipes d&#39;aller plus loin</li>
+<li>Ils sont transverses</li>
+<li>Ont souvent une posture de coach</li>
+<li>Ils font monter en compétence les autres équipes</li>
+<li>(Les CoP pourraient être des enabling team)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Complicated Subsystem
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li>Ni <em>Stream aligned Team</em> ni <em>Enabling Team</em></li>
+<li>Ce sont des experts techniques (donc rarement des experts produit)</li>
+<li>Ces équipes peuvent être problématiques et devenir des &#34;<em>Component team</em>&#34;</li>
+<li>Ces &#34;<strong>Complicated Subsystem Team</strong>&#34; doivent être utilisé en dernier recours</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+Plateform Team
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<ul>
+<li>Ils fournissent une <strong>plateforme</strong>,un <strong>service</strong> ou plutot une <em><em>abstraction</em></em> de ces services.</li>
+<li>Leur objectif est de simplifier les choses pour les <strong>Stream-Aligned Team</strong></li>
+<li><span style="text-decoration: underline;">Exemple</span>: les plateformes qui fournissent une infra pour les devloppers</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+3 modes d&#39;interactions
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>On parle ici de type d&#39;interraction entre les équipes.</p>
+<div id="outline-container-headline-8" class="outline-3">
+<h3 id="headline-8">
+Collaboration
+</h3>
+<div id="outline-text-headline-8" class="outline-text-3">
+<ul>
+<li>C&#39;est quand 2 équipes bossent ensemble</li>
+<li>ils ont beaucoup d&#39;interaction</li>
+<li>Évidement, plus il y a de personnes dans cette collaboration, plus c&#39;est problématique</li>
+<li>C&#39;est bien pour des équipes qui débute ensemble</li>
+<li>Ça permet aussi d&#39;accélérer l&#39;innovation</li>
+<li>Idéalement on commence avec de la collaboration</li>
+<li>Puis on met en place des <strong>interfaces</strong> entre 2 équipes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-3">
+<h3 id="headline-9">
+X-a-a-service
+</h3>
+<div id="outline-text-headline-9" class="outline-text-3">
+<ul>
+<li>Analogie avec l&#39;acronyme &#34;<em>Software-As-A-Service</em>&#34;</li>
+<li>Permet une relation d&#39;autonomie des équipes</li>
+<li>Autrement dit une relation &#34;<em>client / fournisseur</em>&#34; entre deux équipes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-3">
+<h3 id="headline-10">
+Facilitating
+</h3>
+<div id="outline-text-headline-10" class="outline-text-3">
+<ul>
+<li>C&#39;est pour <em>aider</em> des équipes</li>
+<li>C&#39;est LE modèle d&#39;interraction pour les coachs et mentors</li>
+<li>C&#39;est donc pensé d&#39;avantage pour les <strong>Enabling Teams</strong></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-11" class="outline-2">
+<h2 id="headline-11">
+Conclusion
+</h2>
+<div id="outline-text-headline-11" class="outline-text-2">
+<ul>
+<li>Team Topologie est très théorique, il n&#39;y a rien de concret ni guide &#34;<em>pret à l&#39;emploi</em>&#34;</li>
+<li>Par aillieurs Team Topologies se veut un programme très viuel. On peut <a href="https://teamtopologies.com/shop/modeling-shapes-for-team-types-and-team-interactions-pdf">télécharger sur des modèles</a> pour mieux visualiser ses organisations</li>
+</ul>
+</div>
+</div>
+]]></description>
 </item></channel>
 </rss>

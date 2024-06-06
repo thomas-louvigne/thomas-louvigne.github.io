@@ -1,19 +1,32 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>agile - Catégorie - Le blog de Thomas Louvigné</title>
+        <title>Agile - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/agile/</link>
-        <description>agile - Catégorie - Le blog de Thomas Louvigné</description>
+        <description>Agile - Catégorie - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agile/" rel="self" type="application/rss+xml" /><item>
     <title>🤹 [09/01/2024] Cheat Sheet for the SCRUM certification 2020</title>
-    <link>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</link>
+    <link>https://thomas-louvigne.github.io/2020-psm-scrum-certification-cheat-sheet/</link>
     <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/2020-psm-scrum-certification-cheat-sheet/</guid>
-    <description><![CDATA[I have recently pass my PSM 1 and PSPO 1 certification from scrum.org .
-Here&#39;s a cheat sheet to help you revise.
-⚠ It is in 0.11 version for now. If you find errors, please, let me know !
-Last update : 09/01/2024
-🖨 Here the PDF version ! (Easier to print)
-Thanks to Fabrice A. , Grégoire P. and Marxime O. for his proofreading.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/2020-psm-scrum-certification-cheat-sheet/</guid>
+    <description><![CDATA[<p>
+I have recently pass my PSM 1 and PSPO 1 certification from <a href="scrum.html">scrum.org</a> .</p>
+<p>
+Here&#39;s a cheat sheet to help you revise.</p>
+<p>
+⚠ It is in 0.11 version for now. If you find errors, please, let me know !</p>
+<p>
+<em>Last update :</em> 09/01/2024</p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 1.jpg" /></p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 2.jpg" /></p>
+<p>
+<img src="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" alt="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" title="./2020 PSM-PSPO Cheat Sheet Page 3.jpg" /> </p>
+<p>
+🖨  <a href="./2020 PSM-PSPO Cheat Sheet.pdf">Here the PDF version !</a> (Easier to print)</p>
+<p>
+Thanks to Fabrice A. , Grégoire P. and Marxime O. for his proofreading.</p>
+]]></description>
 </item></channel>
 </rss>

@@ -1,38 +1,594 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>agilité - Catégorie - Le blog de Thomas Louvigné</title>
+        <title>Agilité - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</link>
-        <description>agilité - Catégorie - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agilit%C3%A9/" rel="self" type="application/rss+xml" /><item>
+        <description>Agilité - Catégorie - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 29 May 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agilit%C3%A9/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [29/05/2024] Agile, faut qu&#39;on parle</title>
+    <link>https://thomas-louvigne.github.io/rupture-agile/</link>
+    <pubDate>Wed, 29 May 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/rupture-agile/</guid>
+    <description><![CDATA[<p>
+Chère Agile, mon amour,
+Voila, ça fait 8 ans qu&#39;on se fréquente, 8 ans qu&#39;on est ensemble, mais la je crois qu&#39;il faut qu&#39;on parle.</p>
+<p>
+Je me rappelle quand je t&#39;ai rencontré au 34 , y avait CTH et JVI qui m&#39;expliquait qu&#39;on allait bien ensemble, que ce serait chouette, qu&#39;il était permis de rêver. C&#39;était marrant bien qu&#39;un peu gênant.
+En vrai, j&#39;y croyais sans y croire, je me disais, &#34; c&#39;est sure, elle à l&#39;air belle et sympa&#34;, mais j&#39;ai eu suffisamment de fois le coeur brisé pour ne plus croire au compte de fée.</p>
+<p>
+Méfiant et un peu désabusé, je savais que les vraies histoires d&#39;amour se vivent à la fois dans les voyages et dans le quotidien le plus crasse.
+Les lumières, le maquillage et les belles paroles s&#39;effacent si vite…</p>
+<p>
+Et puis on a voyagé ensemble au ministère de l&#39;intérieur sur un obscur projet de gestion informatique de migrants. Bon, raconté comme ça, ça a pas l&#39;air super romantique. Mais tu vois on était 20 dev et on était bien ensemble. Au quotidien, on vivait l&#39;aventure agile. Ton aventure.
+Tu te rappelles ? on prenait notre café face au kanban physique avec de véritable post-it qui collait mal ! On pouvait rester comme ça 15 min a se regarder droit dans les yeux. Et c&#39;était bien.</p>
+<p>
+J&#39;étais nul et plutôt maladroit, mais les techleads nous ont bien aidé. Ils ont organisés des séances de mob-programming et j&#39;ai appris ce qu&#39;était le TDD avec toi. Tu me parlais d&#39;excellence technique. Je pensais que c&#39;était un rêve, tu t&#39;es battue contre ce système capitaliste pourri pour nous montrer que rien n&#39;était plus important que de prendre du temps ! Prendre du temps pour la qualité du code. Prendre du temps pour être fière de son travail. C&#39;était fort ! Ça donnait un sens à notre histoire !</p>
+<p>
+Agile, mon amour, tu me disais que notre couple ne pourrait fonctionner que si on était capable de vraiment communiquer. Communiquer de manière non violente, ça va de soi, mais communiquer sans arrière pensée, sans politique, en toute transparence et régulièrement.
+Et pour communiquer, ça on a communiqué ! Tous les 4 matins on refaisait le monde. Les daily, les Sprint Planning, les Démos de folies, et surtout, les Rétros. Ha les rétros !</p>
+<p>
+Faut qu&#39;on parle de tes fameuses rétros, c&#39;est la je crois où tu m&#39;a fais le plus craquer !
+Attends, tu te souviens de cette fameuse rétro où la PO s&#39;était mise à pleurer ? Et où dans la même heure - on s&#39;est excusé et promis, tous ensemble d&#39;améliorer les choses ! Plus que des promesses, on avait actés en séance les trucs qui feraient que plus jamais on serait triste ! Et cela avait marché ! Contre toute attente ! En 1h30 on s&#39;était dit nos malheurs et on avait trouvé les moyens d&#39;en sortir ! Tes rétros était des moments à sensation forte. Une vrais aventure !
+Tes rétros étaient magiques, de véritables appareils à transformer la colère en espoir. N&#39;y a t&#39;il rien de plus fort ?</p>
+<p>
+Agile, tu m&#39;a fait comprendre que nos émotions n&#39;étaient pas sales, qu&#39;on étaient des êtres sensibles avant d&#39;être des travailleurs. Je te remercierais jamais assez pour cela.</p>
+<p>
+Notre histoire était belle, et on n&#39;a vécu plein d&#39;aventure, a XXXX, a YYYYY, a ZZZZ…
+Des que je penses a toi, pleins de belles images me revienne.</p>
+<p>
+Et puis y en a eu de moins belles histoires. Et de plus en plus.
+Ça a commencé quand tu m&#39;a parlé &#34; d&#39;agilité à l&#39;échelle &#34;. Au départ, j&#39;étais super partant pour essayer ça. A XXXX et au ZZZZ c&#39;était ça l&#39;agilité à l&#39;échelle ? Hun ?
+Et puis après tu m&#39;a dit &#34; non, c&#39;est pas assez SAFe &#34;, j&#39;ai pas bien compris. Au fur et à mesure, tu as eu pleins de nouveaux potes dont je comprenais bien ce qu&#39;ils faisaient là. Y avait les Product Manager, des products lead, des co-po, des business analystes, des experts en tous genres… J&#39;ai l&#39;impression que je devais te partager avec pleins de gens.</p>
+<p>
+J&#39;ai essayé de te dire non mais attends, &#34; On est bien là juste entre développeurs et PO. Ça suffit, on a pas besoin de tous ces tocards pour être heureux ? &#34; Là tu t&#39;es fachés, tu m&#39;a traité, de ringard. Apparemment on avait absolument besoin de ces gens qui ne connaissaient rien au code.
+Bon j&#39;ai rien dit, mais j&#39;étais pas bien.</p>
+<p>
+Après, je voulais parler avec toi, mais tu m&#39;a dit que tu n&#39;avais pas le temps. Fallait que je cale un point dans l&#39;agenda !
+Je t&#39;ai dis que je préférais attendre la rétro. Mais tu es pas venue. Je me suis sentie seule.</p>
+<p>
+Un matin j&#39;ai surpris un Scrum Master faire un tableau excel avec les jours hommes des développeurs. Il nous espionnait ! Quand je t&#39;ai raconté tout ça furieux, tu m&#39;a regardé et tu m&#39;a dit qu&#39;il fallait que je grandisse un peu, que dans notre monde adulte, il fallait absolument mettre les jours / hommes des développeurs dans des tableaux excel. J&#39;étais abasourdi. L&#39;Agile révolutionnaire que j&#39;avais connu il y a quelques années n&#39;aurait jamais dit ça. Je crois que j&#39;ai pleuré ce matin-là.</p>
+<p>
+Alors le temps est passé, nos discussions enflammées se sont mécanisées, se sont régulées, ce sont policées. Puis un jour, après une réunion, tu m&#39;a dit &#34; Thomas, tu peux pas dire ça &#34;. Il y avait donc des choses à dire et des choses à taire. De jours en jours, les non-dits s&#39;installait et murmuraient des &#34; c&#39;est comme ça &#34;, &#34; c&#39;est obligé &#34;, &#34; c&#39;est pas dans notre main &#34;, &#34; on peut rien faire de toute façons &#34; .</p>
+<p>
+Les ingénieurs, ces créatifs, ces codeurs-rêveurs, ceux qui pouvaient réparer le code - et donc réparer le monde entier - se sont spécialisés en soldat du jira. Il faut faire ce qui est écrit. Et tant pis si tu as pas parlé avec l&#39;utilisateur final.</p>
+<p>
+Les utilisateurs, c&#39;étaient nos enfants. On s&#39;était promis de tout faire pour eux ! Tout !
+Tu te rappelles ? On avait juré d&#39;être toujours auprès d&#39;eux, tout près d&#39;eux . On s&#39;était juré de tout faire pour les rendre heureux.</p>
+<p>
+Mais jours après jours, ils se sont éloignés. On leur a parlé à travers des tickets, de contrats, des &#34; spécialistes-des-utilisateurs &#34;, des &#34; représentants-de-nos-enfants &#34;, bref de gens qui n&#39;ont jamais posé une ligne de code ! Aujourd&#39;hui on ne voit presque plus nos enfants !
+Agile, c&#39;est pas eux qui sont partis ! C&#39;est toi !
+Je te l&#39;ai dit, j&#39;ai crié et tu n&#39;as rien fait ! Ça je suis désolé, mais je ne te le pardonnerais jamais !</p>
+<p>
+L&#39;espoir que fabriquait la machine à rétro s&#39;est éteint jours après jours. Aujourd&#39;hui la machine est cassée.</p>
+<p>
+Alors oui, après avoir regardé notre première <a href="https://agilemanifesto.org/iso/fr/principles.html">lettre d&#39;amour</a>, j&#39;ai repensé à mes ex, ceux que j&#39;avais fréquenté avant toi. Oui c&#39;est vrai,je l&#39;assume, j&#39;ai appelé XP et Lean pour savoir ce qu&#39;ils devenaient.
+Tu sais quoi ? Quand je les eu au bout du fil, je n&#39;entendais que ta voix. Ta voix de nos premiers jours. Ta voix que je ne retrouverais pas.</p>
+<p>
+Voilà Agile, pour nous deux, je crois c&#39;est mieux que je parte.</p>
+]]></description>
+</item><item>
     <title>🤹 [26/06/2023] Résumé de Team Topologies</title>
-    <link>https://thomas-louvigne.github.io/posts/resume_team_topologies/</link>
+    <link>https://thomas-louvigne.github.io/resume_team_topologies/</link>
     <pubDate>Mon, 26 Jun 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/resume_team_topologies/</guid>
-    <description><![CDATA[Introduction : Team Topologies est un bouquain de Manuel Pais et Matthew Skelton. C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.
-Je vous fais ici un résumé que vous pouvez trouver dans cette vidéo et qui corresspond à pas mal de truc que j&#39;ai lu.
-En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication. Je vous les listes ici :]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/resume_team_topologies/</guid>
+    <description><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Introduction :
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p><strong>Team Topologies</strong> est un bouquain de <strong>Manuel Pais</strong> et <strong>Matthew Skelton</strong>.
+C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe et de leur mode d&#39;interraction.</p>
+<p>
+Je vous fais ici un résumé que vous pouvez trouver dans <a href="https://www.youtube.com/watch?v=Qzd2NOBNfQs">cette vidéo</a> et qui corresspond à pas mal de truc que j&#39;ai lu.</p>
+<p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Qzd2NOBNfQs?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+</p>
+<p>
+ En très gros, Team Topologies, c&#39;est 4 types d&#39;équipes et 3 modes de communication.
+ Je vous les listes ici :</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+4 types équipes :
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+Stream-aligned Team
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<ul>
+<li>C&#39;est le type d&#39;équipe de base : Autonome et pluridisciplinaire</li>
+<li>C&#39;est typiquement l&#39;équipe SCRUM</li>
+<li>C&#39;est une équipe produit … ou pas forcément !</li>
+<li>Ce type d&#39;équipe travail sur un <strong>flux de valeur</strong> (et pas forcément un produit).</li>
+<li>Ils ne sont pas &#34;<em>forcément</em>&#34; au contact des utilisateurs finaux</li>
+<li>Elle peut travailler pour des utilisateurs interne</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+Enabling Team
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<ul>
+<li>Ils ne produisent pas directement de la valeur</li>
+<li>Ils sont en support des autres équipes</li>
+<li>Ils permettent aux autres équipes d&#39;aller plus loin</li>
+<li>Ils sont transverses</li>
+<li>Ont souvent une posture de coach</li>
+<li>Ils font monter en compétence les autres équipes</li>
+<li>(Les CoP pourraient être des enabling team)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Complicated Subsystem
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li>Ni <em>Stream aligned Team</em> ni <em>Enabling Team</em></li>
+<li>Ce sont des experts techniques (donc rarement des experts produit)</li>
+<li>Ces équipes peuvent être problématiques et devenir des &#34;<em>Component team</em>&#34;</li>
+<li>Ces &#34;<strong>Complicated Subsystem Team</strong>&#34; doivent être utilisé en dernier recours</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+Plateform Team
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<ul>
+<li>Ils fournissent une <strong>plateforme</strong>,un <strong>service</strong> ou plutot une <em><em>abstraction</em></em> de ces services.</li>
+<li>Leur objectif est de simplifier les choses pour les <strong>Stream-Aligned Team</strong></li>
+<li><span style="text-decoration: underline;">Exemple</span>: les plateformes qui fournissent une infra pour les devloppers</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+3 modes d&#39;interactions
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>On parle ici de type d&#39;interraction entre les équipes.</p>
+<div id="outline-container-headline-8" class="outline-3">
+<h3 id="headline-8">
+Collaboration
+</h3>
+<div id="outline-text-headline-8" class="outline-text-3">
+<ul>
+<li>C&#39;est quand 2 équipes bossent ensemble</li>
+<li>ils ont beaucoup d&#39;interaction</li>
+<li>Évidement, plus il y a de personnes dans cette collaboration, plus c&#39;est problématique</li>
+<li>C&#39;est bien pour des équipes qui débute ensemble</li>
+<li>Ça permet aussi d&#39;accélérer l&#39;innovation</li>
+<li>Idéalement on commence avec de la collaboration</li>
+<li>Puis on met en place des <strong>interfaces</strong> entre 2 équipes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-3">
+<h3 id="headline-9">
+X-a-a-service
+</h3>
+<div id="outline-text-headline-9" class="outline-text-3">
+<ul>
+<li>Analogie avec l&#39;acronyme &#34;<em>Software-As-A-Service</em>&#34;</li>
+<li>Permet une relation d&#39;autonomie des équipes</li>
+<li>Autrement dit une relation &#34;<em>client / fournisseur</em>&#34; entre deux équipes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-3">
+<h3 id="headline-10">
+Facilitating
+</h3>
+<div id="outline-text-headline-10" class="outline-text-3">
+<ul>
+<li>C&#39;est pour <em>aider</em> des équipes</li>
+<li>C&#39;est LE modèle d&#39;interraction pour les coachs et mentors</li>
+<li>C&#39;est donc pensé d&#39;avantage pour les <strong>Enabling Teams</strong></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-11" class="outline-2">
+<h2 id="headline-11">
+Conclusion
+</h2>
+<div id="outline-text-headline-11" class="outline-text-2">
+<ul>
+<li>Team Topologie est très théorique, il n&#39;y a rien de concret ni guide &#34;<em>pret à l&#39;emploi</em>&#34;</li>
+<li>Par aillieurs Team Topologies se veut un programme très viuel. On peut <a href="https://teamtopologies.com/shop/modeling-shapes-for-team-types-and-team-interactions-pdf">télécharger sur des modèles</a> pour mieux visualiser ses organisations</li>
+</ul>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🤹 [21-04-2023] La nature bifide de la marchandise et les équipes Agile</title>
-    <link>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</link>
+    <link>https://thomas-louvigne.github.io/equipe-agile-et-nature-bifide-de-la-marchandise/</link>
     <pubDate>Fri, 21 Apr 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
-    <description><![CDATA[En 1867, un vieil économiste barbu démontrait que les marchandises avaient une double valeur : La valeur d&#39;échange et la valeur d&#39;usage. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;bifide&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/equipe-agile-et-nature-bifide-de-la-marchandise/</guid>
+    <description><![CDATA[
+<p>
+En 1867, <a href="https://fr.wikipedia.org/wiki/Karl_Marx">un vieil économiste barbu</a> démontrait que les marchandises avaient une double valeur :
+La <span style="text-decoration: underline;">valeur d&#39;échange</span> <strong>et</strong> la <span style="text-decoration: underline;">valeur d&#39;usage</span>. C&#39;est de cette double valeur de la marchandise, désignée comme &#34;<strong>bifide</strong>&#34; que nous allons parler dans cet article. Plus précisément, nous allons regarder ce que recouvrent ces valeurs et, en quoi, elles peuvent être utiles pour comprendre les sources de fonctionnement et de dysfonctionnement de nos équipes.</p>
+<p>
+<img src="marx-at-works.jpg" alt="marx-at-works.jpg" title="marx-at-works.jpg" /></p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+La valeur d&#39;échange
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+La valeur d&#39;échange est quantifiable, c&#39;est le <strong>prix</strong> d&#39;un produit. C&#39;est ce que l&#39;on paye pour acheter ou pour vendre un produit.
+Dans un marché, la valeur d&#39;échange, évolue en fonction de l&#39;offre et de la demande.</p>
+<p>
+<span style="text-decoration: underline;">*</span> <em>Pour être précis, l&#39;économiste barbu estime que la valeur d&#39;échange est déterminée par le temps de travail nécessaire pour produire un produit.</em></p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+La valeur d&#39;usage
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+La valeur d&#39;usage est le prix <strong>qu&#39;estime</strong> le consommateur lorsqu&#39;il &#34;<strong>utilise</strong>&#34; ce produit. C&#39;est une notion qui n&#39;existe que dans la tête du consommateur et qui n&#39;existe qu&#39;à un seul véritable moment : lorsqu&#39;il utilise réellement ce produit.
+Par exemple, on connaît la vraie valeur d&#39;un vin qu&#39;on a acheté uniquement lorsqu&#39;on le boit !
+La valeur d&#39;usage est donc une valeur subjective, floue et pas vraiment quantifiable mais qui existe tout de même !</p>
+<p>
+On comprend aussi vite que ces 2 types de valeurs sont liées : les gens achètent des produits avec une valeur marchande qui devrait correspondre à une certaine valeur d&#39;usage. Si le produit déçoit (faible valeur d&#39;usage), alors sa valeur marchande risque de baisser. Et inversement !</p>
+<p>
+Dans le logiciel, c&#39;est pareil !</p>
+<p>
+On passe notre temps à produire des logiciels qui devraient, à la fois être <strong>utile</strong> et <strong>plaisant</strong> à un client final tout en étant <strong>rentable</strong> pour celui qui le produit.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Et l&#39;agilité dans tout cela ?
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>Quand on regarde certains postes de travail que l&#39;on voit dans nos entreprises, on se rend compte qu&#39;ils sont souvent dédiés à une des deux valeurs, prenons le temps de le regarder :</p>
+<table>
+<thead>
+<tr>
+<th>Rôle</th>
+<th>Type de Valeurs</th>
+<th>Explication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>UX (User Experience)</td>
+<td>Valeur d&#39;usage</td>
+<td>C&#39;est clairement le rôle qui cherche à maximiser la valeur d&#39;usage. Il cherche à répondre aux besoins du client en lui faisant tester au maximum le produit</td>
+</tr>
+<tr>
+<td>Scrum Master / Coach Agile</td>
+<td>Valeur d&#39;échange</td>
+<td>Il va chercher à faire fonctionner l&#39;équipe au mieux en lui permettant de produire le plus rapidement possible dans un cadre le plus agréable possible. Il n&#39;a pas d&#39;impact direct sur la <strong>valeur d&#39;usage</strong> du produit réalisé.</td>
+</tr>
+<tr>
+<td>Product Owner</td>
+<td>Valeur d&#39;usage</td>
+<td>Son objectif est de prioriser les tâches pour créer vite de la <strong>valeur d&#39;usage</strong> à l&#39;utilisateur final.</td>
+</tr>
+<tr>
+<td>Sponsor, Contrôleur de Gestion ou Comptable</td>
+<td>Valeur d&#39;échange</td>
+<td>On va être sûr des personnes qui vont chercher à maximiser le Retour sur Investissement, donc la valeur d&#39;échange du produit.</td>
+</tr>
+<tr>
+<td>Développeurs et développeuses</td>
+<td>Valeur d&#39;échange</td>
+<td>SCRUM leur demande d&#39;être garant de la qualité du code. (maintenabilité, performance…) Hors un bon code ne garantit une utilisation plaisante ou utile du produit créé. Il fabrique donc de la valeur d&#39;échange.</td>
+</tr>
+<tr>
+<td>L&#39;OPS</td>
+<td>Valeur d&#39;échange</td>
+<td>L&#39;idée est d&#39;accélérer les mises en production, donc de réduire les temps et au final les coûts du produit.</td>
+</tr>
+</tbody>
+</table>
+<p>
+<em>Bien évidemment, nous simplifions la définition des rôles pour la clarté de l&#39;article.</em></p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Qu&#39;est-ce qu&#39;on observe ?
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Plus de gens travaillent pour la valeur d&#39;échange que pour la valeur d&#39;usage :
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<p>La première chose qu&#39;on peut observer, c&#39;est que dans une équipe, il y a, <strong>numériquement</strong>, plus de personnes qui travaillent à <strong>la valeur d&#39;échange</strong> qu&#39;a <strong>la valeur d&#39;usage</strong>.
+On comprend donc pourquoi les équipes ont tendances à <del>se fliquer</del> mesurer la productivité, pour être sûr que l&#39;argent ne soit pas gaspillé.</p>
+<p>
+Au final, on comprend mieux la tendance organique qu&#39;on les sociétées à désaligner les objectifs <em>métier</em> des objectifs de <em>rentabilité</em>…</p>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+Le Mixe valeur d&#39;échange + valeur d&#39;usage est rarement bon
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<p>
+On observe souvent que des problèmes surgissent dans les équipes à qui on demande à certains rôles de pousser à la fois la valeur d&#39;échange <strong>ET</strong> la valeur d&#39;Usage.</p>
+<p>
+<span style="text-decoration: underline;">Exemple</span> :</p>
+<ul>
+<li>Le Sponsor qui pense savoir, à la place du PO ou de l&#39;UX, ce dont l&#39;utilisateur a besoin pour être satisfait.</li>
+<li>Le PO qui met la pression aux dev parce qu&#39;il pense que cette story devrait être réalisée plus rapidement.</li>
+<li>Etc…</li>
+</ul>
+<p>Évidement, il y a des limites à cet exercice : il est toujours intéressant qu&#39;un·e dev s’intéresse et comprenne les enjeux métiers. Comme il est intéressant qu&#39;un PO s’intéresse au code.
+Mais il faut le voir comme une allocation de son temps. Si un dev passait plus de temps à s&#39;occuper des besoins métier, et qu&#39;un PO passait plus de temps à coder qu&#39;à prioriser son backlog, ce serait quelque peu étrange.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Quel application sur le terrain ?
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>Je vais être honnête, je n&#39;ai encore jamais utilisé ces concepts dans mes missions.</p>
+<p>
+Mais j&#39;imagine facilement utiliser ces concepts dans un atelier &#34;/ <em>rôles et responsabilités/</em>&#34; . Cela permetterait aux équipiers de mieux comprendre ce qu&#39;elles attendent des uns et des autres.</p>
+<p>
+Une autre idée, c&#39;est de poser la question dans un <em>mood meter</em> de rétro : Durant ce sprint, vous avez eu l&#39;impression de travailler pour de la <strong>valeur d&#39;usage</strong> ou pour de la <strong>valeur d&#39;échange</strong> ?
+Je suis certains que les résultats seraient hyper intéressant</p>
+<p>
+Bref, je vais tester cela et je vous re-dirais ici ce que cela a donné !</p>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🤹 [07/12/2022] Convication agiliste</title>
-    <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
+    <link>https://thomas-louvigne.github.io/convictions-agiliste/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
-    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/convictions-agiliste/</guid>
+    <description><![CDATA[
+<ul>
+<li>Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même.</li>
+<li>Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers.</li>
+<li>Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent…</li>
+<li>Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.</li>
+</ul>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Pour rappel :
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li>
+<p>Principe 7 du manifeste Aagile :</p>
+<pre class="example">
+Un logiciel opérationnel est la principale mesure d’avancement.
+</pre>
+</li>
+</ul>
+<p>Les points de complexité / les Jours-Hommes / la suite de fibonacci / les OKR… C&#39;est pas vraiment dans la philosophie Agile.
+A l&#39;inverse, les meillieurs équipes que j&#39;ai vu pratiquait le no-estimate.</p>
+<ul>
+<li>
+<p>Principe 11 du manifeste Agile :</p>
+<pre class="example">
+Les meilleures architectures, spécifications et conceptions émergent d&#39;équipes autoorganisées.
+</pre>
+<p>
+Managers de toutes les grosses boites, lisez le manifeste AGILE, laissez les techs décider !
+Et venez au démo pour voir si les choses fonctionnent ou pas.</p>
+</li>
+</ul>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🤹 [23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
-    <link>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</link>
+    <link>https://thomas-louvigne.github.io/commenter-les-12-principes-agile/</link>
     <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[Je voudrais relire avec vous les 12 principes agiles qui sont pour moi géniaux. En même temps, je voudrais partager mes observations, un peu énervés, de ce qui ne marche pas dans le monde réelle.
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustrations qutotidiennes issus de boite qui veulent faire de l&#39;agile ou qui disent faire de l&#39;agile. Mais en sont vraiment loin…]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/commenter-les-12-principes-agile/</guid>
+    <description><![CDATA[
+<p>
+Je voudrais relire avec vous les 12 principes agiles qui sont pour moi géniaux.
+En même temps, je voudrais partager mes observations, un peu énervés, de ce qui ne marche pas dans le monde réelle.</p>
+<p>
+⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustrations qutotidiennes issus de boite <em>qui veulent</em> faire de l&#39;agile ou qui disent faire de l&#39;agile. Mais en sont vraiment loin…</p>
+<p>
+<em>* Les  12 Principes sous-jacents au manifeste issu du <a href="https://agilemanifesto.org">Agile Manifesto .org</a></em></p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+1 Apportez de la valeur aux clients rappidament et souvent
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<pre class="example">
+Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à grande valeur ajoutée.
+</pre>
+<p>
+L&#39;entrée des pratiques <em>dev-ops</em> commence enfin à entrer dans les boites, mêmes les grosses.
+L&#39;arrivée d&#39;accelerate, redit la meme chose avec des chiffres.
+L&#39;inssistance sur le fait que ce sont des <em>fonctionnalités et non des taches technique</em> montre l&#39;intéret pour la vision <em>produit</em> de l&#39;agile.
+Il y a encore beacoup trop de projet qui ne sont pas en production, mais on sent que les choses avancent sur ce point.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+2 Accueillez le changement
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<pre class="example">
+Accueillez positivement les changements de besoins, même tard dans le projet. Les processus Agiles exploitent le changement pour donner un avantage compétitif au client.
+</pre>
+<p>
+Oui, c&#39;est mis en place dans beaucoup de projet AGILE aujourd&#39;hui.</p>
+<p>
+1er problème : Il y a encore une tendance a remettre les cahiers des charge et dossier d&#39;architecture dans les <em>critères d&#39;acceptance</em> dans les tiquet jira…</p>
+<p>
+2e problème : On trouve beaucoup de boite, qui sous prétexte d&#39;agile, changent du jour au lendemain de grosse priorité dans le sprint.
+Dans SCRUM, le respect de l&#39;inviolabilité du sprint me semble une pierre angluaire.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+3 Livrez rapidement
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<pre class="example">
+Livrez fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les plus courts.
+</pre>
+<p>Cf. Le point numéro 1</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+4 L&#39;UX doit se faire par les dev, et on y arrive pas
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<pre class="example">
+Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet.
+</pre>
+<p>Un des points que je vois les moins dans la réalité. Les developpeurs ne voient que très très rarements les utilisateurs finaux.
+Les <strong>PO</strong> sont très souvent externes aux projets et ne sont pas de vrais <em>owner</em> de leurs produits.</p>
+<p>
+L&#39;arrivée des UX ces dernieres années est une très bonne chose.
+Mais l&#39;idéale, que je n&#39;ai jamais vu, reste quand meme de faire travailler developpeurs avec de vrais utilisateurs finaux avant et après les démos.</p>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+5 La motivation des techs
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<pre class="example">
+Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés.
+</pre>
+<p>VPN en carraf, connexion internet lente, sites internet censuré pour des raisons de sécurité, machine de travail hyper lente, choix du système d&#39;exploitation imposé, interdiction d&#39;installer ses logiciels sur son poste de travail…</p>
+<p>
+Faut-il encore parler des languages de programmation et technos imposé par d&#39;obscure achitect déconnecté du terrain a des developpeurs qui les déteste et ne les maitrise pas ?
+Je ne compte plus les fois où j&#39;ai vu ce genre de conditions de travail détestable pour les dev…</p>
+<p>
+On me rétorquera que les dev font leurs divas, que l&#39;acces a youtube n&#39;est pas nécessaire pour coder et qu&#39;il est légitime, pour des raisons de sécurité, on leur interdit d&#39;installer tel ou tel logiciel…</p>
+<p>
+Certe, mais dans un marché hyper tendu où les salaires des bons developpeurs sont hypers haut, brider de tel manière les techs me semble dangereux voir stupide d&#39;un point de vue managériale.</p>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+6 A bas le télétravail !
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<pre class="example">
+La méthode la plus simple et la plus efficace pour transmettre de l’information à l&#39;équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face.
+</pre>
+<p>
+Après un émerveillement du télétravail dû à la crise covid, la réalité est revenue rapidement. Les projets avancent mieux lorsque l&#39;équipe travail dans un meme bureau.
+Bien sur le full-télétrail semble une utopie, mais la formule 3 jours de présentiel / semaine s&#39;ancre peu à peu.
+Une victoire a été obtenue, les équipes mixtes en offshore (Nottament en Inde) semble avoir montré leur nullité. Ouf !</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+7 L&#39;agile, c&#39;est du no-estimate !
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<pre class="example">
+Un logiciel opérationnel est la principale mesure d’avancement.
+</pre>
+<p>
+Le point 7 est clairement un point éludé de nombreux projet AGILE actuellement : On y trouve davantage de discution autour des Story Points ou pire, des jours/hommes, que de démonstration de logiciel qui fonctionnent.
+Les manageurs et les comptables revent d&#39;avoir un voyant vert qui leur dit &#34;tout va bien&#34; et un &#34;voyant rouge&#34; qui leur dirait &#34;tout va mal&#34;.
+L&#39;agile rappel ce point essentiel, il faut aller sur le terrain, voir les projets &#34;<em>en vrais</em>&#34; pour savoir ce qui se passe. Les rapports excels de jours hommes traversses mal le mur de la réalité.</p>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+8 Un rythme serain
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<pre class="example">
+Les processus Agiles encouragent un rythme de développement soutenable. Ensemble, les commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir indéfiniment un rythme constant.
+</pre>
+<p>
+Je crois qu&#39;il n&#39;y a moins de problème sur ces questions-là tellement le marché des dev est tendu. Forcer sur les heures de travail d&#39;une équipe tech c&#39;est clairement prendre le risque d&#39;en voir se barrer en cours de réalisation du projet.
+En revanchem je trouve des rythmes plus poussés chez les PO.</p>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-2">
+<h2 id="headline-9">
+9 L&#39;excellence technique
+</h2>
+<div id="outline-text-headline-9" class="outline-text-2">
+<pre class="example">
+Une attention continue à l&#39;excellence technique et à une bonne conception renforce l’Agilité.
+</pre>
+<p>Rien de particulié à dire. A vue de nez, j&#39;ai l&#39;impression que 20% des projets autour de moi font des tests automatiques et du TDD. La qualité s&#39;observe et commence à se mesurer avec le taux de couverture de code et les analyse type sonar cube.
+Certe, c&#39;est loin d&#39;être parfait, mais j&#39;ai l&#39;impression que les choses bougent sur le sujet de la qualité. C&#39;est encouragant.</p>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+10 KISS (Keep It Stupid Simple)
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<pre class="example">
+La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle.
+</pre>
+<p>Si je devais parler de ce qui complexifie les projets tech, je dirais qu&#39;elles sont principalement issues des pratiques de sécurité et d&#39;OPS imposé par les grosses boites.</p>
+</div>
+</div>
+<div id="outline-container-headline-11" class="outline-2">
+<h2 id="headline-11">
+11 Pour l&#39;autogestion ✊
+</h2>
+<div id="outline-text-headline-11" class="outline-text-2">
+<pre class="example">
+Les meilleures architectures, spécifications et conceptions émergent d&#39;équipes auto-organisées.
+</pre>
+<p>Je suis tellement fan de ce point-là ! Mais vraiment. C&#39;est ce qui fait toute la substance de l&#39;agilité.
+La présence d&#39;archis, de responsable sécurité et co sont pour moi des entraves a l&#39;automie. On commence a savoir que les components teams ne fonctionnent pas. Pourtant ca ne bouge pas et la bureaucratie technique reste une réalité très douloureuse.</p>
+<p>
+A vouloir materner les équipes, on les empeches d&#39;etre créatif et responsable.
+L&#39;auto-organisation est une vraie réponse aux questions de motivation. (Cf. point 5)</p>
+</div>
+</div>
+<div id="outline-container-headline-12" class="outline-2">
+<h2 id="headline-12">
+12 L&#39;amélioration continue
+</h2>
+<div id="outline-text-headline-12" class="outline-text-2">
+<pre class="example">
+À intervalles réguliers, l&#39;équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence.
+</pre>
+<p>C&#39;est tout le sens de la rétro. Ca commence à entrer, et quand c&#39;est fait régulièrement, on voit des miracles.
+Au-delà de l&#39;aspect amélioration continue, il y a quelque chose de psychanalique de groupe dans la rétro que j&#39;aime beaucoup.</p>
+<p>
+Voilà pour les 12 principes relus rapidement.
+En espérant que cela vous a interessé !</p>
+</div>
+</div>
+]]></description>
 </item></channel>
 </rss>

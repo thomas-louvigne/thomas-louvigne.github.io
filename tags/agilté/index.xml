@@ -1,14 +1,49 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>agilté - Balise - Le blog de Thomas Louvigné</title>
+        <title>Agilté - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/agilt%C3%A9/</link>
-        <description>agilté - Balise - Le blog de Thomas Louvigné</description>
+        <description>Agilté - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/agilt%C3%A9/" rel="self" type="application/rss+xml" /><item>
     <title>🤹 [07/12/2022] Convication agiliste</title>
-    <link>https://thomas-louvigne.github.io/posts/convictions-agiliste/</link>
+    <link>https://thomas-louvigne.github.io/convictions-agiliste/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/convictions-agiliste/</guid>
-    <description><![CDATA[Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même. Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers. Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent… Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/convictions-agiliste/</guid>
+    <description><![CDATA[
+<ul>
+<li>Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même.</li>
+<li>Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers.</li>
+<li>Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent…</li>
+<li>Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.</li>
+</ul>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Pour rappel :
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li>
+<p>Principe 7 du manifeste Aagile :</p>
+<pre class="example">
+Un logiciel opérationnel est la principale mesure d’avancement.
+</pre>
+</li>
+</ul>
+<p>Les points de complexité / les Jours-Hommes / la suite de fibonacci / les OKR… C&#39;est pas vraiment dans la philosophie Agile.
+A l&#39;inverse, les meillieurs équipes que j&#39;ai vu pratiquait le no-estimate.</p>
+<ul>
+<li>
+<p>Principe 11 du manifeste Agile :</p>
+<pre class="example">
+Les meilleures architectures, spécifications et conceptions émergent d&#39;équipes autoorganisées.
+</pre>
+<p>
+Managers de toutes les grosses boites, lisez le manifeste AGILE, laissez les techs décider !
+Et venez au démo pour voir si les choses fonctionnent ou pas.</p>
+</li>
+</ul>
+</div>
+</div>
+]]></description>
 </item></channel>
 </rss>

@@ -1,15 +1,49 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>keyboard - Balise - Le blog de Thomas Louvigné</title>
+        <title>Keyboard - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/keyboard/</link>
-        <description>keyboard - Balise - Le blog de Thomas Louvigné</description>
+        <description>Keyboard - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/keyboard/" rel="self" type="application/rss+xml" /><item>
     <title>⌨️ [29/04/2023] Home &amp; End : les meilleures touches du clavier</title>
-    <link>https://thomas-louvigne.github.io/posts/home-end-keyboard/</link>
+    <link>https://thomas-louvigne.github.io/home-end-keyboard/</link>
     <pubDate>Sat, 29 Apr 2023 15:43:50 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/home-end-keyboard/</guid>
-    <description><![CDATA[En matière de clavier, je trouve qu&#39;on ne discute jamais assez de la manière dont on se déplace dans un texte.
-En travaillant sous emacs j&#39;ai découverts le monde fou du déplacement dans les textes. Au début, comme tout le monde j&#39;utilisais principalement les Arrow Keys (les flèches) pour me déplacer de droite à gauche et haut et bas pour passer d&#39;une ligne à l&#39;autre. C&#39;est le niveau 1 du déplacement dans le texte.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/home-end-keyboard/</guid>
+    <description><![CDATA[<p>
+En matière de clavier, je trouve qu&#39;on ne discute jamais assez de la manière dont on se déplace dans un texte.</p>
+<p>
+En travaillant sous <a href="/tags/emacs">emacs</a> j&#39;ai découverts le monde fou du déplacement dans les textes.
+Au début, comme tout le monde j&#39;utilisais principalement les <code class="verbatim">Arrow Keys</code> (les flèches) pour me déplacer de <code class="verbatim">droite</code> à <code class="verbatim">gauche</code> et <code class="verbatim">haut</code> et <code class="verbatim">bas</code> pour passer d&#39;une ligne à l&#39;autre. C&#39;est le niveau 1 du déplacement dans le texte.</p>
+<p>
+Vu a quel point ma vie pro comme perso tourne autour du fait d&#39;écrire des choses sur un clavier, ces optimisations du quoitidien me semblent plutôt importante.</p>
+<p>
+EMACS étant la meillieur des religions j&#39;ai commencé à découvrire le <code class="verbatim">M-a</code> pour remonter d&#39;un paragraphe à l&#39;autre, puis le <code class="verbatim">C-a</code> et le <code class="verbatim">C-e</code> pour aller au début et à la fin d&#39;une ligne.</p>
+<p>
+Je croyais le monde du déplacement dans le texte dans le texte réservé à l&#39;élite emacienne jusqu&#39;à ce que je devienne propriétaire de l&#39;incroyable <code class="verbatim">Truly Ergonomic Keyboard</code> et de son jeu de flèches <code class="verbatim">Home</code> / <code class="verbatim">End</code> / <code class="verbatim">PageUp</code> / <code class="verbatim">PageDown</code>.</p>
+<p>
+<img src="truly-ergonomic-keyboard.png" alt="truly-ergonomic-keyboard.png" title="truly-ergonomic-keyboard.png" /></p>
+<p>
+Cet ensemble de touche m&#39;a vraiment permit de gagner rapididé d&#39;écriture que je ne soupsonnais pas.</p>
+<p>
+Mais, après avoir déversé de la bière 🍺 sur ce magnifique clavier 🤦, j&#39;ai dû me résoudre à en acheter un nouveau !</p>
+<p>
+Je suis donc passé a ce que je considère comme le meillieur clavier de ma vie, je parle évidement du <code class="verbatim">Moonlander Mark 1</code> (<a href="https://www.zsa.io/moonlander/">lien</a>).</p>
+<p>
+J&#39;ai mis beaucoup de temps avant de trouver où placer ces touches <code class="verbatim">home</code> et <code class="verbatim">end</code>, sur mon layout de base.
+J&#39;ai finalement décidé de les garder mais sans les utiliser vraiment. Sous mon pouche gauche, j&#39;ai mis les <code class="verbatim">Arrow Keys</code> <code class="verbatim">droite</code> et <code class="verbatim">gauche</code>.</p>
+<p>
+<img src="moon-lander-1.jpeg" alt="moon-lander-1.jpeg" title="moon-lander-1.jpeg" /></p>
+<p>
+Après moultes tentatives, je me suis dit qu&#39;il fallait les placer à un endroit qui ne soit pas trop éloigner du <code class="verbatim">C-a</code> et <code class="verbatim">C-e</code> de <code class="verbatim">emacs</code>.
+Je les ai donc mit sur mon 2e layout de clavier. (Activable avec le pouce droit en <em>KeyDown</em>)
+Ce qui me semble le choix le plus judicieu !</p>
+<p>
+<img src="moon-lander-2.jpeg" alt="moon-lander-2.jpeg" title="moon-lander-2.jpeg" /></p>
+<p>
+Je suis très content du resulat final, le <code class="verbatim">PageDown</code> et le <code class="verbatim">PageUp</code> hyper accesible, les <code class="verbatim">Arrow Keys</code> sont au milieu pour les petits déplacements dans le texte.
+C&#39;est génial, je gagne une vraie vitesse dans mes déplacements quand je sors de <code class="verbatim">emacs</code>.</p>
+<p>
+Voilou, vous pouvez trouver mon layout de clavier <code class="verbatim">MoonLander</code> <a href="https://configure.zsa.io/moonlander/layouts/B9ByQ/latest/0">ici !</a></p>
+]]></description>
 </item></channel>
 </rss>

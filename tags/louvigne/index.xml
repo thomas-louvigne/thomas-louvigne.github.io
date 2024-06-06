@@ -1,15 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>louvigne - Balise - Le blog de Thomas Louvigné</title>
+        <title>Louvigne - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/louvigne/</link>
-        <description>louvigne - Balise - Le blog de Thomas Louvigné</description>
+        <description>Louvigne - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/louvigne/" rel="self" type="application/rss+xml" /><item>
     <title>Contact</title>
     <link>https://thomas-louvigne.github.io/pages/contact/</link>
     <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
+        <name>Auteur</name>
     </author><guid>https://thomas-louvigne.github.io/pages/contact/</guid>
-    <description><![CDATA[ Vous trouverez ici la liste des réseaux sociaux pour me suivre.
-Twitter : @Thomas_Louvigne Mastodon : Thomas Louvigné LinkedIn : Thomas Louvigné ]]></description>
+    <description><![CDATA[<p>
+<em>Vous trouverez ici la liste des réseaux sociaux pour me suivre.</em></p>
+<ul>
+<li>Twitter : <a href="https://twitter.com/thomas_louvigne/">@Thomas_Louvigne</a></li>
+<li>Mastodon : <a href="https://framapiaf.org/@zobi8225">Thomas Louvigné</a></li>
+<li>LinkedIn : <a href="https://www.linkedin.com/in/thomaslouvign%C3%A9/">Thomas Louvigné</a></li>
+</ul>
+]]></description>
 </item></channel>
 </rss>

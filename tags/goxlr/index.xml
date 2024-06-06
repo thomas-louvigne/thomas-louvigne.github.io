@@ -1,17 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>goxlr - Balise - Le blog de Thomas Louvigné</title>
+        <title>Goxlr - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/goxlr/</link>
-        <description>goxlr - Balise - Le blog de Thomas Louvigné</description>
+        <description>Goxlr - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/goxlr/" rel="self" type="application/rss+xml" /><item>
     <title>🐧 [31/07/2022] GoXLR sur linux</title>
-    <link>https://thomas-louvigne.github.io/posts/goxlr-linux/</link>
+    <link>https://thomas-louvigne.github.io/goxlr-linux/</link>
     <pubDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/goxlr-linux/</guid>
-    <description><![CDATA[Voilà, j&#39;ai eu une carte son GoXLR à noël. Elle était pas compatible linux 😞. Et puis la communauté a fait QQCH de magique 🙌.
-Maintenant ca marche nickel grace à 2 developpeurs (Mais surtout grace à FrostyCoolSlug) qui à fait un taff incroyable.
-Le lien du projet est là . J&#39;ai meme 2 PR sur le projet qui ont été accepté 💪.
-Et y a un discord aussi très sympatique.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/goxlr-linux/</guid>
+    <description><![CDATA[<p>
+Voilà, j&#39;ai eu une carte son <strong>GoXLR</strong> à noël. Elle était pas compatible linux 😞.
+Et puis la communauté a fait QQCH de magique 🙌.</p>
+<p>
+Maintenant ca marche nickel grace à 2 developpeurs (Mais surtout grace à <a href="https://github.com/FrostyCoolSlug">FrostyCoolSlug</a>) qui à fait un taff incroyable.</p>
+<p>
+Le lien du projet est <a href="https://github.com/GoXLR-on-Linux/goxlr-utility">là</a> . J&#39;ai meme 2 PR sur le projet qui ont été accepté 💪.</p>
+<p>
+Et y a un <a href="https://discord.gg/2QUHPAmU">discord</a> aussi très sympatique.</p>
+]]></description>
 </item></channel>
 </rss>

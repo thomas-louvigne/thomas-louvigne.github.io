@@ -1,14 +1,134 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>culture - Balise - Le blog de Thomas Louvigné</title>
+        <title>Culture - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/culture/</link>
-        <description>culture - Balise - Le blog de Thomas Louvigné</description>
+        <description>Culture - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 27 Mar 2023 16:19:12 &#43;0200</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/culture/" rel="self" type="application/rss+xml" /><item>
     <title>📚 [27/03/2023] J&#39;ai lu &#34;Culture Hacking&#34; issus de OCTO</title>
-    <link>https://thomas-louvigne.github.io/posts/culture-hacking/</link>
+    <link>https://thomas-louvigne.github.io/culture-hacking/</link>
     <pubDate>Mon, 27 Mar 2023 16:19:12 &#43;0200</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/culture-hacking/</guid>
-    <description><![CDATA[TL-DR : Quoi ? : Un lire-cahier sur le changement de culture dans les boites Pour qui ? : Les gens qui veulent transformer leur boite, les gros managers, des consultants en changement d&#39;organisation. Par qui ? : Lan Levy, Alexis Nicolas, Lucie Quach, Brigitte Quiton, Olivier Tuffier Facilité de lecure : 4/10 (1 est très complexe, 10 est très simple) Note globale : 5/10 La forme : Bon, on est sur un livre-cahier, avec des pages et où l&#39;on vous invite à écrire des choses… Et en meme temps on vous raconte 3 histoires… Et en même temps, il y a 2 narrateurs qui vous parle directement.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/culture-hacking/</guid>
+    <description><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+TL-DR :
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li><span style="text-decoration: underline;">Quoi ?</span> : Un lire-cahier sur le changement de culture dans les boites</li>
+<li><span style="text-decoration: underline;">Pour qui ?</span> : Les gens qui veulent transformer leur boite, les <em>gros</em> managers, des consultants en changement d&#39;organisation.</li>
+<li><span style="text-decoration: underline;">Par qui ?</span> : Lan Levy, Alexis Nicolas, Lucie Quach, Brigitte Quiton, Olivier Tuffier</li>
+<li><span style="text-decoration: underline;">Facilité de lecure</span> : 4/10 (1 est très complexe, 10 est très simple)</li>
+<li><span style="text-decoration: underline;">Note globale</span> : 5/10</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+La forme :
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>Bon, on est sur un livre-cahier, avec des pages et où l&#39;on vous invite à écrire des choses…
+Et en meme temps on vous raconte 3 histoires… Et en même temps, il y a 2 narrateurs qui vous parle directement.
+Puis au milieu, il y a 2 pages de trucs et astuces à faire et ne pas faire quand vous transformez une orga.</p>
+<p>
+Clairement, la forme est surprenante, pour ne pas dire bordélique. Mais il faut l&#39;avouer, cela à un certain charme.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Alors, de quoi ca parle ? :
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>Hé bien c&#39;est tout le problème, c&#39;est un livre qui est censer vous aider à transformer la culture des organisations, mais qui s&#39;evertue a vous dire qu&#39;il n&#39;y a pas d&#39;outils ou de méthodes pour le faire !</p>
+<p>
+A travers les petites histoires, on vous invite à prendre du temps pour conscience du contexte.
+On vous invite à avoir une vision <em>organique</em> plus que <em>mécaniste</em>.
+On sent qu&#39;il y a une envie d&#39;avoir une approche systémique à la palo-alto, mais on ne rentre jamais vraiment dedant. On explique pas comment utiliser cet aproche.</p>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+Faut-il bruler `Team-Topologie` ?
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<p><span style="text-decoration: underline;">Page 59 par exemple</span> :</p>
+<p>
+<code class="verbatim">Ce que tu décris s&#39;appel un &#34;système interactionnel&#34; ou un &#34;système vivant&#34;, c&#39;est une facons de modéliser une représentation qui va à l&#39;encontre d&#39;une vision plus mécaniste.</code></p>
+<p>
+Et plus loin :</p>
+<p>
+<code class="verbatim">Ca n&#39;existe pas l&#39;organsation, c&#39;est une abstraction</code></p>
+<p>
+Il y a un jugement sur les cadres d&#39;analyses mécanistes, on souhaite y apporter une analyse <em>&#34;interactionnel&#34;</em>, &#34;<em>vivante</em>&#34; mais sans proposer une vraie méthode pour y arriver.
+A la lecture de ces petites histoires, on a l&#39;impression qu&#39;on comprendrait mieux une organisation en faisant de la psychanalyse de ses acteurs plutôt qu&#39;en proposant des cadres d&#39;analyse.</p>
+<p>
+Bon, pourquoi pas, mais concretement, dans une organisation avec 100 personnes, comment on fait pour observer les besoins et les interractions de tout le monde ?
+Faut-il des discussions avec chacun des 100 acteurs pour comprendre ce qu&#39;il se passe ?</p>
+<p>
+Dans <strong>team-topologies</strong>, on a un model clairement abstrait, théorique, mécaniste, mais qui permet de comprendre rapidement les grands enjeux qui se passe dans une boite et dans une transfo.
+Sans doute le cadre <strong>team-topologie</strong> est faux, mais il me semble plus actionable que ce que propose &#34;culture-hacking&#34;.</p>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Que faut-il faire ?
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<p>
+Hé bien on ne le vous dis pas. Ou plutôt, on ne peut pas vous dire quoi faire parce que tout dépend du contexte!</p>
+<p>
+<span style="text-decoration: underline;">Page 78/79</span>, On a quand même le droit a un tableau de conseils sous la forme &#34;<code class="verbatim">A éviter</code>&#34; / &#34;<code class="verbatim">A Préférer</code>&#34; qui me semble à la fois être pleins de bon sens et en même temps vague voir béni-oui-oui.</p>
+<p>
+<span style="text-decoration: underline;">Exemple</span> :</p>
+<p>
+<code class="verbatim">Eviter : Simplifier</code>
+<code class="verbatim">Préferer : Embrasser la complexité. Accepter que l&#39;on aura jamais tous les éléments du contexte pour trouver une solution parfaite</code>
+<code class="verbatim">Exemple d&#39;action : Étudier plusieurs solutions possibles avant d&#39;en choisir une</code></p>
+<p>
+<span style="text-decoration: underline;">Plus bas</span> :</p>
+<p>
+<code class="verbatim">Eviter : Suivre une liste de bonne pratique, y compris celle-ci</code>
+<code class="verbatim">Préférer : Accepter qu&#39;il n&#39;y a aucune solution magique, que tout dépend du contexte dans lequel on intervient</code>
+<code class="verbatim">Exemple d&#39;action : Lire et s&#39;insprier. Suivre avec humilité ce qui se passe dans un contexte : les réactions, les besoins au quotidien</code></p>
+<p>
+Nous voila bien avancé ! Vous sentez ma frustration, en dehors de ces 2 pages, le livres ne propose rien.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Conclusion :
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<p>Bon, je suis très dure sur ce petit livre qui m&#39;a quand même marqué.
+Si on devait résumer, on pourrait dire que c&#39;est un livre à la gloire du coaching en posture basse.</p>
+<p>
+J&#39;ai découvert en le lisant que l&#39;humilité peut être une méthode de travail ! Et ca c&#39;est très fort.</p>
+<p>
+Au final, je suis en phase avec la philosophie de <strong>Culture Hacking</strong>.
+Il n&#39;y a pas de méthode de coaching ni de transformation d&#39;organisation universel.
+Dans mon contexte, ma psychologie, ce que propose le bouquain ne m&#39;interesse pas.</p>
+<p>
+Ma formation d&#39;ingégnieur me pousse à penser en termes de  &#34;problème -&gt; solution&#34;. Ca tape à côté pour moi.</p>
+<p>
+Sans doute, il plaira à d&#39;autres.</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Un tres beau passage sur notre métier
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p><span style="text-decoration: underline;">Page 67/68 :</span></p>
+<ul>
+<li><code class="verbatim">[...] Et j&#39;ajoute un élément important : nos choix et décisions sont liés au contexte. Chacun d&#39;entre nous possède un niveau d&#39;influance spécifique lié à son statut, à ses compétences à son expérience, à ses relations... Nous pouvons agir dans la limite de cette zone d&#39;influance: nous avons le pouvoir de prendre certaines décisions seuls; pour d&#39;autres, nous avons besoin de négocier; enfin lorsque nous n&#39;avons aucune influence, ce n&#39;est qu&#39;en l&#39;admettant et en lâchant prise que nous trouvons de la sérénité.</code></li>
+<li><code class="verbatim">Tu distingues 3 zones donc ?</code></li>
+<li><code class="verbatim">Oui, zone de pouvoir, zone d&#39;influance, zone d&#39;acceptation</code></li>
+<li><code class="verbatim">Ca me rappelles un proverbe... une citation... &#34;Que la force me soit donnée de supporter ce qui ne peut être changé; le courrage de changer ce qui peut l&#39;être; la sagesse de distinguer l&#39;un de l&#39;autre&#34;...</code></li>
+</ul>
+</div>
+</div>
+]]></description>
 </item></channel>
 </rss>

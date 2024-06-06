@@ -1,16 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>emacs - Catégorie - Le blog de Thomas Louvigné</title>
+        <title>Emacs - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/emacs/</link>
-        <description>emacs - Catégorie - Le blog de Thomas Louvigné</description>
+        <description>Emacs - Catégorie - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/emacs/" rel="self" type="application/rss+xml" /><item>
     <title>🐎 [18/12/2023] A propos du dernier Meetup EMACS Parisien</title>
-    <link>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</link>
+    <link>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</link>
     <pubDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</guid>
-    <description><![CDATA[J&#39;ai organisé le Meetup emacs de Paris du 05/12/2023 dans ma boite.
-Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.
-Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond idéologique entre les participants :]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</guid>
+    <description><![CDATA[<p>
+J&#39;ai organisé le <a href="https://emacs-doctor.com/">Meetup emacs de Paris</a> du 05/12/2023 dans ma boite.</p>
+<p>
+Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : 
+Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.</p>
+<p>
+Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond <em>idéologique</em> entre les participants :</p>
+<p>
+Une sorte de militantisme libriste et anti-moderne, anti-bloitware, à contre courant de tout ce qu&#39;il se fait.</p>
+<p>
+En même temps, on rassemble des gens qui utilise un logiciel qui est né dans les années 70. Soit il y a 50 ans ! Beaucoup d&#39;entre nous l&#39;utilise dans le terminal.</p>
+<p>
+Très vite il y a eu des petites blagues, des connexions, sans se connaître j&#39;ai eu l&#39;impression de rencontrer des vieux potes.</p>
+<p>
+Sur le fond, on a discuté de <a href="https://www.orgroam.com/">org-roam</a>. L&#39;un de ses créateur était là pour nous montrer, en LISP, comment et pourquoi c&#39;était fait. C&#39;était technique et un peu lunaire, hors sole… Ou génial !</p>
+<p>
+<strong>Org-Roam</strong> est une extension d&#39;une autre extension (<strong>org-mode</strong>) de ce vieux logiciel qui est EMACS.</p>
+<p>
+Bref, au delà du fond, j&#39;ai trouvé ce meetup simplement sympa.</p>
+<p>
+Pour avoir les infos, sur les prochains meetup parisien, ca ce passe <a href="https://emacs-doctor.com/">ici</a>.</p>
+]]></description>
 </item></channel>
 </rss>

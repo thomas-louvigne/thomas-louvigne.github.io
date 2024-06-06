@@ -1,15 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>organisation - Balise - Le blog de Thomas Louvigné</title>
+        <title>Organisation - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/organisation/</link>
-        <description>organisation - Balise - Le blog de Thomas Louvigné</description>
+        <description>Organisation - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/organisation/" rel="self" type="application/rss+xml" /><item>
     <title>🗒 [30/09/2022] S&#39;organiser dans sa vie perso :</title>
-    <link>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</link>
+    <link>https://thomas-louvigne.github.io/s-organiser-vie-perso/</link>
     <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/s-organiser-vie-perso/</guid>
-    <description><![CDATA[J&#39;ai testé pour vous :
-Habitica : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude. Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable. Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile. Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/s-organiser-vie-perso/</guid>
+    <description><![CDATA[<p>
+J&#39;ai testé pour vous :</p>
+<ul>
+<li><a href="https://habitica.com/">Habitica</a> : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude.</li>
+<li>Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable.</li>
+<li>Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile.</li>
+<li>Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé. Par contre, c&#39;est un peu chiant pour notfier les habituedes à faire régulièrement. Autre problème, dès que tu sors de chez toi, tu as plus ta liste…</li>
+</ul>
+]]></description>
 </item></channel>
 </rss>

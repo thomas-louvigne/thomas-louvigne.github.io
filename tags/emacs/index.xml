@@ -1,41 +1,108 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>emacs - Balise - Le blog de Thomas Louvigné</title>
+        <title>Emacs - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/emacs/</link>
-        <description>emacs - Balise - Le blog de Thomas Louvigné</description>
+        <description>Emacs - Balise - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/emacs/" rel="self" type="application/rss+xml" /><item>
     <title>🐎 [18/12/2023] A propos du dernier Meetup EMACS Parisien</title>
-    <link>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</link>
+    <link>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</link>
     <pubDate>Mon, 18 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/meetup-emacs-5-12-2023/</guid>
-    <description><![CDATA[J&#39;ai organisé le Meetup emacs de Paris du 05/12/2023 dans ma boite.
-Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.
-Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond idéologique entre les participants :]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/meetup-emacs-5-12-2023/</guid>
+    <description><![CDATA[<p>
+J&#39;ai organisé le <a href="https://emacs-doctor.com/">Meetup emacs de Paris</a> du 05/12/2023 dans ma boite.</p>
+<p>
+Je voulais juste en parler parce que l&#39;ambiance était particulièrement chouette : 
+Il y avait un philosophe, un directeur d&#39;école linuxien, un chercheur, un ingénieur, bien sur des développeurs… et puis moi.</p>
+<p>
+Ce qui est marrant c&#39;est de voir qu&#39;au de la de la passion de emacs, il y avait un fond <em>idéologique</em> entre les participants :</p>
+<p>
+Une sorte de militantisme libriste et anti-moderne, anti-bloitware, à contre courant de tout ce qu&#39;il se fait.</p>
+<p>
+En même temps, on rassemble des gens qui utilise un logiciel qui est né dans les années 70. Soit il y a 50 ans ! Beaucoup d&#39;entre nous l&#39;utilise dans le terminal.</p>
+<p>
+Très vite il y a eu des petites blagues, des connexions, sans se connaître j&#39;ai eu l&#39;impression de rencontrer des vieux potes.</p>
+<p>
+Sur le fond, on a discuté de <a href="https://www.orgroam.com/">org-roam</a>. L&#39;un de ses créateur était là pour nous montrer, en LISP, comment et pourquoi c&#39;était fait. C&#39;était technique et un peu lunaire, hors sole… Ou génial !</p>
+<p>
+<strong>Org-Roam</strong> est une extension d&#39;une autre extension (<strong>org-mode</strong>) de ce vieux logiciel qui est EMACS.</p>
+<p>
+Bref, au delà du fond, j&#39;ai trouvé ce meetup simplement sympa.</p>
+<p>
+Pour avoir les infos, sur les prochains meetup parisien, ca ce passe <a href="https://emacs-doctor.com/">ici</a>.</p>
+]]></description>
 </item><item>
     <title>🐎 [04/11/2023] De purcell à bedrock : Je change de starter-kits</title>
-    <link>https://thomas-louvigne.github.io/posts/emacs-bedrock/</link>
+    <link>https://thomas-louvigne.github.io/emacs-bedrock/</link>
     <pubDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/emacs-bedrock/</guid>
-    <description><![CDATA[Bon, j&#39;avais dis dans un précédent article que Purcell était un excellent starter kit pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.
-Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à emacs-bedrock. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.
-Il à l&#39;avantage d&#39;être très rapide et plutôt modulable.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/emacs-bedrock/</guid>
+    <description><![CDATA[<p>
+Bon, j&#39;avais dis dans un précédent article que <a href="purcell-startup-kit-emacs.html">Purcell était un excellent starter kit</a> pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.</p>
+<p>
+Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à <a href="https://git.sr.ht/~ashton314/emacs-bedrock">emacs-bedrock</a>. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.</p>
+<p>
+Il à l&#39;avantage d&#39;être très rapide et plutôt modulable. Y a rien de sensationnel, je dirais même que c&#39;est plutôt décevant tellement il est vide. Mais je crois que c&#39;est ce que j&#39;aime chez lui !</p>
+]]></description>
 </item><item>
     <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
-    <link>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</link>
+    <link>https://thomas-louvigne.github.io/purcell-startup-kit-emacs/</link>
     <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/purcell-startup-kit-emacs/</guid>
-    <description><![CDATA[J&#39;ai tenté de passé sur Doom emacs et sur SpaceMacs mais leur evile mode (bindings de Vi) par défaut est chiant. Le retour au God Mode (keybinding de emacs vanilla) est mal fichue. Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.
-Le starterkit Purcell, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.
-J&#39;aime : Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à st par aillieurs) Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs) Son coté &#34;juste ce qu&#39;il faut&#34; Les bindings emacs vanilla et intelligent J&#39;aime pas : L&#39;autoparens qui est activé par défaut.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/purcell-startup-kit-emacs/</guid>
+    <description><![CDATA[
+<p>
+J&#39;ai tenté de passé sur <a href="https://github.com/doomemacs/doomemacs">Doom emacs</a> et sur <a href="https://github.com/syl20bnr/spacemacs/tree/develop">SpaceMacs</a> mais leur evile mode (bindings de Vi) par défaut est chiant.
+Le retour au God Mode (keybinding de emacs vanilla) est mal fichue.
+Par aillieurs, c&#39;est extrèment lourd pour des trucs pas forcément nécessaire.</p>
+<p>
+Le starterkit <a href="https://github.com/purcell/emacs.d">Purcell</a>, est pour moi parfait. Il à tout les trucs nécessaire, sans en faire trop.</p>
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+J&#39;aime :
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<ul>
+<li>Le fait qu&#39;il marche nickel dans le terminal (Suis passé a à <a href="https://st.suckless.org/">st</a> par aillieurs)</li>
+<li>Sa simplicité d&#39;installation (juste un git clone et ca marche, un bonheur par rapport a doom emacs)</li>
+<li>Son coté &#34;juste ce qu&#39;il faut&#34;</li>
+<li>Les bindings emacs vanilla et intelligent</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+J&#39;aime pas :
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<ul>
+<li>L&#39;autoparens qui est activé par défaut. (Mais ca c&#39;est une plaie qu&#39;on trouve sur tout les IDE actuel)</li>
+<li>LGG C-[arrow] qui switch de buffer au lieu de passer de mot en mot (du coup, faut apprandre à utiliser M-f et M-b)</li>
+</ul>
+<p>Pour ceux que ca intéresse, y a une liste de starterkit d&#39;emacs dispo <a href="https://www.emacswiki.org/emacs/StarterKits">ici</a> :</p>
+</div>
+</div>
+]]></description>
 </item><item>
     <title>🐎 [24/01/2020] Pourquoi EMACS est la meilleur des religions :</title>
-    <link>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</link>
+    <link>https://thomas-louvigne.github.io/emacs-meillieur-religion/</link>
     <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/posts/emacs-meillieur-religion/</guid>
-    <description><![CDATA[TOUT peut se faire dans le terminal ⤵ Il y a un terminal dans EMACS ⤴ EMACS est légé 🌬 En terme de RAM &amp; co, j&#39;ai pas vu mieux EMACs est un packet-manager (melpa) ultra riche (4415 packages) EMACS est un logiciel ET un language de programmation, ca peut parraitre mindblow, mais c&#39;est la puissance de LISP . EMACS est ultra moderne: Tout ce que font les IDE de mes collègues, je peux le faire EMACS est ultra vieux 👴.]]></description>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/emacs-meillieur-religion/</guid>
+    <description><![CDATA[<ul>
+<li>TOUT peut se faire dans le terminal ⤵</li>
+<li>Il y a un terminal dans EMACS ⤴</li>
+<li>EMACS est légé 🌬  En terme de RAM &amp; co, j&#39;ai pas vu mieux</li>
+<li>EMACs est un packet-manager (<a href="http://melpa.org">melpa</a>) ultra riche (4415 packages)</li>
+<li>EMACS est un logiciel ET un language de programmation, ca peut parraitre mindblow, mais c&#39;est la puissance de <a href="https://fr.wikipedia.org/wiki/Lisp">LISP</a> .</li>
+<li>EMACS est ultra moderne: Tout ce que font les IDE de mes collègues, je peux le faire</li>
+<li>EMACS est ultra vieux 👴. Né en 1976, il n&#39;a pas arreté d&#39;evolué et de s&#39;enrichir</li>
+<li>EMACS possède un <a href="https://fr.wikipedia.org/wiki/ELIZA">psychologue</a> à qui vous pouvez parler (<code>M-x doctor</code>)</li>
+<li>EMACS intègre une todo-list ☑ ( <a href="http://orgmode.org">org-mode</a> ) simple et génial</li>
+<li>EMACS me permet de générer ce blog, grace à <a href="http://orgmode.org">org-mode</a> ⤴</li>
+<li>EMACS permet de faire des <del>powerPoint</del> présentations, grâce à <a href="http://orgmode.org">org-mode</a> ⤴ et à <a href="https://github.com/yjwen/org-reveal/">revealJs</a></li>
+<li>EMACS gère les emoji 🦋 (<code>M-x butterfly</code>)</li>
+</ul>
+]]></description>
 </item></channel>
 </rss>
