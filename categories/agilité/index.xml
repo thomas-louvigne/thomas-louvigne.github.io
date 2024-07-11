@@ -3,7 +3,205 @@
         <title>Agilité - Catégorie - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</link>
         <description>Agilité - Catégorie - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 29 May 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agilit%C3%A9/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 11 Jul 2024 04:14:54 -0800</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/agilit%C3%A9/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [11/07/2024] A quoi sert de passer une certification en 2024 ?</title>
+    <link>https://thomas-louvigne.github.io/a-quoi-servent-les-certifs/</link>
+    <pubDate>Thu, 11 Jul 2024 04:14:54 -0800</pubDate><author>
+        <name>Auteur</name>
+    </author><guid>https://thomas-louvigne.github.io/a-quoi-servent-les-certifs/</guid>
+    <description><![CDATA[
+<p>J&#39;ai passé l&#39;année derniere une certifications Professional Scrum Master (PSM1) et Professional Product Owner (PSPO) de SCRUM.org</p>
+<p>
+Habituellement, on trouve des gens qui sont contre les certifications avant de les passer… Et d&#39;autres personnes qui deviennent des grands défenseurs des certifications … une fois obtenues !</p>
+<p>
+Pour poser la question différemment, entre 2 candidats ayant la même expérience terrain, qu&#39;apporte, vraiment, cette certification ? Est-ce que cela vaut son prix ?</p>
+<p>
+On va tenter ici de parler de ces certifications SCRUM.</p>
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+De l&#39;intérêt des certifications SCRUM
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<p>Il y a officiellement 2 organismes de certification SCRUM :</p>
+<p>
+Scrum-Alliance qui propose une certification valable 2 ans et qui - selon les rumeurs - s&#39;obtient assez facilement à la fin d&#39;une formation de deux jours.
+Scrum.org qui permet de passer sa certification en remplissant un QCM en anglais de 80 questions. Il faut ensuite avoir 85% de bonnes réponses pour valider la certification. Cette certification est valide à vie.</p>
+<p>
+Il est à noter que les certifications scrum-alliance sce font avec un &#34;scrum-trainer&#34; homologué là où les certifications &#34;<a href="scrum.html">scrum.or</a>g&#34; peuvent se faire en candidat libre.</p>
+<p>
+<em>(A noter que SAFe propose aussi des formations certifiantes PO mais qui ne sont pas reconnues par SCRUM…)</em></p>
+<p>
+La certification SCRUM.org permet de se (re)poser clairement les fondamentaux d&#39;une équipe agile qui fonctionne bien : le nombre de personnes présentes dans l&#39;équipe, les différentes responsabilités proposées aux Dev, PO et SM, le côté &#34;<em>équipe autogérée</em>&#34;… Bref, ces certifications nous obligent à penser à l&#39;agilité au &#34;<em>vrais sens</em>&#34; du terme.</p>
+<p>
+Je parle de &#34;<em>vrai sens</em>&#34; en opposition à l&#39;agilité que l&#39;on retrouve dans beaucoup de grands groupes où l&#39;agilité est réduite à une somme de méthodes appliquées sans conviction, où la hiérarchie, la planification, la contractualisation et la bureaucratie prennent toute la place.</p>
+<p>
+Dans la certification SCRUM, les inspirations Agile, Lean et surtout eXtreme Programming sont très fortes et très présentes. Le Scrum Guide transpire l&#39;agilité qu&#39;on aimerait voir appliquer plus souvent.</p>
+<p>
+Mieux, les questions de la certification appuient là où cela fait mal.
+Lorsqu&#39;il pose la question &#34;<em>Est-ce que le PO doit être présent lors du daily ?</em>&#34;,
+La réponse est <strong>non</strong> parce que c&#39;est un événement réservé aux développeurs.</p>
+<p>
+Est-ce qu&#39;on voit, sur le terrain, des daily sans PO ? Ça ne m&#39;est jamais arrivé en 8 ans de travail dans l&#39;agilité !</p>
+<p>
+Est-ce que c&#39;est intéressant ? Oui : pédagogiquement cela nous force à nous rappeler que l&#39;équipe de développeurs doit être autonome dans son organisation et donc dans ses points de synchronisation.</p>
+<p>
+Est-ce que ça fait mal ? Oui, parce qu&#39;on a encore du mal à voir des équipes de développement qui soient <em>vraiment</em> auto-organisées.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+Des certifications (inutilement) compliquées
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<p>Après avoir passé la certification Scrum Master et après avoir beaucoup révisé, j&#39;ai tenté de passer une première fois la certification PO. Je l&#39;ai ratée à une question près ! Fou de rage, j&#39;ai re-bossé le soir a fond pour la repasser - et l&#39;obtenir - le lendemain après-midi suivant.</p>
+<p>
+J&#39;avais passé 15 tests à blanc (de longueurs différentes et sur des sites différents) pour passer la certification SM et autant avant de passer ma première certification PO.
+On est donc sur un total d&#39;une 30 aines de tests. A cela, j&#39;ai noté les questions que j&#39;avais raté pour mieux réviser.</p>
+<p>
+Lire le Scrum Guide ne suffit pas à passer les certifications, Il faut :</p>
+<ul>
+<li>connaître les bases de Nexus (framework à l&#39;échelle - distinct SAFe),</li>
+<li>avoir lut certains article du blog scrum.org,</li>
+<li>connaitre les outils ou pratiques hors-SCRUM (tels que la vélocité, les user story, la dette technique…)</li>
+<li>Et connaitres certaines questions pièges !</li>
+</ul>
+<p>Il est à noter que la certification PO demande plus de savoir &#34;<em>externe</em>&#34; que la certification Scrum Master.</p>
+<div id="outline-container-headline-3" class="outline-4">
+<h4 id="headline-3">
+1ère difficulté, il faut avoir un certain niveau en anglais.
+</h4>
+<div id="outline-text-headline-3" class="outline-text-4">
+<p>Et faire attention aux pièges syntaxiques, notamment les phrases intero-négatives.</p>
+<p>
+<em>Which statement is least accurate when providing a definition of ‘Done’?</em></p>
+<p>
+Une lecture un peu rapide fait sauter le &#34;<em>least</em>&#34; et c&#39;est la catastrophe !
+Il faut aussi faire attention à la double négation anglaise…</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-4">
+<h4 id="headline-4">
+2ème difficulté, certaines questions restent tout simplement floues.
+</h4>
+<div id="outline-text-headline-4" class="outline-text-4">
+<p>Il faut alors traîner sur internet pour tenter de trouver une réponse au petit bonheur-la-chance.</p>
+<p>
+A la question :
+&#34;<em>A quelle fréquence les utilisateurs scrum doivent-ils inspecter les artefacts Scrum et la progression vers l&#39;objectif du Sprint ?</em>&#34;</p>
+<ul>
+<li>Fréquemment, mais cela ne doit pas entraver le travail</li>
+<li>Aussi souvent que possible</li>
+<li>Après la mêlée quotidienne</li>
+<li>Lors de la revue de sprint</li>
+</ul>
+<p>Il faut répondre &#34;<em>Fréquemment, mais cela ne doit pas entraver le travail</em>&#34; et pas &#34;<em>Aussi souvent que possible</em>&#34;. Pourquoi ? Parce que je l&#39;ai vu sur internet (!)
+La réponse semble plutôt logique maintenant qu&#39;on sait la réponse, mais rien n&#39;est rassurant, rien n&#39;est écrit dans le Scrum Guide.</p>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-4">
+<h4 id="headline-5">
+3ème difficulté, il faut connaître Scrum ET la vie en dehors de Scrum
+</h4>
+<div id="outline-text-headline-5" class="outline-text-4">
+<p>Tout en étant vigilant - à savoir ce que ce n&#39;est PAS dans SCRUM !</p>
+<p>
+Typiquement a la question :</p>
+<p>
+&#34;Quelles sont les principales activités du PO parmi ces propositions ?</p>
+<ul>
+<li class="unchecked">Ordonner le backlog</li>
+<li class="unchecked">Communiquer aux Stakeholders l&#39;avancement du produit</li>
+<li class="unchecked">Mettre à jour le Burn Down Chart&#34;</li>
+</ul>
+<p>Il ne faut pas cocher &#34;<em>Mettre à jour le Burn Down Chart</em>&#34;, parce que le <strong>Burn Down Chart</strong>, n&#39;est pas un outil SCRUM.</p>
+<p>
+En revanche à la question suivante :
+&#34;Que montre le Burn Down Chart, choisissez la meilleur réponse,</p>
+<ul>
+<li class="unchecked">L&#39;évolution de l&#39;incertitude de l&#39;avancement d&#39;un projet</li>
+<li class="unchecked">La hiérarchie des tâches restantes sur le projet</li>
+<li class="unchecked">Combien de tâches il reste à faire dans un sprint&#34;</li>
+</ul>
+<p>Il faut cocher la 3ème réponse… Donc savoir ce qu&#39;est un <strong>BurnDown Chart</strong> !, tout en sachant que ça n&#39;est pas dans Scrum (!)</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+Des examens blancs
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<p>Le test blanc officiel de Scrum.org est assez simple mais &#34;.dangereux/&#34; : on obtient vite le score de 85% et on se sent prêt à passer le vrai examen final, mais les véritables tests &#34;PO&#34; et &#34;SM&#34; sont bien plus difficile.</p>
+<p>
+En commençant les tests sur internet, on se rend compte qu&#39;il y a des questions pièges qui ne peuvent se résoudre qu&#39;en bachotant.</p>
+<p>
+A la question :
+&#34;<em>Quand l&#39;équipe Scrum est autorisée à interagir avec les principales parties prenantes ?</em>&#34;</p>
+<ul>
+<li class="unchecked">A la Sprint Retrospective</li>
+<li class="unchecked">Au Daily Scrum</li>
+<li class="unchecked">Chaque fois qu’il est utile d’avoir l’avis des parties prenantes</li>
+<li class="unchecked">A la Sprint Review&#34;</li>
+</ul>
+<p>Le Scrum Guide dit que la &#34;<em>Sprint Review</em>&#34; est LE moment pour interagir avec l&#39;équipe et récupérer du feedback.
+<strong>Mais</strong> la bonne réponse est  &#34;<em>Chaque fois qu&#39;il est utile d&#39;avoir l&#39;avis des parties prenantes</em>&#34;.</p>
+<p>
+Si vous n&#39;êtes pas tombé dans ce piège au moins une fois, il est difficile de tomber juste du premier coup ou par application de la logique pure.</p>
+<p>
+On bascule d&#39;un passage qui va d&#39;une compréhension de SCRUM à un apprentissage par cœur des questions les plus retorses et alambiquées possibles.</p>
+<p>
+<span style="text-decoration: underline;">Autres problèmes</span>, sur internet il y a des dizaines de tests. Certains sont gratuits (ex <a href="https://mlapshin.com/index.php/scrum-quizzes/">laplschine</a>) mais ne sont pas toujours à jour avec la version 2020 du Scrum Guide. D&#39;autres sites sont payants mais semblent un peu louches (certains ont pleins de publicités douteuses, d&#39;autres mélangent des questions SCRUM avec d&#39;autres examens …).</p>
+<p>
+Enfin, on a des sortes de forums où les gens votent sur les réponses les plus probables aux questions …
+La légitimité de ces réponses laisse donc à désirer. Dans ces cas-là, à quoi sert de réviser si on n&#39;est jamais sûr de la bonne réponse ?</p>
+<p>
+<span style="text-decoration: underline;">Une question se pose</span> : SCRUM étant une marque déposée et les questions des certifications étant sûrement couvertes par un brevet X ou Y, comment se fait-il qu&#39;elles se retrouvent sur internet ?</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-3">
+<h3 id="headline-7">
+Parlons de la triche à l&#39;examen ?
+</h3>
+<div id="outline-text-headline-7" class="outline-text-3">
+<p>Avant de commencer le test, il est légitime de savoir ce que serait ou ne serait pas de la triche.
+Par exemple, est-ce que s&#39;entraîner sur des examens blancs officiels est de la triche ?</p>
+<p>
+Personnellement j&#39;ai réalisé une &#34;<a href="https://thomas-louvigne.github.io/2020-psm-scrum-certification-cheat-sheet/">cheat-sheet</a>&#34; avec tous les points importants que j&#39;avais notés pendant mes révisions et que j&#39;ai imprimé le jour de l&#39;examen.</p>
+<p>
+Autre point, pendant l&#39;examen, un script interdit de sélectionner les questions ce qui empêche les copier / coller dans google. Sans être expert informatique, une extension sur son navigateur permet de passer outre… Et on comprend ensuite pourquoi ces questions se retrouvent telles quelles sur des sites de tests en ligne !</p>
+<p>
+En vérité, le timing est très serré pour faire 80 questions en 1 heure. Il faut lire, comprendre et répondre à chacune de ces questions en moins d&#39;une minute. N&#39;espérez pas obtenir votre certification en tentant de trouver les réponses en trifouillant des réponses issues de forums obscurs grâce à votre moteur de recherche.</p>
+<p>
+La triche n&#39;est donc pas impossible mais reste limitée voir quasi-impossible pour quelqu&#39;un qui n&#39;a pas bossé sérieusement sa certification.</p>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-3">
+<h3 id="headline-8">
+En conclusion ?
+</h3>
+<div id="outline-text-headline-8" class="outline-text-3">
+<p>La certification SCRUM.org est intéressante dans le sens où elle pose des questions pertinentes sur nos organisations et notre manière d&#39;appliquer l&#39;agilité. Elle ancre certains réflexes nécessaires à un Product Owner ou à un Scrum Master. Elle sait appuyer là où nos organisations pourraient faire mieux.</p>
+<p>
+On peut donc dire que la certification PO / SM implique de vraies connaissances de l&#39;agilité. Des connaissances qui sont éloignées de ce que l&#39;on trouve dans la plupart des grandes boîtes qui se revendiquent &#34; <em>agiles</em> &#34;.</p>
+<p>
+En revanche, la certification devient lourde et inutilement complexe quand on se rend compte de la part nécessaire d´apprentissage <em>par-coeur</em> .
+Avoir ces certifications demande une capacité certaine de bachotage. Mais est-ce utile pour un PO ou un SM lorsqu&#39;il est sur le terrain ?
+Les QCM en ligne ne permettront jamais de gagner des compétences en intelligence émotionnelle, en coaching ou en management. Ils ne permettront pas non plus de développer une réflexion sur un contexte précis ou elle ne permettent pas une meilleure analyse des organisations.</p>
+<p>
+Pour moi, le rapport investissement-valeur ne semble pas très positif Au final, j&#39;en conclus que le temps investi dans ces certifications n&#39;est pas rentable par rapport au niveau de connaissances obtenues.</p>
+<p>
+Pour ce qui est du côté &#34;<em>nouveau badge sur le C.V.</em>&#34;, il me semble que passer une certification que l&#39;on dit plus simple (comme celle de SCRUM-Alliance ou celle de SAFe) aurait été plus profitable : moins de temps perdu, pour une valorisation égale sur le marché. Le scrum-guide de 15 pages suffit à la connaissance de SCRUM.</p>
+<p>
+Malheureusement <em>connaître SCRUM</em>, n&#39;est pas <em>savoir faire</em> scrum. Une certification ne garantit pas que le candidat sera bon ou meilleur qu&#39;un autre sur le terrain. Personnellement, j&#39;en arrive à la conclusion qu&#39;entre 2 candidats de même expérience, l&#39;argument &#34;<em>certifié</em>&#34; ne fonctionnera pas pour moi.</p>
+<p>
+Au final, les meilleures formations AGILE que j&#39;ai faites et que je conseilles sont des formations non-certifiantes que l&#39;on donne dans mon entreprise, ou les formations axées &#34;<em>Soft skills</em> &#34; et développement personnel. (Formation prise de parole en publique, formation présentation, formation intelligence émotionnelle, formation communication non-violente…)</p>
+<p>
+Il me semble que la capacité de communication, le style de management, la réflexion autour des organisations, la capacité à convaincre, les convictions sont des atouts bien plus indispensables aux PO et SM.</p>
+</div>
+</div>
+]]></description>
+</item><item>
     <title>🤹 [29/05/2024] Agile, faut qu&#39;on parle</title>
     <link>https://thomas-louvigne.github.io/rupture-agile/</link>
     <pubDate>Wed, 29 May 2024 00:00:00 &#43;0000</pubDate><author>
