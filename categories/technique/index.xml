@@ -5,10 +5,10 @@
         <description>Technique - Catégorie - Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/categories/technique/" rel="self" type="application/rss+xml" /><item>
     <title>🐎 [04/11/2023] De purcell à bedrock : Je change de starter-kits</title>
-    <link>https://thomas-louvigne.github.io/emacs-bedrock/</link>
+    <link>https://thomas-louvigne.github.io/2023/11/emacs-bedrock/</link>
     <pubDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Auteur</name>
-    </author><guid>https://thomas-louvigne.github.io/emacs-bedrock/</guid>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2023/11/emacs-bedrock/</guid>
     <description><![CDATA[<p>
 Bon, j&#39;avais dis dans un précédent article que <a href="purcell-startup-kit-emacs.html">Purcell était un excellent starter kit</a> pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.</p>
 <p>
@@ -18,10 +18,10 @@ Il à l&#39;avantage d&#39;être très rapide et plutôt modulable. Y a rien de 
 ]]></description>
 </item><item>
     <title>🐎 [18/01/2023] Purcell est un des meillieurs startup kit de emacs</title>
-    <link>https://thomas-louvigne.github.io/purcell-startup-kit-emacs/</link>
+    <link>https://thomas-louvigne.github.io/2023/01/purcell-startup-kit-emacs/</link>
     <pubDate>Wed, 18 Jan 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Auteur</name>
-    </author><guid>https://thomas-louvigne.github.io/purcell-startup-kit-emacs/</guid>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2023/01/purcell-startup-kit-emacs/</guid>
     <description><![CDATA[
 <p>
 J&#39;ai tenté de passé sur <a href="https://github.com/doomemacs/doomemacs">Doom emacs</a> et sur <a href="https://github.com/syl20bnr/spacemacs/tree/develop">SpaceMacs</a> mais leur evile mode (bindings de Vi) par défaut est chiant.
@@ -57,10 +57,10 @@ J&#39;aime pas :
 ]]></description>
 </item><item>
     <title>🐧 [31/07/2022] GoXLR sur linux</title>
-    <link>https://thomas-louvigne.github.io/goxlr-linux/</link>
+    <link>https://thomas-louvigne.github.io/2022/07/goxlr-linux/</link>
     <pubDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Auteur</name>
-    </author><guid>https://thomas-louvigne.github.io/goxlr-linux/</guid>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2022/07/goxlr-linux/</guid>
     <description><![CDATA[<p>
 Voilà, j&#39;ai eu une carte son <strong>GoXLR</strong> à noël. Elle était pas compatible linux 😞.
 Et puis la communauté a fait QQCH de magique 🙌.</p>
@@ -73,10 +73,10 @@ Et y a un <a href="https://discord.gg/2QUHPAmU">discord</a> aussi très sympatiq
 ]]></description>
 </item><item>
     <title>🐎 [24/01/2020] Pourquoi EMACS est la meilleur des religions :</title>
-    <link>https://thomas-louvigne.github.io/emacs-meillieur-religion/</link>
+    <link>https://thomas-louvigne.github.io/2020/01/emacs-meillieur-religion/</link>
     <pubDate>Fri, 24 Jan 2020 00:00:00 &#43;0000</pubDate><author>
-        <name>Auteur</name>
-    </author><guid>https://thomas-louvigne.github.io/emacs-meillieur-religion/</guid>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2020/01/emacs-meillieur-religion/</guid>
     <description><![CDATA[<ul>
 <li>TOUT peut se faire dans le terminal ⤵</li>
 <li>Il y a un terminal dans EMACS ⤴</li>
