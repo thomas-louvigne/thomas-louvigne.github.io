@@ -3,17 +3,17 @@
         <title>List - Balise - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/tags/list/</link>
         <description>List - Balise - Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/list/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/list/" rel="self" type="application/rss+xml" /><item>
     <title>Software List</title>
     <link>https://thomas-louvigne.github.io/pages/software-list/</link>
-    <pubDate>Fri, 25 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/pages/software-list/</guid>
     <description><![CDATA[
 <p>
 Voici la liste des logiciels que j&#39;utilise.</p>
 <p>
-<em>Dernière mise à jour : `08/09/2023`</em></p>
+<em>Dernière mise à jour : `02/10/2024`</em></p>
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
 Dot-stuff
@@ -35,8 +35,8 @@ Distribution
 <ul>
 <li>Manjaro</li>
 <li>Windows Manager : KDE</li>
-<li>Gestion du son Pipewire</li>
-<li>Gestion de l&#39;affichage Wayland sur le laptop / X11 sur le PC fixe</li>
+<li>Gestion du son : Pipewire</li>
+<li>Gestion de l&#39;affichage : Wayland</li>
 </ul>
 </div>
 </div>
@@ -109,9 +109,8 @@ Extension pour Firefox
 <li><strong>KDE Connect</strong>  :  Controler son PC avec son téléphonne</li>
 <li><a href="https://github.com/mozilla/multi-account-containers">Multi-Account Container</a> : Permet de gérer plusieurs identités sur son navigateur (perso, taff…)</li>
 <li>Bitwarden : Gestion des mots de passe</li>
-<li><a href="https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean">Bypass PayWalls</a> : Bypasser de paywall de journeaux</li>
+<li><a href="https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean">Bypass PayWalls</a> : Bypasser de paywall de journeaux (⚠ plus a jour / illégale)</li>
 <li><a href="https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies">I still don&#39;t care about cookies</a> : Permet de fermer les popups de cookies en les refusants</li>
-<li><a href="https://minimal.aupya.org/en/">Minimal</a> : Permet d&#39;avoir un internet dépolué des couleurs vives, des popups a la con et des trucs qui prennent votre attention</li>
 <li><a href="https://addons.mozilla.org/fr/android/addon/privacy-badger17/">EFF Privacy Badger</a> : Permet de blocker des trackers. C&#39;est géré par l&#39;EFF , donc j&#39;ai plutot confiance</li>
 <li><a href="https://addons.mozilla.org/fr/firefox/addon/don-t-fuck-with-paste/">Don&#39;t fuck with past</a> : Permet de bypasser les site qui bloque le copier / coller</li>
 </ul>
@@ -129,7 +128,6 @@ Media
 <li><strong>mplayer / mpv</strong> et ses gui : Permet de regarder des vidéos, bien mieux que vlc</li>
 <li><strong>spotify</strong> : Musique sur internet</li>
 <li><a href="https://github.com/GoXLR-on-Linux/goxlr-utility">GoXLR-utility</a> : Pour gérer ma carte son dans linux</li>
-<li><strong>The Gimp</strong> : Pour modifier des images. Ca reste ok pour bon nombre de trucs basiques</li>
 </ul>
 </div>
 </div>
@@ -164,7 +162,6 @@ Création vidéo
 <ul>
 <li><strong>obs-studio</strong> : Logiciel de streaming. J&#39;utilise la version <a href="https://aur.archlinux.org/packages/obs-studio-tytan652">AUR de tytan652</a> qui intègre de nombreux plugins.</li>
 <li><strong>KDEnlive</strong> : Montage vidéo</li>
-<li><strong>Bitwig</strong> : DAW / Mixage et enregistrement de musique (style abelton) qui marche très bien avec les périfériques MIDI et avec <strong>pipewire.</strong></li>
 </ul>
 </div>
 </div>
@@ -202,7 +199,6 @@ Distribution
 <div id="outline-text-headline-17" class="outline-text-3">
 <ul>
 <li>Android stock issus de Xiaomi</li>
-<li><del><a href="https://github.com/SubhamTyagi/Last-Launcher">Last Launcher</a></del> : Un launcher d&#39;applications sans icone, très sobre. (Un peu buggé, je l&#39;utilise plus)</li>
 </ul>
 </div>
 </div>
@@ -297,7 +293,7 @@ Autre
 </h3>
 <div id="outline-text-headline-26" class="outline-text-3">
 <ul>
-<li><strong>Fitatu</strong>: Appli de perte de poids</li>
+<li><strong>Foodvisor</strong>: Appli de perte de poids</li>
 <li><strong>Bitwarden</strong> : Gestion de mots de passe</li>
 <li><strong>KDE connect</strong> : interaction avec le PC et le steamdeck</li>
 </ul>

@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tools - Balise - Le blog de Thomas Louvigné</title>
+        <link>https://thomas-louvigne.github.io/tags/tools/</link>
+        <description>Tools - Balise - Le blog de Thomas Louvigné</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/tags/tools/" rel="self" type="application/rss+xml" /><item>
+    <title>Agile Tools</title>
+    <link>https://thomas-louvigne.github.io/pages/agile-tools/</link>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/pages/agile-tools/</guid>
+    <description><![CDATA[<p>
+You will find here all the agile tools i have made.</p>
+<p>
+Vous trouverez ici tout mes outils pour vous aider à faire de l&#39;agile.</p>
+<ul>
+<li><a href="/2024/01/2020-psm-scrum-certification-cheat-sheet/">SCRUM Cheat Sheet for certification</a> (English)</li>
+<li><a href="/2024/10/manifeste-agile-poster/">Poster Manifeste Agile</a> (French)</li>
+</ul>
+]]></description>
+</item></channel>
+</rss>

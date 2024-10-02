@@ -3,9 +3,26 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🤹 [02/10/2024] Manifeste Agile : Le postere</title>
+    <link>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</link>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</guid>
+    <description><![CDATA[<p>
+<em>Je met ici un poster en A3 du manifeste AGILE.</em></p>
+<p>
+<em>L&#39;idée est de pouvoir ré-afficher ses principes qui sont, selon moi, peu à peu oublié.</em></p>
+<p>
+<img src="./Manifeste-Agile-poster.png" alt="./Manifeste-Agile-poster.png" title="./Manifeste-Agile-poster.png" /></p>
+<p>
+La version PDF en A3 , plus facile à imprimé, est disponible <a href="Manifeste-Agile-poster.pdf">ici</a>.</p>
+<p>
+Poster en version 0.1</p>
+]]></description>
+</item><item>
     <title>🎮 [25/09/2024] Mes Derniers Jeux</title>
     <link>https://thomas-louvigne.github.io/2024/09/derniers-jeux-09-24/</link>
     <pubDate>Wed, 25 Sep 2024 00:00:00 &#43;0000</pubDate><author>
@@ -1810,191 +1827,6 @@ Et y a un <a href="https://discord.gg/2QUHPAmU">discord</a> aussi très sympatiq
 <li><strong>Road Redmption</strong> / Jeu de moto : Assez chiant et peu interessant . 5/10</li>
 <li><strong>Len&#39;s island</strong> / diablo like : Ok, il est pas finit. Mais l&#39;achetez pas, c&#39;est vraiment nul. Et je vois pas comment il pourrait s&#39;améliorer. 3/10</li>
 </ul>
-]]></description>
-</item><item>
-    <title>🤹 [23/02/2023] Venez, on lit les 12 principes du manifestes AGILE !</title>
-    <link>https://thomas-louvigne.github.io/2022/01/commenter-les-12-principes-agile/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2022/01/commenter-les-12-principes-agile/</guid>
-    <description><![CDATA[
-<p>
-Je voudrais relire avec vous les 12 principes agiles qui sont pour moi géniaux.
-En même temps, je voudrais partager mes observations, un peu énervés, de ce qui ne marche pas dans le monde réelle.</p>
-<p>
-⚠ Il y a de la rage. Ce blog me permet aussi d&#39;exprimer mes frustrations qutotidiennes issus de boite <em>qui veulent</em> faire de l&#39;agile ou qui disent faire de l&#39;agile. Mais en sont vraiment loin…</p>
-<p>
-<em>* Les  12 Principes sous-jacents au manifeste issu du <a href="https://agilemanifesto.org">Agile Manifesto .org</a></em></p>
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-1 Apportez de la valeur aux clients rappidament et souvent
-</h2>
-<div id="outline-text-headline-1" class="outline-text-2">
-<pre class="example">
-Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à grande valeur ajoutée.
-</pre>
-<p>
-L&#39;entrée des pratiques <em>dev-ops</em> commence enfin à entrer dans les boites, mêmes les grosses.
-L&#39;arrivée d&#39;accelerate, redit la meme chose avec des chiffres.
-L&#39;inssistance sur le fait que ce sont des <em>fonctionnalités et non des taches technique</em> montre l&#39;intéret pour la vision <em>produit</em> de l&#39;agile.
-Il y a encore beacoup trop de projet qui ne sont pas en production, mais on sent que les choses avancent sur ce point.</p>
-</div>
-</div>
-<div id="outline-container-headline-2" class="outline-2">
-<h2 id="headline-2">
-2 Accueillez le changement
-</h2>
-<div id="outline-text-headline-2" class="outline-text-2">
-<pre class="example">
-Accueillez positivement les changements de besoins, même tard dans le projet. Les processus Agiles exploitent le changement pour donner un avantage compétitif au client.
-</pre>
-<p>
-Oui, c&#39;est mis en place dans beaucoup de projet AGILE aujourd&#39;hui.</p>
-<p>
-1er problème : Il y a encore une tendance a remettre les cahiers des charge et dossier d&#39;architecture dans les <em>critères d&#39;acceptance</em> dans les tiquet jira…</p>
-<p>
-2e problème : On trouve beaucoup de boite, qui sous prétexte d&#39;agile, changent du jour au lendemain de grosse priorité dans le sprint.
-Dans SCRUM, le respect de l&#39;inviolabilité du sprint me semble une pierre angluaire.</p>
-</div>
-</div>
-<div id="outline-container-headline-3" class="outline-2">
-<h2 id="headline-3">
-3 Livrez rapidement
-</h2>
-<div id="outline-text-headline-3" class="outline-text-2">
-<pre class="example">
-Livrez fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les plus courts.
-</pre>
-<p>Cf. Le point numéro 1</p>
-</div>
-</div>
-<div id="outline-container-headline-4" class="outline-2">
-<h2 id="headline-4">
-4 L&#39;UX doit se faire par les dev, et on y arrive pas
-</h2>
-<div id="outline-text-headline-4" class="outline-text-2">
-<pre class="example">
-Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet.
-</pre>
-<p>Un des points que je vois les moins dans la réalité. Les developpeurs ne voient que très très rarements les utilisateurs finaux.
-Les <strong>PO</strong> sont très souvent externes aux projets et ne sont pas de vrais <em>owner</em> de leurs produits.</p>
-<p>
-L&#39;arrivée des UX ces dernieres années est une très bonne chose.
-Mais l&#39;idéale, que je n&#39;ai jamais vu, reste quand meme de faire travailler developpeurs avec de vrais utilisateurs finaux avant et après les démos.</p>
-</div>
-</div>
-<div id="outline-container-headline-5" class="outline-2">
-<h2 id="headline-5">
-5 La motivation des techs
-</h2>
-<div id="outline-text-headline-5" class="outline-text-2">
-<pre class="example">
-Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés.
-</pre>
-<p>VPN en carraf, connexion internet lente, sites internet censuré pour des raisons de sécurité, machine de travail hyper lente, choix du système d&#39;exploitation imposé, interdiction d&#39;installer ses logiciels sur son poste de travail…</p>
-<p>
-Faut-il encore parler des languages de programmation et technos imposé par d&#39;obscure achitect déconnecté du terrain a des developpeurs qui les déteste et ne les maitrise pas ?
-Je ne compte plus les fois où j&#39;ai vu ce genre de conditions de travail détestable pour les dev…</p>
-<p>
-On me rétorquera que les dev font leurs divas, que l&#39;acces a youtube n&#39;est pas nécessaire pour coder et qu&#39;il est légitime, pour des raisons de sécurité, on leur interdit d&#39;installer tel ou tel logiciel…</p>
-<p>
-Certe, mais dans un marché hyper tendu où les salaires des bons developpeurs sont hypers haut, brider de tel manière les techs me semble dangereux voir stupide d&#39;un point de vue managériale.</p>
-</div>
-</div>
-<div id="outline-container-headline-6" class="outline-2">
-<h2 id="headline-6">
-6 A bas le télétravail !
-</h2>
-<div id="outline-text-headline-6" class="outline-text-2">
-<pre class="example">
-La méthode la plus simple et la plus efficace pour transmettre de l’information à l&#39;équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face.
-</pre>
-<p>
-Après un émerveillement du télétravail dû à la crise covid, la réalité est revenue rapidement. Les projets avancent mieux lorsque l&#39;équipe travail dans un meme bureau.
-Bien sur le full-télétrail semble une utopie, mais la formule 3 jours de présentiel / semaine s&#39;ancre peu à peu.
-Une victoire a été obtenue, les équipes mixtes en offshore (Nottament en Inde) semble avoir montré leur nullité. Ouf !</p>
-</div>
-</div>
-<div id="outline-container-headline-7" class="outline-2">
-<h2 id="headline-7">
-7 L&#39;agile, c&#39;est du no-estimate !
-</h2>
-<div id="outline-text-headline-7" class="outline-text-2">
-<pre class="example">
-Un logiciel opérationnel est la principale mesure d’avancement.
-</pre>
-<p>
-Le point 7 est clairement un point éludé de nombreux projet AGILE actuellement : On y trouve davantage de discution autour des Story Points ou pire, des jours/hommes, que de démonstration de logiciel qui fonctionnent.
-Les manageurs et les comptables revent d&#39;avoir un voyant vert qui leur dit &#34;tout va bien&#34; et un &#34;voyant rouge&#34; qui leur dirait &#34;tout va mal&#34;.
-L&#39;agile rappel ce point essentiel, il faut aller sur le terrain, voir les projets &#34;<em>en vrais</em>&#34; pour savoir ce qui se passe. Les rapports excels de jours hommes traversses mal le mur de la réalité.</p>
-</div>
-</div>
-<div id="outline-container-headline-8" class="outline-2">
-<h2 id="headline-8">
-8 Un rythme serain
-</h2>
-<div id="outline-text-headline-8" class="outline-text-2">
-<pre class="example">
-Les processus Agiles encouragent un rythme de développement soutenable. Ensemble, les commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir indéfiniment un rythme constant.
-</pre>
-<p>
-Je crois qu&#39;il n&#39;y a moins de problème sur ces questions-là tellement le marché des dev est tendu. Forcer sur les heures de travail d&#39;une équipe tech c&#39;est clairement prendre le risque d&#39;en voir se barrer en cours de réalisation du projet.
-En revanchem je trouve des rythmes plus poussés chez les PO.</p>
-</div>
-</div>
-<div id="outline-container-headline-9" class="outline-2">
-<h2 id="headline-9">
-9 L&#39;excellence technique
-</h2>
-<div id="outline-text-headline-9" class="outline-text-2">
-<pre class="example">
-Une attention continue à l&#39;excellence technique et à une bonne conception renforce l’Agilité.
-</pre>
-<p>Rien de particulié à dire. A vue de nez, j&#39;ai l&#39;impression que 20% des projets autour de moi font des tests automatiques et du TDD. La qualité s&#39;observe et commence à se mesurer avec le taux de couverture de code et les analyse type sonar cube.
-Certe, c&#39;est loin d&#39;être parfait, mais j&#39;ai l&#39;impression que les choses bougent sur le sujet de la qualité. C&#39;est encouragant.</p>
-</div>
-</div>
-<div id="outline-container-headline-10" class="outline-2">
-<h2 id="headline-10">
-10 KISS (Keep It Stupid Simple)
-</h2>
-<div id="outline-text-headline-10" class="outline-text-2">
-<pre class="example">
-La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle.
-</pre>
-<p>Si je devais parler de ce qui complexifie les projets tech, je dirais qu&#39;elles sont principalement issues des pratiques de sécurité et d&#39;OPS imposé par les grosses boites.</p>
-</div>
-</div>
-<div id="outline-container-headline-11" class="outline-2">
-<h2 id="headline-11">
-11 Pour l&#39;autogestion ✊
-</h2>
-<div id="outline-text-headline-11" class="outline-text-2">
-<pre class="example">
-Les meilleures architectures, spécifications et conceptions émergent d&#39;équipes auto-organisées.
-</pre>
-<p>Je suis tellement fan de ce point-là ! Mais vraiment. C&#39;est ce qui fait toute la substance de l&#39;agilité.
-La présence d&#39;archis, de responsable sécurité et co sont pour moi des entraves a l&#39;automie. On commence a savoir que les components teams ne fonctionnent pas. Pourtant ca ne bouge pas et la bureaucratie technique reste une réalité très douloureuse.</p>
-<p>
-A vouloir materner les équipes, on les empeches d&#39;etre créatif et responsable.
-L&#39;auto-organisation est une vraie réponse aux questions de motivation. (Cf. point 5)</p>
-</div>
-</div>
-<div id="outline-container-headline-12" class="outline-2">
-<h2 id="headline-12">
-12 L&#39;amélioration continue
-</h2>
-<div id="outline-text-headline-12" class="outline-text-2">
-<pre class="example">
-À intervalles réguliers, l&#39;équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence.
-</pre>
-<p>C&#39;est tout le sens de la rétro. Ca commence à entrer, et quand c&#39;est fait régulièrement, on voit des miracles.
-Au-delà de l&#39;aspect amélioration continue, il y a quelque chose de psychanalique de groupe dans la rétro que j&#39;aime beaucoup.</p>
-<p>
-Voilà pour les 12 principes relus rapidement.
-En espérant que cela vous a interessé !</p>
-</div>
-</div>
 ]]></description>
 </item></channel>
 </rss>

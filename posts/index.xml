@@ -3,7 +3,24 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🤹 [02/10/2024] Manifeste Agile : Le postere</title>
+    <link>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</link>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</guid>
+    <description><![CDATA[<p>
+<em>Je met ici un poster en A3 du manifeste AGILE.</em></p>
+<p>
+<em>L&#39;idée est de pouvoir ré-afficher ses principes qui sont, selon moi, peu à peu oublié.</em></p>
+<p>
+<img src="./Manifeste-Agile-poster.png" alt="./Manifeste-Agile-poster.png" title="./Manifeste-Agile-poster.png" /></p>
+<p>
+La version PDF en A3 , plus facile à imprimé, est disponible <a href="Manifeste-Agile-poster.pdf">ici</a>.</p>
+<p>
+Poster en version 0.1</p>
+]]></description>
+</item><item>
     <title>🎮 [25/09/2024] Mes Derniers Jeux</title>
     <link>https://thomas-louvigne.github.io/2024/09/derniers-jeux-09-24/</link>
     <pubDate>Wed, 25 Sep 2024 00:00:00 &#43;0000</pubDate><author>
@@ -675,25 +692,6 @@ Je ne comprends pas comment et pourquoi la presse vidéo-ludique lui met des not
 PS : <em>Je finis cet article ayant lancé Cyber Punk 2077 : Phantom Liberty. J&#39;ai pris plus de plaisir en 3 heures à Night City que 15h dans les étoiles de Starfield…</em></p>
 </div>
 </div>
-]]></description>
-</item><item>
-    <title>🎮 [05/09/2023] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/2023/09/derniers-jeux-08-23/</link>
-    <pubDate>Tue, 05 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2023/09/derniers-jeux-08-23/</guid>
-    <description><![CDATA[<p>
-Les derniers jeux de l&#39;été en attendant les grands Starfield et Cyberpunk 2077 : Phantom Liberty…</p>
-<p>
-<em>À noter: tous ces jeux ont été joué sous Linux et/ou SteamDeck</em></p>
-<ul>
-<li><strong>Airborn Kingdom</strong> / Exploration, gestion et build de vaisseau. Une ambiance sympathique, un vrais plaisir de builder sont vaisseau, mais ca devient vite repetitif. 6/10</li>
-<li><strong>Inscryption</strong> / Jeu de carte avec enigmes. C&#39;est fin, malin et toujours surprenant et l&#39;ambiance est Incroyable. Surtout le jeux est en 3 grandes parties très surprenante. La fin est superbe, allez jusqu&#39;au bout !  9/10</li>
-<li><strong>Dave The Diver</strong> / Mix entre subnautica et Cook, Serve Delicious. Incroyable jeu de l&#39;été. Une sorte de fête forraine permanente, un style visuel unique, de l&#39;humour. L&#39;histoire est un peu trop légère pour toucher la perfection. 9/10</li>
-<li><strong>Coffee Talk</strong> / Du visual novel lent, mignon et profond. On s&#39;attache aux personnage malgré le niveau 0 du gameplay. J&#39;aime beaucoup. 8/10</li>
-<li><strong>Retrowave</strong> / Jeu de bagnole avec des synthé. Good feeling quoi qu&#39;assez pauvre niveau gameplay. 7/10</li>
-<li><strong>Mafia Définitive édition</strong> / Jeu de bandit à la 3e personne. C&#39;est du GTA au rabais, l&#39;histoire est moins prenante, c&#39;est des couloirs + shoot qui s&#39;enchaine. C&#39;est domage parce que c&#39;est beau et l&#39;ambiance est pas mauvaise. 6/10</li>
-</ul>
 ]]></description>
 </item></channel>
 </rss>
