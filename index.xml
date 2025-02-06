@@ -3,9 +3,107 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🎮 [28/01/2025] Mes Derniers Jeux</title>
+    <link>https://thomas-louvigne.github.io/2025/01/derniers-jeux-01-25/</link>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2025/01/derniers-jeux-01-25/</guid>
+    <description><![CDATA[<p>
+Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).</p>
+<table>
+<thead>
+<tr>
+<th>Titre</th>
+<th>Genre</th>
+<th>Critique</th>
+<th>Note</th>
+<th>Temps de jeu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Buckshot</td>
+<td>Artistique / Hasard</td>
+<td>Un mini jeu de 1h30 max. Tout est dans l&#39;ambiance. Faite le.</td>
+<td>8/10</td>
+<td>1h30</td>
+</tr>
+<tr>
+<td>Sonic Generation</td>
+<td>Plateforme / vitesse</td>
+<td>Bon, c&#39;est sonic, et j&#39;aime pas les Plateformers. Donc je vais pas être honnete. Ne prenez pas compte de ma note.</td>
+<td>6/10</td>
+<td>1h30</td>
+</tr>
+<tr>
+<td>Mind over Magic</td>
+<td>Gestion d&#39;école de magie</td>
+<td>C&#39;est pas mal, mais ca manque d&#39;un quequechose. Je pense que l&#39;ambiance et la DA sont un peu légère et le coté non-traduit n&#39;aide pas à la confusion. J&#39;avais préféré spellcaster university dans le genre.</td>
+<td>7/10</td>
+<td>9h</td>
+</tr>
+<tr>
+<td>Sly the Spire</td>
+<td>Roguelite / Deck builder</td>
+<td>Sympa, mais un peu sombre.</td>
+<td>6/10</td>
+<td>14h</td>
+</tr>
+<tr>
+<td>Wildfrost</td>
+<td>Roguelite / Deck builder</td>
+<td>Sympa et coloré. Je le préfère à Sly the Spire.</td>
+<td>7/10</td>
+<td>14h</td>
+</tr>
+<tr>
+<td>Digeseum</td>
+<td>Click / quasi-iddle game</td>
+<td>Un iddle game un peu concon, mais amusant. Genre de jeux fait pour jouer en arrière plan lors d&#39;une réu teams très chiante.</td>
+<td>7/10</td>
+<td>2h</td>
+</tr>
+<tr>
+<td>Goat Simulator 3</td>
+<td>Plateformers</td>
+<td>Bon, j&#39;aime pas les plateformers. J&#39;ai tenté d&#39;y jouer quand meme avec Madame, mais on s&#39;est fait un peu chier. En vrais y a du gros potentiel pour le multi je pense.</td>
+<td>7/10</td>
+<td>1h</td>
+</tr>
+<tr>
+<td>WEBFISHING</td>
+<td>Jeu de peche chill</td>
+<td>Un très bon jeu indé de détente. Avec un tchat. Le tout dans une ambiance lofi/chill. Si le jeu sort des updates régulièrement, ca peut devenir une masterclass.</td>
+<td>8/10</td>
+<td>1h30</td>
+</tr>
+<tr>
+<td>Warhammer 40 000 - Rogue Trader</td>
+<td>CRPG</td>
+<td>J&#39; en ai déjà parlé dans mon <a href="https://thomas-louvigne.github.io/2024/09/derniers-jeux-09-24/">dernier article</a>. Mais je baisses sa note parce que le jeu est beaucoup trop long. L&#39;histoire n&#39;est pas assez captivante pour justifier cette durée de vie. Je me suis vraiment forcé à finir le jeu.</td>
+<td>7/10</td>
+<td>131</td>
+</tr>
+<tr>
+<td>Unmetal</td>
+<td>Infiltration en 2D</td>
+<td>C&#39;est un jeu-parodie de métal gear solide. C&#39;est plutôt bien écrit pour l&#39;instant. Je suis assez content.</td>
+<td>7/10</td>
+<td>3h</td>
+</tr>
+<tr>
+<td>Sea of stars</td>
+<td>JRPG en 2D</td>
+<td>C&#39;est une des plus beau jeux en pixel art que j&#39;ai vu. J&#39;y joue avec madame. Pour l&#39;instant l&#39;histoire est pas incroyable et le système de combat ne me semble pas dingue non plus. Mais c&#39;est tellement beau que j&#39;ai envie de continuer.</td>
+<td>7/10</td>
+<td>3h</td>
+</tr>
+</tbody>
+</table>]]></description>
+</item><item>
     <title>🤹 [02/10/2024] Manifeste Agile : Le postere</title>
     <link>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</link>
     <pubDate>Wed, 02 Oct 2024 00:00:00 &#43;0000</pubDate><author>
@@ -772,11 +870,8 @@ C&#39;est un bouquain théorique qui traite des différents types d&#39;équipe 
 Je vous fais ici un résumé que vous pouvez trouver dans <a href="https://www.youtube.com/watch?v=Qzd2NOBNfQs">cette vidéo</a> et qui corresspond à pas mal de truc que j&#39;ai lu.</p>
 <p>
 
-
-    
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Qzd2NOBNfQs?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Qzd2NOBNfQs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 </p>
 <p>
@@ -1832,21 +1927,6 @@ Et y a un <a href="https://discord.gg/2QUHPAmU">discord</a> aussi très sympatiq
 <li><strong>Head Lander</strong> / : Aucun intéret : 3/10</li>
 <li><strong>Tetris Effect</strong> / Tetris Like : Faible : 4/10</li>
 <li><strong>Kingdome NewLand</strong> : J&#39;ai pas compris : 3/10</li>
-</ul>
-]]></description>
-</item><item>
-    <title>🎮 [28/01/2022] Mes derniers jeux</title>
-    <link>https://thomas-louvigne.github.io/2022/01/derniers-jeux-01-22/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2022/01/derniers-jeux-01-22/</guid>
-    <description><![CDATA[<ul>
-<li><strong>Célest</strong> / Plateformer : un jeu de plateforme Hardcore. J&#39;ai beau pas aimé les plateformers. Là c&#39;est superbe. 8/10</li>
-<li><strong>Factorio</strong> / Gestion d&#39;usine : Bien que moche, le jeu est sympas. Ultra adictif. 8/10</li>
-<li><strong>Vampyr</strong> / RPG : Sympas. Mais un peu chiant: L&#39;ambiance est très bonne. mais les aller / retour dans la villes sont vite chiant. Le personnage principale manque de charisme 6.5/10</li>
-<li><strong>It take two</strong> / Plateformer : Un Plateformers en coop. A jouer en couple. C&#39;est pas trop mal. 7/10</li>
-<li><strong>Road Redmption</strong> / Jeu de moto : Assez chiant et peu interessant . 5/10</li>
-<li><strong>Len&#39;s island</strong> / diablo like : Ok, il est pas finit. Mais l&#39;achetez pas, c&#39;est vraiment nul. Et je vois pas comment il pourrait s&#39;améliorer. 3/10</li>
 </ul>
 ]]></description>
 </item></channel>

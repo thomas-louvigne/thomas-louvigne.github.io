@@ -2,40 +2,41 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/agile/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/2025/01/derniers-jeux-01-25/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/agile/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/pages/agile-tools/</loc><lastmod>2024-10-02T15:19:59&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/linux/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/list/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/manifeste/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/manifeste/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/orthographe/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/pages/orthographe/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2024-10-02T15:19:59&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/postere/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/postere/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/software/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/pages/software-list/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/tags/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/tools/</loc><lastmod>2024-10-02T15:19:59&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/09/derniers-jeux-09-24/</loc><lastmod>2024-10-02T09:13:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2024-10-02T09:13:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2024-10-02T09:13:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</loc><lastmod>2024-07-11T17:57:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/07/a-quoi-servent-les-certifs/</loc><lastmod>2024-07-11T17:57:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/05/rupture-agile/</loc><lastmod>2024-06-03T18:53:18&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/02/derniers-jeux-02-24/</loc><lastmod>2024-10-02T09:13:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/2020/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/certification/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/cheat/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/psm/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/pspo/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/scrum/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/sheet/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/2024/01/2020-psm-scrum-certification-cheat-sheet/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/2020/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/certification/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/cheat/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/psm/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/pspo/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/scrum/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/sheet/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/2024/01/2020-psm-scrum-certification-cheat-sheet/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/12/je-joue-a-against-the-storm/</loc><lastmod>2024-02-15T14:34:13&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/12/meetup-emacs-5-12-2023/</loc><lastmod>2023-12-18T11:17:03&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/emacs/</loc><lastmod>2023-12-18T11:17:03&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -44,10 +45,10 @@
             <loc>https://thomas-louvigne.github.io/categories/technique/</loc><lastmod>2023-11-04T11:09:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/09/je-joue-a-starfield/</loc><lastmod>2024-02-14T10:59:48&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/09/derniers-jeux-08-23/</loc><lastmod>2023-09-03T10:40:10&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/contact/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/contact/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/louvigne/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/thomas/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/contact/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/contact/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/louvigne/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/thomas/</loc><lastmod>2025-02-06T12:00:33&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/06/derniers-jeux-06-23/</loc><lastmod>2023-08-09T14:35:37&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/06/resume_team_topologies/</loc><lastmod>2023-08-03T17:04:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2023/05/strategie-de-gestion-des-conflits-dans-les-entreprises/</loc><lastmod>2023-05-24T17:49:14&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

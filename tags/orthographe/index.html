@@ -29,43 +29,42 @@
 <link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"></head>
 
 
-<body data-instant-intensity="viewport" ><script type="text/javascript">
-        function setTheme(theme) {
-          document.body.setAttribute('theme', theme); 
-          document.documentElement.className = theme;
-          document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');
-          if (theme === 'light') {
-            document.documentElement.classList.remove('tw-dark')
-          } else {
-            document.documentElement.classList.add('tw-dark')
-          }
-          window.theme = theme;   
-          window.isDark = window.theme !== 'light' 
-        }
-        function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
-        function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
-        if (window.localStorage && localStorage.getItem('theme')) {
-            let theme = localStorage.getItem('theme');
-            if (theme === 'light' || theme === 'dark') {
-            setTheme(theme);
+<body data-instant-intensity="viewport"><script type="text/javascript">
+    function setTheme(theme) {
+      document.body.setAttribute('theme', theme); 
+      document.documentElement.className = theme;
+      document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');
+      if (theme === 'light') {
+        document.documentElement.classList.remove('tw-dark')
+      } else {
+        document.documentElement.classList.add('tw-dark')
+      }
+      window.theme = theme;   
+      window.isDark = window.theme !== 'light' 
+    }
+    function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
+    function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
+    if (window.localStorage && localStorage.getItem('theme')) {
+        let theme = localStorage.getItem('theme');
+        if (theme === 'light' || theme === 'dark') {
+        setTheme(theme);
+        } else {
+            if ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                setTheme('dark');
             } else {
-                if ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-                    setTheme('dark');
-                } else {
-                    setTheme('light');
-                }
+                setTheme('light');
             }
-         } else { 
-            if ('auto' === 'light' || 'auto' === 'dark') 
-                setTheme('auto'), saveTheme('auto'); 
-            else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
         }
-        let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
-        getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
-        window.switchThemeEventSet = new Set()
-    </script>
-    <div id="back-to-top"></div>
-    <div id="mask"></div><div class="wrapper"><header class="desktop print:!tw-hidden" id="header-desktop">
+      } else { 
+        if ('auto' === 'light' || 'auto' === 'dark') 
+            setTheme('auto'), saveTheme('auto'); 
+        else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
+    }
+    let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
+    getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
+    window.switchThemeEventSet = new Set()
+</script><div id="back-to-top"></div>
+    <div id="mask"></div><header class="desktop print:!tw-hidden" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
             <a href="/" title="Le blog de Thomas Louvigné"><span id="desktop-header-typeit" class="typeit"></span></a>
@@ -103,18 +102,17 @@
 </div>
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
-</div><main class="main">
-            <div class="container"><div class="page archive"><h2 class="single-title"><svg class="icon"
+</div><main class="tw-mx-4"><div class="page archive"><h2 class="single-title"><svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>&nbsp;Orthographe</h2><h3 class="group-title">2024</h3><article class="archive-item">
                             <a href="/pages/orthographe/" class="archive-item-link">Orthographe de malheure !</a>
                             <span class="archive-item-date">10-02</span>
-                        </article></div></div>
-        </main></div>
-
-    <div id="fixed-buttons" class="print:!tw-hidden"><a href="#back-to-top" id="back-to-top-button" class="fixed-button tw-transition-opacity tw-opacity-0" title="Retour en haut">
-            <svg class="icon"
+                        </article></div></main><div class="print:!tw-hidden tw-flex tw-flex-col tw-fixed tw-right-4 tw-bottom-4 tw-gap-2"><a href="#back-to-top" id="back-to-top-button" class="tw-transition-opacity tw-opacity-0 tw-block tw-bg-bgColor-secondary tw-rounded-full" style="padding: 0.6rem; line-height: 1.3rem; font-size: 1rem;" title="Retour en haut">
+      <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
-        </a></div>
+  </a>
+
+  </div>
+
 <script>window.config={"data":{"desktop-header-typeit":"Thomas Louvigné: Tech, Agilité et Jeux-vidéo","mobile-header-typeit":"Thomas Louvigné: Tech, Agilité et Jeux-vidéo"},"twemoji":true,"typeit":{"cursorChar":null,"cursorSpeed":null,"data":{"desktop-header-typeit":["desktop-header-typeit"],"mobile-header-typeit":["mobile-header-typeit"]},"duration":null,"speed":null}};</script><script
     src="/lib/twemoji/twemoji.min.js"
     
@@ -134,18 +132,17 @@
       defer
     
   ></script>
-    
-    <script type="speculationrules">
-        {
-          "prerender": [
-            {
-              "where": { "href_matches": "/*" },
-              "eagerness": "moderate"
-            }
-          ]
-        }
-    </script>
-      
+
+<script type="speculationrules">
+  {
+    "prerender": [
+      {
+        "where": { "href_matches": "/*" },
+        "eagerness": "moderate"
+      }
+    ]
+  }
+</script>
 </body>
 
 </html>
