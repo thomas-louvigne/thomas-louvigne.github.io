@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/zobi8225/Documents/repo/blog-louvigne",
+	"sourceRoot": "/home/tlu/Documents/repo/blog-louvigne",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",

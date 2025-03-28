@@ -3,7 +3,22 @@
         <title>Toutes les Posts - Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🧛 [28/03/2025] Refcard équipe Agile</title>
+    <link>https://thomas-louvigne.github.io/2025/03/equipe-agile-vampire/</link>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2025/03/equipe-agile-vampire/</guid>
+    <description><![CDATA[<p>
+J&#39;ai écrit pour le boulot une &#34; <em>refcard</em> &#34;, une sorte de postère-publicité qui permet de parler d&#39;un sujet rapidement.</p>
+<p>
+Ca parle de la notion d&#39;équipe agile en carricaturant les mauvaises et les bonnes équipes.</p>
+<p>
+C&#39;est téléchargable sur le site de la boite : <a href="https://publication.octo.com/fr/telechargement-refcard-agile">https://publication.octo.com/fr/telechargement-refcard-agile</a></p>
+<p>
+Et aussi téléchargable dans la partie <a href="/pages/agile-tools">Agile-Tools</a> du site (si vous avez la flemme de laisser votre adresse email !).</p>
+]]></description>
+</item><item>
     <title>🎮 [28/01/2025] Mes Derniers Jeux</title>
     <link>https://thomas-louvigne.github.io/2025/01/derniers-jeux-01-25/</link>
     <pubDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</pubDate><author>
@@ -691,19 +706,6 @@ Sur le fond, on a discuté de <a href="https://www.orgroam.com/">org-roam</a>. L
 Bref, au delà du fond, j&#39;ai trouvé ce meetup simplement sympa.</p>
 <p>
 Pour avoir les infos, sur les prochains meetup parisien, ca ce passe <a href="https://emacs-doctor.com/">ici</a>.</p>
-]]></description>
-</item><item>
-    <title>🐎 [04/11/2023] De purcell à bedrock : Je change de starter-kits</title>
-    <link>https://thomas-louvigne.github.io/2023/11/emacs-bedrock/</link>
-    <pubDate>Sat, 04 Nov 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2023/11/emacs-bedrock/</guid>
-    <description><![CDATA[<p>
-Bon, j&#39;avais dis dans un précédent article que <a href="purcell-startup-kit-emacs.html">Purcell était un excellent starter kit</a> pour emacs, je continue à le penser, mais j&#39;ai eu quelques bugs irritant que je n&#39;ai pas réussis a résoudre.</p>
-<p>
-Assez fatigué de chercher partout sur le net comment résoudre ces problèmes, je suis passé à <a href="https://git.sr.ht/~ashton314/emacs-bedrock">emacs-bedrock</a>. Un starter-kit emacs encore plus léger (!). On est quasiment sur du vanilla emacs là.</p>
-<p>
-Il à l&#39;avantage d&#39;être très rapide et plutôt modulable. Y a rien de sensationnel, je dirais même que c&#39;est plutôt décevant tellement il est vide. Mais je crois que c&#39;est ce que j&#39;aime chez lui !</p>
 ]]></description>
 </item></channel>
 </rss>
