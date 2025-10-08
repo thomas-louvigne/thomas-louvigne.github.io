@@ -2,28 +2,29 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://thomas-louvigne.github.io/categories/agile/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/2025/03/equipe-agile-vampire/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/2025/10/derniers-jeux-08-10-2025/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/posts/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/</loc><lastmod>2025-10-08T09:51:23&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/categories/agile/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/agile/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/2025/03/equipe-agile-vampire/</loc><lastmod>2025-03-28T17:03:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2025/01/derniers-jeux-01-25/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/categories/jeux-video/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/jeux-vid%C3%A9o/</loc><lastmod>2025-01-28T15:53:16&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/agile-tools/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/agile-tools/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/linux/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/list/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/manifeste/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/orthographe/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/pages/orthographe/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/pages/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/postere/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/software/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/pages/software-list/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/tags/tags/</loc><lastmod>2024-10-02T09:37:55&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thomas-louvigne.github.io/tags/tools/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thomas-louvigne.github.io/tags/tools/</loc><lastmod>2025-03-28T16:58:20&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/10/manifeste-agile-poster/</loc><lastmod>2024-11-20T11:51:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/2024/09/derniers-jeux-09-24/</loc><lastmod>2024-10-02T09:13:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://thomas-louvigne.github.io/categories/agilit%C3%A9/</loc><lastmod>2024-07-11T17:57:04&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
