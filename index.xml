@@ -12,7 +12,7 @@
         <name>Thomas Louvigné</name>
     </author><guid>https://thomas-louvigne.github.io/2026/04/conf-estimation-a-l-echelle-mytholand/</guid>
     <description><![CDATA[<p>
-La vidéo de ma prestation à la duckconf.</p>
+La vidéo de ma prestation à la <a href="https://www.laduckconf.com/">duckconf</a>.</p>
 <p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/4ogAuN12n7o?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
