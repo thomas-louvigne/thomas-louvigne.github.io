@@ -6,6 +6,120 @@
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🎮 [08/04/2026] Mes Derniers Jeux</title>
+    <link>https://thomas-louvigne.github.io/2026/04/derniers-jeux-04-26/</link>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2026/04/derniers-jeux-04-26/</guid>
+    <description><![CDATA[<p>
+Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck un PC qui maintenant est plutôt récent.</p>
+<p>
+La colonne &#34;<em>avancement</em>&#34; vous met le nombre d&#39;heure passé sur le jeu.</p>
+<table>
+<thead>
+<tr>
+<th>Titre</th>
+<th>Genre</th>
+<th>Critique</th>
+<th>Avancement</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Casset Beast</td>
+<td>Pokemon Like</td>
+<td>Un très grand kiff. On retombe en enfance.</td>
+<td>29h</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>The Wandering Village</td>
+<td>Village Builder</td>
+<td>C&#39;est beau, simple, on s&#39;attache à la tortue</td>
+<td>26</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Monster Train 2</td>
+<td>Roguelike avec carte</td>
+<td>Ça marche, mais ça manque d&#39;une histoire et d&#39;une âme</td>
+<td>7h</td>
+<td>5/10</td>
+</tr>
+<tr>
+<td>Absolum</td>
+<td>Beat them up&#39; coop</td>
+<td>Bonne baston. Joué avec madame qui approuve</td>
+<td>6h</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Bomb Rush Cyberpfunk</td>
+<td>Jeu de skate &amp; Tag</td>
+<td>Un clone de jet set radio en mieux</td>
+<td>5h</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Balatro</td>
+<td>Poker/Roguelite</td>
+<td>Très très bon. Adictif et malin</td>
+<td></td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Cyber Knights: Flashpoint</td>
+<td>XCome like</td>
+<td>Générique, sans âme</td>
+<td>2h</td>
+<td>5/10</td>
+</tr>
+<tr>
+<td>Wanderstop</td>
+<td>Gestion de magasin de thée</td>
+<td>C&#39;est censé parlé de la dé la dépression, mais c&#39;est chiant</td>
+<td>3.5h</td>
+<td>4/10</td>
+</tr>
+<tr>
+<td>The Outer World</td>
+<td>First Person RPG</td>
+<td>L&#39;univers marche pas bien je trouves. Mais c&#39;est pas mal.</td>
+<td>5.5h</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Arc Raider</td>
+<td>Loot en coop</td>
+<td>Mouaiii</td>
+<td>15h</td>
+<td>7/10</td>
+</tr>
+<tr>
+<td>Thirsty Suitors</td>
+<td>JRPG narratif</td>
+<td>Très woke et très sympa. Le système de combat un peu long</td>
+<td>3h</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Orc Must Die 3</td>
+<td>Tower deffence</td>
+<td>Sympa</td>
+<td>5h</td>
+<td>7/10</td>
+</tr>
+<tr>
+<td>Cobalt Core</td>
+<td>Roguelike avec carte</td>
+<td>Un très grand oui ! C&#39;est malin, ca marche et la DA est top !</td>
+<td>35h</td>
+<td>9/10</td>
+</tr>
+</tbody>
+</table>]]></description>
+</item><item>
     <title>🤹  [08/04/2026] Estimation des projets à l&#39;échelle : Bienvenue à Mytholand !</title>
     <link>https://thomas-louvigne.github.io/2026/04/conf-estimation-a-l-echelle-mytholand/</link>
     <pubDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</pubDate><author>
@@ -1978,48 +2092,6 @@ J&#39;aime pas :
 <li>LGG C-[arrow] qui switch de buffer au lieu de passer de mot en mot (du coup, faut apprandre à utiliser M-f et M-b)</li>
 </ul>
 <p>Pour ceux que ca intéresse, y a une liste de starterkit d&#39;emacs dispo <a href="https://www.emacswiki.org/emacs/StarterKits">ici</a> :</p>
-</div>
-</div>
-]]></description>
-</item><item>
-    <title>🤹 [07/12/2022] Convication agiliste</title>
-    <link>https://thomas-louvigne.github.io/2022/12/convictions-agiliste/</link>
-    <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2022/12/convictions-agiliste/</guid>
-    <description><![CDATA[
-<ul>
-<li>Le middle management est une plaie. Les équipes SCRUM se suffisent à elle même.</li>
-<li>Je sais que c&#39;est extrèment violent de dire cela et que je n&#39;ai rien d&#39;autres à proposer aux managers.</li>
-<li>Partout où je vois des managers dans des projets agiles, mon petit coeur d&#39;agiliste se fend, et les projets ralentissent…</li>
-<li>Je ne supporte plus de voir des managers qui passent leur vie à regarder des points d&#39;avancement dans des excels.</li>
-</ul>
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-Pour rappel :
-</h2>
-<div id="outline-text-headline-1" class="outline-text-2">
-<ul>
-<li>
-<p>Principe 7 du manifeste Aagile :</p>
-<pre class="example">
-Un logiciel opérationnel est la principale mesure d’avancement.
-</pre>
-</li>
-</ul>
-<p>Les points de complexité / les Jours-Hommes / la suite de fibonacci / les OKR… C&#39;est pas vraiment dans la philosophie Agile.
-A l&#39;inverse, les meillieurs équipes que j&#39;ai vu pratiquait le no-estimate.</p>
-<ul>
-<li>
-<p>Principe 11 du manifeste Agile :</p>
-<pre class="example">
-Les meilleures architectures, spécifications et conceptions émergent d&#39;équipes autoorganisées.
-</pre>
-<p>
-Managers de toutes les grosses boites, lisez le manifeste AGILE, laissez les techs décider !
-Et venez au démo pour voir si les choses fonctionnent ou pas.</p>
-</li>
-</ul>
 </div>
 </div>
 ]]></description>

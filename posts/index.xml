@@ -4,6 +4,120 @@
         <link>https://thomas-louvigne.github.io/posts/</link>
         <description>Toutes les Posts | Le blog de Thomas Louvigné</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://thomas-louvigne.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>🎮 [08/04/2026] Mes Derniers Jeux</title>
+    <link>https://thomas-louvigne.github.io/2026/04/derniers-jeux-04-26/</link>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2026/04/derniers-jeux-04-26/</guid>
+    <description><![CDATA[<p>
+Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck un PC qui maintenant est plutôt récent.</p>
+<p>
+La colonne &#34;<em>avancement</em>&#34; vous met le nombre d&#39;heure passé sur le jeu.</p>
+<table>
+<thead>
+<tr>
+<th>Titre</th>
+<th>Genre</th>
+<th>Critique</th>
+<th>Avancement</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Casset Beast</td>
+<td>Pokemon Like</td>
+<td>Un très grand kiff. On retombe en enfance.</td>
+<td>29h</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>The Wandering Village</td>
+<td>Village Builder</td>
+<td>C&#39;est beau, simple, on s&#39;attache à la tortue</td>
+<td>26</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Monster Train 2</td>
+<td>Roguelike avec carte</td>
+<td>Ça marche, mais ça manque d&#39;une histoire et d&#39;une âme</td>
+<td>7h</td>
+<td>5/10</td>
+</tr>
+<tr>
+<td>Absolum</td>
+<td>Beat them up&#39; coop</td>
+<td>Bonne baston. Joué avec madame qui approuve</td>
+<td>6h</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Bomb Rush Cyberpfunk</td>
+<td>Jeu de skate &amp; Tag</td>
+<td>Un clone de jet set radio en mieux</td>
+<td>5h</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Balatro</td>
+<td>Poker/Roguelite</td>
+<td>Très très bon. Adictif et malin</td>
+<td></td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Cyber Knights: Flashpoint</td>
+<td>XCome like</td>
+<td>Générique, sans âme</td>
+<td>2h</td>
+<td>5/10</td>
+</tr>
+<tr>
+<td>Wanderstop</td>
+<td>Gestion de magasin de thée</td>
+<td>C&#39;est censé parlé de la dé la dépression, mais c&#39;est chiant</td>
+<td>3.5h</td>
+<td>4/10</td>
+</tr>
+<tr>
+<td>The Outer World</td>
+<td>First Person RPG</td>
+<td>L&#39;univers marche pas bien je trouves. Mais c&#39;est pas mal.</td>
+<td>5.5h</td>
+<td>6/10</td>
+</tr>
+<tr>
+<td>Arc Raider</td>
+<td>Loot en coop</td>
+<td>Mouaiii</td>
+<td>15h</td>
+<td>7/10</td>
+</tr>
+<tr>
+<td>Thirsty Suitors</td>
+<td>JRPG narratif</td>
+<td>Très woke et très sympa. Le système de combat un peu long</td>
+<td>3h</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>Orc Must Die 3</td>
+<td>Tower deffence</td>
+<td>Sympa</td>
+<td>5h</td>
+<td>7/10</td>
+</tr>
+<tr>
+<td>Cobalt Core</td>
+<td>Roguelike avec carte</td>
+<td>Un très grand oui ! C&#39;est malin, ca marche et la DA est top !</td>
+<td>35h</td>
+<td>9/10</td>
+</tr>
+</tbody>
+</table>]]></description>
+</item><item>
     <title>🤹  [08/04/2026] Estimation des projets à l&#39;échelle : Bienvenue à Mytholand !</title>
     <link>https://thomas-louvigne.github.io/2026/04/conf-estimation-a-l-echelle-mytholand/</link>
     <pubDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</pubDate><author>
@@ -685,85 +799,5 @@ Tu sais quoi ? Quand je les eu au bout du fil, je n&#39;entendais que ta voix. T
 <p>
 Voilà Agile, pour nous deux, je crois c&#39;est mieux que je parte.</p>
 ]]></description>
-</item><item>
-    <title>🎮 [11/02/2024] Mes Derniers Jeux</title>
-    <link>https://thomas-louvigne.github.io/2024/02/derniers-jeux-02-24/</link>
-    <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2024/02/derniers-jeux-02-24/</guid>
-    <description><![CDATA[<p>
-Rappel, je joues uniquement sous Linux, parfois avec mon steamdeck souvent sur mon PC qui date de 5 ou 6 ans (GTX 1060).</p>
-<table>
-<thead>
-<tr>
-<th>Titre</th>
-<th>Genre</th>
-<th>Critique</th>
-<th>Note</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Celeste</td>
-<td>Plateformer difficile</td>
-<td>Je n&#39;aimes pas les plateformers sauf Celeste. C&#39;est beau, intelligent, ça parle de la dépression et de l&#39;effort. La musique est magnifique.</td>
-<td>10/10</td>
-</tr>
-<tr>
-<td>Baldur&#39;s Gate 3</td>
-<td>RPG</td>
-<td>C&#39;est bien écrit, c&#39;est malin, c&#39;est propre. Ça mérite totalement son titre de GOTY 2023. Je trouve cela juste trop long.</td>
-<td>9/10</td>
-</tr>
-<tr>
-<td>The Red String Club</td>
-<td>Point &amp; click du futur</td>
-<td>J&#39;y ai pas assez joué pour le noter correctement, mais le début avait l&#39;air prometteur.</td>
-<td></td>
-</tr>
-<tr>
-<td>Against The Storm</td>
-<td>City Builder</td>
-<td>C&#39;est excellent, <a href="../../posts/je-joue-a-against-the-storm/">j&#39;en parle ici</a>.</td>
-<td>9/10</td>
-</tr>
-<tr>
-<td>Lethal Company</td>
-<td>Horreur en Coop</td>
-<td>Y a pleins de très bonne idées. Sympa mais pas exceptionnelle. Surtout très moche.</td>
-<td>6/10</td>
-</tr>
-<tr>
-<td>Kingdoms Rebord</td>
-<td>City Builder médiéval</td>
-<td>Cool, mais sans plus. Ça manque de profondeur et d&#39;originalité.</td>
-<td>6/10</td>
-</tr>
-<tr>
-<td>Citzen Sleeper</td>
-<td>Roman Graphique &amp; LRPG</td>
-<td>J&#39;y ai joués que quelques heures. L&#39;histoire est simple et belle. Le coté Light RPG fonctionne étonnamment bien.</td>
-<td>8/10</td>
-</tr>
-<tr>
-<td>Hi-Fi Rush</td>
-<td>Beat Them All Rythmé</td>
-<td>Un gamin insupportable doit taper des robots dans une ambiance cartoonesque. Y a des phases de plateforme chiante. C&#39;est l&#39;ennuie.</td>
-<td>4/10</td>
-</tr>
-<tr>
-<td>CP2077 - Phantom Liberty</td>
-<td>FPS / RPG</td>
-<td>Mon jeux préféré a sortie un DLC très réussit.</td>
-<td>9/10</td>
-</tr>
-<tr>
-<td>Starfield</td>
-<td>RPG</td>
-<td>Vraiment décevant a tout point de vue. J&#39;en parle <a href="../je-joue-a-starfield">ici</a> .</td>
-<td>4/10</td>
-</tr>
-</tbody>
-</table>]]></description>
 </item></channel>
 </rss>
