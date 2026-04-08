@@ -3,9 +3,23 @@
         <title>Le blog de Thomas Louvigné</title>
         <link>https://thomas-louvigne.github.io/</link>
         <description>Jeux-Vidéo, Tech, Agilité et simplicité de vie.</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://thomas-louvigne.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>🤹  [08/04/2026] Estimation des projets à l&#39;échelle : Bienvenue à Mytholand !</title>
+    <link>https://thomas-louvigne.github.io/2026/04/conf-estimation-a-l-echelle-mytholand/</link>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2026/04/conf-estimation-a-l-echelle-mytholand/</guid>
+    <description><![CDATA[<p>
+La vidéo de ma prestation à la duckconf.</p>
+<p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/4ogAuN12n7o?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+</p>
+]]></description>
+</item><item>
     <title>🎮 [08/10/2025] Mes Derniers Jeux : Expedition 33, Planet Crafters, FF7 Rebirth, Moonstone Island</title>
     <link>https://thomas-louvigne.github.io/2025/10/derniers-jeux-08-10-2025/</link>
     <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -126,6 +140,17 @@ Je ne met ici des liens qu&#39;aux jeux qui en vallent la peine.</p>
 </tr>
 </tbody>
 </table>]]></description>
+</item><item>
+    <title>🤹 [28/07/2025] Hiérarchie des estimations, malaise à l&#39;échelle !</title>
+    <link>https://thomas-louvigne.github.io/2025/07/estimation-a-l-echelle/</link>
+    <pubDate>Mon, 28 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Thomas Louvigné</name>
+    </author><guid>https://thomas-louvigne.github.io/2025/07/estimation-a-l-echelle/</guid>
+    <description><![CDATA[<p>
+J&#39;ai écrit pour le boulot une article qui clash <del>beaucoup</del> un peu les estimations dans les projets agile.</p>
+<p>
+C&#39;est disponibile <a href="https://blog.octo.com/hierarchie-des-estimations-malaise-a-l&#39;echelle">ici</a>: <a href="https://blog.octo.com/hierarchie-des-estimations-malaise-a-l&#39;echelle">https://blog.octo.com/hierarchie-des-estimations-malaise-a-l&#39;echelle</a></p>
+]]></description>
 </item><item>
     <title>🤹 [28/03/2025] Refcard équipe Agile 🧛</title>
     <link>https://thomas-louvigne.github.io/2025/03/equipe-agile-vampire/</link>
@@ -1997,37 +2022,6 @@ Et venez au démo pour voir si les choses fonctionnent ou pas.</p>
 </ul>
 </div>
 </div>
-]]></description>
-</item><item>
-    <title>🗒 [30/09/2022] S&#39;organiser dans sa vie perso :</title>
-    <link>https://thomas-louvigne.github.io/2022/09/s-organiser-vie-perso/</link>
-    <pubDate>Fri, 30 Sep 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2022/09/s-organiser-vie-perso/</guid>
-    <description><![CDATA[<p>
-J&#39;ai testé pour vous :</p>
-<ul>
-<li><a href="https://habitica.com/">Habitica</a> : C&#39;est bien pour se motiver, nottament pour avoir de bonne habitude.</li>
-<li>Org-mode d&#39;emacs : C&#39;est très bien. J&#39;y revient souvent. Mais aucune application est digne de ce nom sur téléphonne portable.</li>
-<li>Trello : J&#39;aime. Super bien pour des petit projets d&#39;équipe. Pour la vie perso, org-mode me semble plus utile.</li>
-<li>Le kanban-post-it-sur-un-mur-de-l&#39;appart : C&#39;est clair, ultra visible, ca pousse a finir ce qu&#39;on a commencé. Par contre, c&#39;est un peu chiant pour notfier les habituedes à faire régulièrement. Autre problème, dès que tu sors de chez toi, tu as plus ta liste…</li>
-</ul>
-]]></description>
-</item><item>
-    <title>🐧 [31/07/2022] GoXLR sur linux</title>
-    <link>https://thomas-louvigne.github.io/2022/07/goxlr-linux/</link>
-    <pubDate>Sun, 31 Jul 2022 00:00:00 &#43;0000</pubDate><author>
-        <name>Thomas Louvigné</name>
-    </author><guid>https://thomas-louvigne.github.io/2022/07/goxlr-linux/</guid>
-    <description><![CDATA[<p>
-Voilà, j&#39;ai eu une carte son <strong>GoXLR</strong> à noël. Elle était pas compatible linux 😞.
-Et puis la communauté a fait QQCH de magique 🙌.</p>
-<p>
-Maintenant ca marche nickel grace à 2 developpeurs (Mais surtout grace à <a href="https://github.com/FrostyCoolSlug">FrostyCoolSlug</a>) qui à fait un taff incroyable.</p>
-<p>
-Le lien du projet est <a href="https://github.com/GoXLR-on-Linux/goxlr-utility">là</a> . J&#39;ai meme 2 PR sur le projet qui ont été accepté 💪.</p>
-<p>
-Et y a un <a href="https://discord.gg/2QUHPAmU">discord</a> aussi très sympatique.</p>
 ]]></description>
 </item></channel>
 </rss>
